@@ -1,4 +1,4 @@
-name: Update awesome list
+name: Update some list
 
 on:
   push:
@@ -6,17 +6,20 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    # Execute every week at 0:00 CST (UTC+8), which is 16:00 UTC on the previous day
+    - cron: '0 16 * * 0' # This runs at 16:00 UTC on Saturday, which is 0:00 CST on Sunday
+  watch:
+    types: [started]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Awesome generator
+      - name: some generator
         uses: simonecorsi/mawesome@v2
         with:
-          api-token: ${{ secrets.MY_ACCESS_TOKEN }}
-          github-name: "github-actions[bot]"
-          github-email: "github-actions[bot]@users.noreply.github.com"
+          api-token: ${{ secrets.PERSONAL_TOKEN }}
+          github-email: ${{ secrets.USER_EMAIL }}
           template-path: "template/README.ejs"
+          github-name: ${{ github.repository_owner }}
