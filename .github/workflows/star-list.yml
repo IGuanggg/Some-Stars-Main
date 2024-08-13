@@ -12,11 +12,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Awesome generator
         uses: simonecorsi/mawesome@v2
         with:
-          api-token: ${{ secrets.ACCESS_TOKEN }}
+          api-token: ${{ secrets.MY_ACCESS_TOKEN }}
           github-name: "github-actions[bot]"
           github-email: "github-actions[bot]@users.noreply.github.com"
           template-path: "template/README.ejs"
