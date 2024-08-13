@@ -1,10 +1,10 @@
 <div align="center">
 
-# awesome-stars-eryajf
+# IGuanggg/Some-Stars-Main
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4?logo=github)](https://github.com/IGuanggg)
-[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.comIGuanggg/Some-Stars-Main#readme)
+[![Auth](https://img.shields.io/badge/Auth-IGuanggg-ff69b5?logo=github)](https://github.com/IGuanggg)
+[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/IGuanggg/Some-Stars-Main#readme)
 
 🤩 我的star列表，每天凌晨自动更新 🤩
 
