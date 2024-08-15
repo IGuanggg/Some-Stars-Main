@@ -1,6 +1,6 @@
 <div align="center">
 
-# IGuanggg/Some-Stars-Main
+# Some-Stars-Main
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-IGuanggg-ff69b5?logo=github)](https://github.com/IGuanggg)
