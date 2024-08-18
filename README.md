@@ -54,7 +54,7 @@
 
 ## miscellaneous
 
-*   [yonggekkk/sing-box\_hysteria2\_tuic\_argo\_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持alpine系统，多端口跳跃、自签/acme双证书切换、Argo固定临时双隧道三模式；附singbox电脑网页客户端下载
+*   [yonggekkk/sing-box\_hysteria2\_tuic\_argo\_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持alpine系统，多端口跳跃、自签/acme双证书切换、Argo固定临时双隧道（可共存）；附singbox电脑网页客户端下载
 
 *   [coracoo/awesome\_docker\_cn](https://github.com/coracoo/awesome_docker_cn) - 上百款可docker部署的项目，包含项目地址、项目部署教程等。
 
