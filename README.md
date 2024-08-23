@@ -13,12 +13,12 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [C#](#c)
 *   [HTML](#html)
 *   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
-*   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Java](#java)
@@ -29,6 +29,30 @@
 *   [Vue](#vue)
 *   [Perl](#perl)
 *   [Thanks](#thanks)
+
+## JavaScript
+
+*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
+
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+
+*   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
+
+*   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
+
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS签到脚本框架，兼容青龙。零成本，无需服务器，无需部署，适用于“金山文档”和“青龙”自动化执行。
+
+*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 551674817 密码888 元梦之星
+
+*   [crazyn2/wechat-bot](https://github.com/crazyn2/wechat-bot) - 带二次开发接口的PC微信聊天机器人
+
+*   [evilbutcher/Quantumult\_X](https://github.com/evilbutcher/Quantumult_X) - 一些有意思的脚本 Scripts for Quantumult X, Loon, Surge
+
+*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+
+*   [curtinlv/gd](https://github.com/curtinlv/gd) -
+
+*   [DullSword/GLaDOS-CheckIn](https://github.com/DullSword/GLaDOS-CheckIn) - GLaDOS AutoCheckIn 定时自动签到
 
 ## Python
 
@@ -127,26 +151,6 @@
 *   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
 *   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
-
-## JavaScript
-
-*   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
-
-*   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
-
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS签到脚本框架，兼容青龙。零成本，无需服务器，无需部署，适用于“金山文档”和“青龙”自动化执行。
-
-*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 551674817 密码888 元梦之星
-
-*   [crazyn2/wechat-bot](https://github.com/crazyn2/wechat-bot) - 带二次开发接口的PC微信聊天机器人
-
-*   [evilbutcher/Quantumult\_X](https://github.com/evilbutcher/Quantumult_X) - 一些有意思的脚本 Scripts for Quantumult X, Loon, Surge
-
-*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
-
-*   [curtinlv/gd](https://github.com/curtinlv/gd) -
-
-*   [DullSword/GLaDOS-CheckIn](https://github.com/DullSword/GLaDOS-CheckIn) - GLaDOS AutoCheckIn 定时自动签到
 
 ## Shell
 
