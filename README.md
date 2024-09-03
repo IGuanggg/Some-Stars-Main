@@ -13,9 +13,9 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Shell](#shell)
 *   [JavaScript](#javascript)
-*   [Python](#python)
 *   [C#](#c)
 *   [HTML](#html)
 *   [C++](#c-1)
@@ -30,57 +30,9 @@
 *   [Perl](#perl)
 *   [Thanks](#thanks)
 
-## Shell
-
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-
-*   [ellermister/mtproxy](https://github.com/ellermister/mtproxy) - MTProxyTLS一键安装绿色脚本
-
-*   [FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency) - 青龙面板全依赖一键安装脚本 / Qinglong Pannel Dependency Install Scripts.
-
-*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
-
-*   [iranee/qnap-alist-webdav](https://github.com/iranee/qnap-alist-webdav) - 一款挂载多个云盘的工具
-
-*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
-
-*   [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
-
-*   [amefs/quickbox-lite](https://github.com/amefs/quickbox-lite) - Lightweigt QuickBox
-
-*   [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) - 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
-
-*   [Aniverse/inexistence](https://github.com/Aniverse/inexistence) - I know nothing, you see nothing.
-
-*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Multi-user web administration panel supporting Xray/Trojan-Go/Hysteria/NaiveProxy
-
-## JavaScript
-
-*   [ghosx/TiebaProject](https://github.com/ghosx/TiebaProject) - 贴吧云签到，贴吧云回复，贴吧机器人，百度贴吧
-
-*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
-
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
-
-*   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
-
-*   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
-
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS签到脚本框架，兼容青龙。零成本，无需服务器，无需部署，适用于“金山文档”和“青龙”自动化执行。
-
-*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 551674817 密码888 元梦之星
-
-*   [crazyn2/wechat-bot](https://github.com/crazyn2/wechat-bot) - 带二次开发接口的PC微信聊天机器人
-
-*   [evilbutcher/Quantumult\_X](https://github.com/evilbutcher/Quantumult_X) - 一些有意思的脚本 Scripts for Quantumult X, Loon, Surge
-
-*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
-
-*   [curtinlv/gd](https://github.com/curtinlv/gd) -
-
-*   [DullSword/GLaDOS-CheckIn](https://github.com/DullSword/GLaDOS-CheckIn) - GLaDOS AutoCheckIn 定时自动签到
-
 ## Python
+
+*   [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
 *   [wd210010/only\_for\_happly](https://github.com/wd210010/only_for_happly) - 微博超话签到★百度贴吧签到★小米运动刷步数★恩山签到★雨云签到白嫖服务器★小茅预约★丽宝乐园小程序签到★天翼云盘签到★腾讯视频签到（会员领成长值）★阿里云盘签到★富贵论坛签到★一点万向签到打卡★什么值得买达人和关键词取消关注★STLXZ签到★PT站签到★帆软签到+摇摇乐★千图网签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★逑美在线app签到和抽卡★ddnsto自动续费七天★爱奇艺签到刷时长★双色球预测（娱乐）
 
@@ -137,6 +89,56 @@
 *   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 
 *   [hbstarjason/glados-checkin](https://github.com/hbstarjason/glados-checkin) -
+
+## Shell
+
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+
+*   [ellermister/mtproxy](https://github.com/ellermister/mtproxy) - MTProxyTLS一键安装绿色脚本
+
+*   [FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency) - 青龙面板全依赖一键安装脚本 / Qinglong Pannel Dependency Install Scripts.
+
+*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
+
+*   [iranee/qnap-alist-webdav](https://github.com/iranee/qnap-alist-webdav) - 一款挂载多个云盘的工具
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+
+*   [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
+
+*   [amefs/quickbox-lite](https://github.com/amefs/quickbox-lite) - Lightweigt QuickBox
+
+*   [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) - 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
+
+*   [Aniverse/inexistence](https://github.com/Aniverse/inexistence) - I know nothing, you see nothing.
+
+*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Multi-user web administration panel supporting Xray/Trojan-Go/Hysteria/NaiveProxy
+
+## JavaScript
+
+*   [ghosx/TiebaProject](https://github.com/ghosx/TiebaProject) - 贴吧云签到，贴吧云回复，贴吧机器人，百度贴吧
+
+*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
+
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+
+*   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
+
+*   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
+
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS签到脚本框架，兼容青龙。零成本，无需服务器，无需部署，适用于“金山文档”和“青龙”自动化执行。
+
+*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 551674817 密码888 元梦之星
+
+*   [crazyn2/wechat-bot](https://github.com/crazyn2/wechat-bot) - 带二次开发接口的PC微信聊天机器人
+
+*   [evilbutcher/Quantumult\_X](https://github.com/evilbutcher/Quantumult_X) - 一些有意思的脚本 Scripts for Quantumult X, Loon, Surge
+
+*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+
+*   [curtinlv/gd](https://github.com/curtinlv/gd) -
+
+*   [DullSword/GLaDOS-CheckIn](https://github.com/DullSword/GLaDOS-CheckIn) - GLaDOS AutoCheckIn 定时自动签到
 
 ## C\#
 
