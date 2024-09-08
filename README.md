@@ -126,7 +126,7 @@
 
 *   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
 
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS签到脚本框架，兼容青龙。零成本，无需服务器，无需部署，适用于“金山文档”和“青龙”自动化执行。
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS定时重放脚本框架，零成本，无需服务器，无需部署
 
 *   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 551674817 密码888 元梦之星
 
