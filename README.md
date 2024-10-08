@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Python](#python)
 *   [C#](#c)
 *   [JavaScript](#javascript)
@@ -21,7 +22,6 @@
 *   [HTML](#html)
 *   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
-*   [Java](#java)
 *   [Go](#go)
 *   [PHP](#php)
 *   [Kotlin](#kotlin)
@@ -29,6 +29,12 @@
 *   [Vue](#vue)
 *   [Perl](#perl)
 *   [Thanks](#thanks)
+
+## Java
+
+*   [Katana-Official/Meta](https://github.com/Katana-Official/Meta) - Meta Platform demo source code
+
+*   [jance-hui/update-jd-ck](https://github.com/jance-hui/update-jd-ck) - alook浏览器 + IOS快捷指令快速更新ck
 
 ## Python
 
@@ -203,10 +209,6 @@
 *   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
 *   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
-
-## Java
-
-*   [jance-hui/update-jd-ck](https://github.com/jance-hui/update-jd-ck) - alook浏览器 + IOS快捷指令快速更新ck
 
 ## Go
 
