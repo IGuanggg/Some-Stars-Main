@@ -138,11 +138,7 @@
 
 *   [metwhale/Not\_Hungry](https://github.com/metwhale/Not_Hungry) - elm自用库
 
-*   [lo1kda/M\_UTOPIA](https://github.com/lo1kda/M_UTOPIA) - 乌托邦 | Utopia | 京东 | 青龙面板 |线报监控 | 并发
-
 *   [yejigao/clm](https://github.com/yejigao/clm) -
-
-*   [ghosx/TiebaProject](https://github.com/ghosx/TiebaProject) - 贴吧云签到，贴吧云回复，贴吧机器人，百度贴吧
 
 *   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
 
