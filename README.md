@@ -82,7 +82,7 @@
 
 *   [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具
 
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新
+*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新
 
 *   [cyubuchen/Free\_Proxy\_Website](https://github.com/cyubuchen/Free_Proxy_Website) - 获取免费socks/https/http代理的网站集合
 
@@ -150,7 +150,7 @@
 
 *   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
 
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS签到定时重放脚本框架，夸克网盘|永辉生活|霸王茶姬|兴攀农场|鸿星尔克|钉钉AI|阿里云盘|百度贴吧|WPS(打卡版) |哔哩哔哩|什么值得买|叮咚买菜|喜马拉雅|希沃白板|葫芦侠3楼|中兴社区|小米商城|vivo社区|宽带技术网|中兴商城|万能福利吧|废文|小木虫|科研通|雨云|在线工具|AcFun|看雪论坛|golo汽修大师|70games|ParsData|夸克转存|有道云笔记
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS签到定时重放脚本框架，兼容青龙，夸克网盘|永辉生活|霸王茶姬|所有女生|兴攀农场|华住会|海底捞|鸿星尔克|钉钉AI|阿里云盘|百度贴吧|WPS(打卡版) |哔哩哔哩|什么值得买|叮咚买菜|喜马拉雅|希沃白板|葫芦侠3楼|中兴社区|小米商城|vivo社区|宽带技术网|中兴商城|万能福利吧|废文|小木虫|科研通|雨云|在线工具|AcFun|看雪论坛|golo汽修大师|70games|ParsData|夸克转存|有道云笔记
 
 *   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 551674817 密码888 元梦之星
 
@@ -166,7 +166,7 @@
 
 ## TypeScript
 
-*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、酷狗、QQ音乐等网络资源下载!
+*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、直播流、酷狗、QQ音乐等常见网络资源!
 
 *   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 
