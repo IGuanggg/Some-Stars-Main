@@ -13,8 +13,8 @@
 
 ## Table of Contents
 
-*   [Go](#go)
 *   [Python](#python)
+*   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [C#](#c)
@@ -30,17 +30,9 @@
 *   [Perl](#perl)
 *   [Thanks](#thanks)
 
-## Go
-
-*   [nuanxinqing123/QLToolsV2](https://github.com/nuanxinqing123/QLToolsV2) - 青龙面板的环境变量第三方手动/半自动提交（上传）管理中间件
-
-*   [kuriv/civil-service-exam](https://github.com/kuriv/civil-service-exam) - 公务员考试知识思维导图，我们岸上见！
-
-*   [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes
-
-*   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.29.10 版本二开而来，NPS接力项目。公益云NPS：https://natnps.com
-
 ## Python
+
+*   [AKA-Cigma/qinglong-backup](https://github.com/AKA-Cigma/qinglong-backup) - 将青龙的基本配置文件及脚本备份至阿里网盘&阿里网盘自动签到
 
 *   [arvinsblog/deepsea](https://github.com/arvinsblog/deepsea) - ☆青龙面板脚本更新自用可用薅羊毛库☆【美团自动领神券优惠券☆顺丰速运签到☆小米运动自动刷步数（微信/支付宝）】
 
@@ -103,6 +95,16 @@
 *   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 
 *   [hbstarjason/glados-checkin](https://github.com/hbstarjason/glados-checkin) -
+
+## Go
+
+*   [nuanxinqing123/QLToolsV2](https://github.com/nuanxinqing123/QLToolsV2) - 青龙面板的环境变量第三方手动/半自动提交（上传）管理中间件
+
+*   [kuriv/civil-service-exam](https://github.com/kuriv/civil-service-exam) - 公务员考试知识思维导图，我们岸上见！
+
+*   [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes
+
+*   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.29.10 版本二开而来，NPS接力项目。公益云NPS：https://natnps.com
 
 ## miscellaneous
 
