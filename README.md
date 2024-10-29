@@ -33,6 +33,8 @@
 
 ## JavaScript
 
+*   [xeefei/3x-ui](https://github.com/xeefei/3x-ui) - 〔3X-UI〕中文优化版，Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vless & Vmess & Trojan & ShadowSocks & Wireguard)，基于原版3x-ui进行优化修改。
+
 *   [xzxxn777/Surge](https://github.com/xzxxn777/Surge) - JavaScript Scripts for Surge
 
 *   [xiaoer2024/elm616](https://github.com/xiaoer2024/elm616) -
