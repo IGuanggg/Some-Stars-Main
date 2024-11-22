@@ -22,4 +22,4 @@ jobs:
           api-token: ${{ secrets.PERSONAL_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
           template-path: "template/README.ejs"
-          github-name: ${{ github.repository_owner }}
+          github-name: ${{ github.actor }} # Set the GitHub username to the actor triggering the workflow
