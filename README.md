@@ -115,7 +115,7 @@
 
 *   [chendbdb/qinglong](https://github.com/chendbdb/qinglong) - 青龙面板所使用的脚本，全部个人制作的，且开源
 
-*   [Cp0204/ChinaTelecomMonitor](https://github.com/Cp0204/ChinaTelecomMonitor) - 中国电信 话费、通话、流量 套餐用量监控，支持青龙，支持部署成 API 服务。
+*   [Cp0204/ChinaTelecomMonitor](https://github.com/Cp0204/ChinaTelecomMonitor) - 中国电信 话费、通话、流量 套餐用量监控，支持青龙，支持 Docker 部署成 API 服务。
 
 *   [oiov/u2b](https://github.com/oiov/u2b) - 好耶！是哔哩哔哩投稿姬，只需一行命令搬运YouTube视频到B站～
 
