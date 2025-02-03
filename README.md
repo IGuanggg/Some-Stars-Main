@@ -175,7 +175,7 @@
 
 *   [FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency) - 青龙面板全依赖一键安装脚本 / Qinglong Pannel Dependency Install Scripts.
 
-*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
+*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
 
 *   [iranee/qnap-alist-webdav](https://github.com/iranee/qnap-alist-webdav) - 一款挂载多个云盘的工具
 
