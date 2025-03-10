@@ -20,10 +20,11 @@
 *   [Shell](#shell)
 *   [Dart](#dart)
 *   [Go](#go)
+*   [C](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [HTML](#html)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [PHP](#php)
 *   [Kotlin](#kotlin)
 *   [CSS](#css)
@@ -149,7 +150,7 @@
 
 *   [0-8-4/miui-auto-tasks](https://github.com/0-8-4/miui-auto-tasks) - 一个自动化完成小米社区任务的脚本
 
-*   [hennessey-v/GlaDOS\_Checkin\_ql](https://github.com/hennessey-v/GlaDOS_Checkin_ql) - 基于Python实现的GLaDOS自动签到项目。可部署在青龙面板，支持多账号。
+*   [RaineaAN/GlaDOS\_Checkin\_ql](https://github.com/RaineaAN/GlaDOS_Checkin_ql) - 基于Python实现的GLaDOS自动签到项目。可部署在青龙面板，支持多账号。
 
 *   [chq09093112/sign\_action](https://github.com/chq09093112/sign_action) - 百度爱奇艺B站自动签到
 
@@ -207,9 +208,11 @@
 
 *   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.29.10 版本二开而来，NPS接力项目。公益云NPS：https://natnps.com
 
-## miscellaneous
+## C
 
 *   [f23997/mproxy-openvpn](https://github.com/f23997/mproxy-openvpn) - openvpn免流mproxy代理
+
+## miscellaneous
 
 *   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 
