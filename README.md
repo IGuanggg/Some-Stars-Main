@@ -84,7 +84,7 @@
 
 *   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
 
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS定时重放脚本框架，适配airscript1.0、airscript2.0和Node.js原生环境。具备高兼容性，智能生成表格，表格一键更新，多表统一配置，多渠道消息推送，消息智能分片。
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS定时重放脚本框架，适配airscript1.0、airscript2.0和Node.js原生环境，接入deepseek分析工具。具备高兼容性，智能生成表格，表格一键更新，多表统一配置，多渠道消息推送，消息智能分片。
 
 *   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
 
@@ -210,7 +210,7 @@
 
 ## C
 
-*   [f23997/mproxy-openvpn](https://github.com/f23997/mproxy-openvpn) - openvpn免流mproxy代理
+*   [f23997/mproxy-openvpn](https://github.com/f23997/mproxy-openvpn) - openvpn免流教程
 
 ## miscellaneous
 
