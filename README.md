@@ -20,11 +20,10 @@
 *   [Shell](#shell)
 *   [Dart](#dart)
 *   [Go](#go)
-*   [C](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [HTML](#html)
-*   [C++](#c-2)
+*   [C++](#c-1)
 *   [PHP](#php)
 *   [Kotlin](#kotlin)
 *   [CSS](#css)
@@ -208,11 +207,9 @@
 
 *   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.29.10 版本二开而来，NPS接力项目。公益云NPS：https://natnps.com
 
-## C
+## miscellaneous
 
 *   [f23997/mproxy-openvpn](https://github.com/f23997/mproxy-openvpn) - openvpn免流教程
-
-## miscellaneous
 
 *   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 
