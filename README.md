@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [C#](#c)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -25,11 +26,16 @@
 *   [HTML](#html)
 *   [C++](#c-1)
 *   [PHP](#php)
-*   [Kotlin](#kotlin)
 *   [CSS](#css)
 *   [Vue](#vue)
 *   [Perl](#perl)
 *   [Thanks](#thanks)
+
+## Kotlin
+
+*   [cssxsh/bilibili-helper](https://github.com/cssxsh/bilibili-helper) - Mirai Console 插件开发计划
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 
 ## C\#
 
@@ -83,7 +89,7 @@
 
 *   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
 
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS定时重放脚本框架，适配airscript1.0、airscript2.0和Node.js原生环境，接入deepseek分析工具。具备高兼容性，智能生成表格，表格一键更新，多表统一配置，多渠道消息推送，消息智能分片。
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS多定时脚本管理框架，适配airscript1.0、airscript2.0和Node.js原生环境，接入deepseek分析工具。具备高兼容性，智能生成表格，表格一键更新，多表统一配置，多渠道消息推送，消息智能分片。
 
 *   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
 
@@ -92,8 +98,6 @@
 *   [evilbutcher/Quantumult\_X](https://github.com/evilbutcher/Quantumult_X) - 一些有意思的脚本 Scripts for Quantumult X, Loon, Surge
 
 *   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
-
-*   [curtinlv/gd](https://github.com/curtinlv/gd) -
 
 ## Python
 
@@ -246,10 +250,6 @@
 ## PHP
 
 *   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
-
-## Kotlin
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 
 ## CSS
 
