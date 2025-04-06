@@ -13,9 +13,10 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Shell](#shell)
@@ -24,12 +25,16 @@
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [HTML](#html)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [PHP](#php)
 *   [CSS](#css)
 *   [Vue](#vue)
 *   [Perl](#perl)
 *   [Thanks](#thanks)
+
+## C
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
 ## TypeScript
 
@@ -91,7 +96,7 @@
 
 *   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
 
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - 适配airscript1.0、airscript2.0
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - 适配airscript1.0和airscript2.0
 
 *   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 
@@ -230,8 +235,6 @@
 *   [Airahc/checkinpanel](https://github.com/Airahc/checkinpanel) - 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）
 
 *   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
-*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
 
 ## Java
 
