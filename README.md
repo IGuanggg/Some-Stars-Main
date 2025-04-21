@@ -93,7 +93,7 @@
 
 *   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 
 *   [huaji8/huajiScript](https://github.com/huaji8/huajiScript) - 滑稽の青龙脚本库
 
