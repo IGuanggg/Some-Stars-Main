@@ -83,7 +83,7 @@
 
 *   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
 
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - 适配airscript1.0和airscript2.0
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS多定时脚本管理框架，适配airscript1.0、airscript2.0和Node.js原生环境，接入deepseek分析工具。具备高兼容性，智能生成表格，表格一键更新，多表统一配置，多渠道消息推送，消息智能分片。
 
 *   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
 
