@@ -13,13 +13,13 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Batchfile](#batchfile)
 *   [Go](#go)
 *   [Objective-C++](#objective-c)
-*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [C](#c)
 *   [Kotlin](#kotlin)
@@ -31,93 +31,9 @@
 *   [PHP](#php)
 *   [Thanks](#thanks)
 
-## Java
-
-*   [LazyImmortal/Sesame](https://github.com/LazyImmortal/Sesame) - 芝麻粒
-
-*   [Devo919/Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发，最简单易用的免费二开框架,微信ipad登录（非HOOK破解桌面端）
-
-*   [Katana-Official/Meta](https://github.com/Katana-Official/Meta) - Meta Platform demo source code
-
-*   [jance-hui/update-jd-ck](https://github.com/jance-hui/update-jd-ck) - alook浏览器 + IOS快捷指令快速更新ck
-
-## miscellaneous
-
-*   [Xposed-Modules-Repo/fansirsqi.xposed.sesame](https://github.com/Xposed-Modules-Repo/fansirsqi.xposed.sesame) - 芝麻粒-TK
-
-*   [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
-
-*   [f23997/mproxy-openvpn](https://github.com/f23997/mproxy-openvpn) - openvpn免流教程
-
-*   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
-
-*   [coracoo/awesome\_docker\_cn](https://github.com/coracoo/awesome_docker_cn) - 上百款可docker部署的项目，包含项目地址、项目部署教程等。
-
-*   [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复（国内主流AI模型，扣子，FastGpt，Dify全面支持！），⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！
-
-*   [popjane/free\_chatgpt\_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
-
-*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-
-*   [tickmao/Novel](https://github.com/tickmao/Novel) - 📚 Novle setting | 小说书源及软件整理 爱阅书香 / 阅读 / 香色闺阁
-
-*   [Airahc/checkinpanel](https://github.com/Airahc/checkinpanel) - 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）
-
-## JavaScript
-
-*   [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-
-*   [xeefei/3x-ui](https://github.com/xeefei/3x-ui) - 〔3X-UI〕中文优化版，Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vless & Vmess & Trojan & ShadowSocks & Wireguard)，基于原版3x-ui进行优化修改。
-
-*   [xzxxn777/Surge](https://github.com/xzxxn777/Surge) - JavaScript Scripts for Surge
-
-*   [metwhale/Not\_Hungry](https://github.com/metwhale/Not_Hungry) - elm自用库
-
-*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
-
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
-
-*   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
-
-*   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
-
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS多定时脚本管理框架，适配airscript1.0、airscript2.0和Node.js原生环境，接入deepseek分析工具。具备高兼容性，智能生成表格，表格一键更新，多表统一配置，多渠道消息推送，消息智能分片。
-
-*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
-
-*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
-
-*   [crazyn2/wechat-bot](https://github.com/crazyn2/wechat-bot) - 带二次开发接口的PC微信聊天机器人
-
-*   [evilbutcher/Quantumult\_X](https://github.com/evilbutcher/Quantumult_X) - 一些有意思的脚本 Scripts for Quantumult X, Loon, Surge
-
-## Batchfile
-
-*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
-
-## Go
-
-*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
-
-*   [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
-
-*   [nuanxinqing123/QLToolsV2](https://github.com/nuanxinqing123/QLToolsV2) - 青龙面板的环境变量第三方手动/半自动提交（上传）管理中间件
-
-*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
-
-*   [kuriv/civil-service-exam](https://github.com/kuriv/civil-service-exam) - 公务员考试知识思维导图，我们岸上见！
-
-*   [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes
-
-*   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.26.10 版本二开而来，NPS接力项目。免费NPS节点：https://natnps.com
-
-## Objective-C++
-
-*   [lich4/ChargeLimiter](https://github.com/lich4/ChargeLimiter) - Charge limiter for iOS, inspired by AlDente
-
 ## Python
+
+*   [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 
 *   [kuangdd2024/auto-video-generateor](https://github.com/kuangdd2024/auto-video-generateor) - 自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。
 
@@ -182,6 +98,90 @@
 *   [0-8-4/miui-auto-tasks](https://github.com/0-8-4/miui-auto-tasks) - 一个自动化完成小米社区任务的脚本
 
 *   [RaineaAN/GlaDOS\_Checkin\_ql](https://github.com/RaineaAN/GlaDOS_Checkin_ql) - 基于Python实现的GLaDOS自动签到项目。可部署在青龙面板，支持多账号。
+
+## Java
+
+*   [LazyImmortal/Sesame](https://github.com/LazyImmortal/Sesame) - 芝麻粒
+
+*   [Devo919/Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发，最简单易用的免费二开框架,微信ipad登录（非HOOK破解桌面端）
+
+*   [Katana-Official/Meta](https://github.com/Katana-Official/Meta) - Meta Platform demo source code
+
+*   [jance-hui/update-jd-ck](https://github.com/jance-hui/update-jd-ck) - alook浏览器 + IOS快捷指令快速更新ck
+
+## miscellaneous
+
+*   [Xposed-Modules-Repo/fansirsqi.xposed.sesame](https://github.com/Xposed-Modules-Repo/fansirsqi.xposed.sesame) - 芝麻粒-TK
+
+*   [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
+
+*   [f23997/mproxy-openvpn](https://github.com/f23997/mproxy-openvpn) - openvpn免流教程
+
+*   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
+
+*   [coracoo/awesome\_docker\_cn](https://github.com/coracoo/awesome_docker_cn) - 上百款可docker部署的项目，包含项目地址、项目部署教程等。
+
+*   [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复（国内主流AI模型，扣子，FastGpt，Dify全面支持！），⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！
+
+*   [popjane/free\_chatgpt\_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
+
+*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+
+*   [tickmao/Novel](https://github.com/tickmao/Novel) - 📚 Novle setting | 小说书源及软件整理 爱阅书香 / 阅读 / 香色闺阁
+
+*   [Airahc/checkinpanel](https://github.com/Airahc/checkinpanel) - 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）
+
+## JavaScript
+
+*   [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
+*   [xeefei/3x-ui](https://github.com/xeefei/3x-ui) - 〔3X-UI〕中文优化版，Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vless & Vmess & Trojan & ShadowSocks & Wireguard)，基于原版3x-ui进行优化修改。
+
+*   [xzxxn777/Surge](https://github.com/xzxxn777/Surge) - JavaScript Scripts for Surge
+
+*   [metwhale/Not\_Hungry](https://github.com/metwhale/Not_Hungry) - elm自用库
+
+*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
+
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+
+*   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
+
+*   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
+
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - 适配airscript1.0、airscript2.0
+
+*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
+
+*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
+
+*   [crazyn2/wechat-bot](https://github.com/crazyn2/wechat-bot) - 带二次开发接口的PC微信聊天机器人
+
+## Batchfile
+
+*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
+
+## Go
+
+*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+
+*   [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+
+*   [nuanxinqing123/QLToolsV2](https://github.com/nuanxinqing123/QLToolsV2) - 青龙面板的环境变量第三方手动/半自动提交（上传）管理中间件
+
+*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+
+*   [kuriv/civil-service-exam](https://github.com/kuriv/civil-service-exam) - 公务员考试知识思维导图，我们岸上见！
+
+*   [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes
+
+*   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.26.10 版本二开而来，NPS接力项目。免费NPS节点：https://natnps.com
+
+## Objective-C++
+
+*   [lich4/ChargeLimiter](https://github.com/lich4/ChargeLimiter) - Charge limiter for iOS, inspired by AlDente
 
 ## TypeScript
 
