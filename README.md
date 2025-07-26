@@ -39,7 +39,7 @@
 
 *   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
-*   [xeefei/3x-ui](https://github.com/xeefei/3x-ui) - 〔3X-UI〕中文优化版，Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vless & Vmess & Trojan & ShadowSocks & Wireguard)，基于原版3x-ui进行优化修改。
+*   [xeefei/3x-ui](https://github.com/xeefei/3x-ui) - 〔3X-UI〕中文优化版，Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vless & XTLS & Reality & XHTTP  & Wireguard)，基于原版3x-ui进行优化修改。
 
 *   [xzxxn777/Surge](https://github.com/xzxxn777/Surge) - JavaScript Scripts for Surge
 
@@ -167,7 +167,7 @@
 
 *   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
 
-*   [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+*   [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) -  A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 
 *   [nuanxinqing123/QLToolsV2](https://github.com/nuanxinqing123/QLToolsV2) - 青龙面板的环境变量第三方手动/半自动提交（上传）管理中间件
 
