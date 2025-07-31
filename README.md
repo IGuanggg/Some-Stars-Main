@@ -13,14 +13,15 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
+*   [Vue](#vue)
+*   [TypeScript](#typescript)
 *   [Python](#python)
+*   [JavaScript](#javascript)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [Batchfile](#batchfile)
 *   [Go](#go)
 *   [Objective-C++](#objective-c)
-*   [TypeScript](#typescript)
 *   [C](#c)
 *   [Kotlin](#kotlin)
 *   [C#](#c-1)
@@ -31,37 +32,29 @@
 *   [PHP](#php)
 *   [Thanks](#thanks)
 
-## JavaScript
+## Vue
 
-*   [lolove1/222](https://github.com/lolove1/222) -
+*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
-*   [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
+## TypeScript
 
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
-*   [xeefei/3x-ui](https://github.com/xeefei/3x-ui) - 〔3X-UI〕中文优化版，Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vless & XTLS & Reality & XHTTP  & Wireguard)，基于原版3x-ui进行优化修改。
+*   [xxss0903/drawstamputils](https://github.com/xxss0903/drawstamputils) - Draw Stamp Utils with Javascript
 
-*   [xzxxn777/Surge](https://github.com/xzxxn777/Surge) - JavaScript Scripts for Surge
+*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 
-*   [metwhale/Not\_Hungry](https://github.com/metwhale/Not_Hungry) - elm自用库
+*   [xmoxmo/bncr](https://github.com/xmoxmo/bncr) -
 
-*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
+*   [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
 
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+*   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 
-*   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
-
-*   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
-
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - 适配airscript1.0、airscript2.0
-
-*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
-
-*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
-
-*   [crazyn2/wechat-bot](https://github.com/crazyn2/wechat-bot) - 带二次开发接口的PC微信聊天机器人
+*   [weaigc/bingo](https://github.com/weaigc/bingo) - Bingo，一个让你呼吸顺畅 New Bing。
 
 ## Python
+
+*   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
 
 *   [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 
@@ -127,7 +120,33 @@
 
 *   [0-8-4/miui-auto-tasks](https://github.com/0-8-4/miui-auto-tasks) - 一个自动化完成小米社区任务的脚本
 
-*   [RaineaAN/GlaDOS\_Checkin\_ql](https://github.com/RaineaAN/GlaDOS_Checkin_ql) - 基于Python实现的GLaDOS自动签到项目。可部署在青龙面板，支持多账号。
+## JavaScript
+
+*   [lolove1/222](https://github.com/lolove1/222) -
+
+*   [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
+*   [xeefei/3x-ui](https://github.com/xeefei/3x-ui) - 〔3X-UI〕中文优化版，Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vless & XTLS & Reality & XHTTP  & Wireguard)，基于原版3x-ui进行优化修改。
+
+*   [xzxxn777/Surge](https://github.com/xzxxn777/Surge) - JavaScript Scripts for Surge
+
+*   [metwhale/Not\_Hungry](https://github.com/metwhale/Not_Hungry) - elm自用库
+
+*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
+
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+
+*   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
+
+*   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
+
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - 适配airscript1.0、airscript2.0
+
+*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
+
+*   [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
 
 ## Java
 
@@ -183,20 +202,6 @@
 
 *   [lich4/ChargeLimiter](https://github.com/lich4/ChargeLimiter) - Charge limiter for iOS, inspired by AlDente
 
-## TypeScript
-
-*   [xxss0903/drawstamputils](https://github.com/xxss0903/drawstamputils) - Draw Stamp Utils with Javascript
-
-*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-
-*   [xmoxmo/bncr](https://github.com/xmoxmo/bncr) -
-
-*   [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
-
-*   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
-
-*   [weaigc/bingo](https://github.com/weaigc/bingo) - Bingo，一个让你呼吸顺畅 New Bing。
-
 ## C
 
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -224,8 +229,6 @@
 *   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
 *   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 - UI Automation Testing Tools For Genshin Impact
-
-*   [Milk-Dream/WeChatVideoDownload-Fiddler](https://github.com/Milk-Dream/WeChatVideoDownload-Fiddler) - 小白视频号助手是微信视频号下载的Fiddler插件,使用此插件你可以很轻松的下载微信视频号的视频内容,这个微信视频号插件使用C# .NETFramework4.7.1开发
 
 ## Shell
 
