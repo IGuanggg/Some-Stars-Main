@@ -250,7 +250,7 @@
 
 ## HTML
 
-*   [xeefei/3x-ui](https://github.com/xeefei/3x-ui) - 〔3X-UI〕中文优化版，Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vless & XTLS & Reality & XHTTP  & Wireguard)，基于原版3x-ui进行优化修改。
+*   [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - X-Panel面板，Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vless & XTLS & Reality & XHTTP  & Wireguard)，基于原版3x-ui进行优化修改。
 
 *   [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 
