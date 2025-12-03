@@ -91,7 +91,7 @@
 
 *   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
 
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多消息平台（QQ, Telegram, 企微, 飞书, 钉钉等）集成，易用的插件系统，支持接入 OpenAI, Gemini, Anthropic, Dify, Coze, 阿里云百炼应用等平台，内置知识库、Agent 智能体
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 / 飞书 / 钉钉等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
 
 *   [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 
