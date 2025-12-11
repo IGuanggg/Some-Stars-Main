@@ -225,7 +225,7 @@
 
 *   [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
 
-*   [f23997/mproxy-openvpn](https://github.com/f23997/mproxy-openvpn) - openvpn免流教程
+*   [f23997/openvpn-Free-internet](https://github.com/f23997/openvpn-Free-internet) - openvpn免流教程
 
 *   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 
