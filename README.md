@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [HTML](#html)
@@ -25,11 +26,16 @@
 *   [miscellaneous](#miscellaneous)
 *   [Objective-C++](#objective-c)
 *   [C](#c-1)
-*   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [C++](#c-2)
 *   [PHP](#php)
 *   [Thanks](#thanks)
+
+## Kotlin
+
+*   [Fansirsqi/Sesame-TK](https://github.com/Fansirsqi/Sesame-TK) - 芝你麻咸鱼的粒-TK
+
+*   [cssxsh/bilibili-helper](https://github.com/cssxsh/bilibili-helper) - Mirai Console 插件开发计划
 
 ## TypeScript
 
@@ -177,8 +183,6 @@
 
 *   [imoki/sign\_script](https://github.com/imoki/sign_script) - 适配airscript1.0、airscript2.0
 
-*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
-
 ## C\#
 
 *   [PrelinaMontelli/Edge-Monitor](https://github.com/PrelinaMontelli/Edge-Monitor) - 一个监控并弄死异常Edge的程序
@@ -246,10 +250,6 @@
 ## C
 
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-## Kotlin
-
-*   [cssxsh/bilibili-helper](https://github.com/cssxsh/bilibili-helper) - Mirai Console 插件开发计划
 
 ## Dart
 
