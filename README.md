@@ -13,11 +13,11 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [HTML](#html)
-*   [Go](#go)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [C#](#c)
@@ -30,6 +30,26 @@
 *   [C++](#c-2)
 *   [PHP](#php)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+
+*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
+
+*   [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
+
+*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
+
+*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+
+*   [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配
+
+*   [nuanxinqing123/QLToolsV2](https://github.com/nuanxinqing123/QLToolsV2) - 青龙面板的环境变量第三方手动/半自动提交（上传）管理中间件
+
+*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+
+*   [kuriv/civil-service-exam](https://github.com/kuriv/civil-service-exam) - 公务员考试知识思维导图，我们岸上见！
 
 ## Kotlin
 
@@ -77,26 +97,6 @@
 
 *   [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 
-## Go
-
-*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
-
-*   [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
-
-*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
-
-*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
-
-*   [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配
-
-*   [nuanxinqing123/QLToolsV2](https://github.com/nuanxinqing123/QLToolsV2) - 青龙面板的环境变量第三方手动/半自动提交（上传）管理中间件
-
-*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
-
-*   [kuriv/civil-service-exam](https://github.com/kuriv/civil-service-exam) - 公务员考试知识思维导图，我们岸上见！
-
-*   [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes
-
 ## Python
 
 *   [Cat-zaizai/ZaiZaiCat-Checkin](https://github.com/Cat-zaizai/ZaiZaiCat-Checkin) - 每日签到脚本(多账号),青龙脚本,签到脚本,签到列表:  🚚 顺丰速运 |  恩山论坛  |  看雪论坛  |  上海杨浦   |  华润通  |   鸿星尔克 |   WPS签到  |   什么值得买
@@ -119,7 +119,7 @@
 
 *   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
 
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 / 飞书 / 钉钉等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / 企微 / 飞书 / 钉钉 / Discord 等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
 
 *   [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 
@@ -133,7 +133,7 @@
 
 *   [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
-*   [wd210010/only\_for\_happly](https://github.com/wd210010/only_for_happly) - manus自动写脚本 注册链接 https://manus.im/invitation/V9OIRPDYST3RAF8  0元机场 http://s.b6v.cn/eHY6P 百度贴吧签到★小米运动刷步数★恩山签到★雨云签到白嫖服务器★小茅预约★天翼云盘签到★阿里云盘签到★富贵论坛签到★一点万向签到打卡★品赞代理签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★ddnsto自动续费七天★爱奇艺签到刷时长★双色球预测（娱乐）
+*   [wd210010/only\_for\_happly](https://github.com/wd210010/only_for_happly) - manus自动写脚本 注册链接 https://manus.im/invitation/V9OIRPDYST3RAF8  1元机场 http://b.u9v.cn/dVMss 百度贴吧签到★小米运动刷步数★恩山签到★雨云签到白嫖服务器★小茅预约★天翼云盘签到★阿里云盘签到★富贵论坛签到★一点万向签到打卡★品赞代理签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★ddnsto自动续费七天★爱奇艺签到刷时长★双色球预测（娱乐）
 
 *   [chendbdb/qinglong](https://github.com/chendbdb/qinglong) - 青龙面板所使用的脚本，全部个人制作的，且开源
 
