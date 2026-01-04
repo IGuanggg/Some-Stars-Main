@@ -65,7 +65,7 @@
 
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 
-*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 【停止更新】本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
+*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
 
 *   [unilei/aipan-netdisk-search](https://github.com/unilei/aipan-netdisk-search) - 不是aipan.me的源码，爱盼资源导航：一款简约的导航网站程序，free forever ~
 
