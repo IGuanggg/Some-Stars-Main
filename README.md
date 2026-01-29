@@ -13,10 +13,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
-*   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
@@ -30,6 +30,32 @@
 *   [C++](#c-2)
 *   [PHP](#php)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+
+*   [KuekHaoYang/KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
+
+*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。新项目：https://github.com/Decohererk/DecoTV
+
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
+
+*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
+
+*   [unilei/aipan-netdisk-search](https://github.com/unilei/aipan-netdisk-search) - 不是aipan.me的源码，爱盼资源导航：一款简约的导航网站程序，free forever ~
+
+*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+
+*   [xxss0903/drawstamputils](https://github.com/xxss0903/drawstamputils) - Draw Stamp Utils with Javascript
+
+*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+
+*   [xmoxmo/bncr](https://github.com/xmoxmo/bncr) -
+
+*   [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
+
+*   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 
 ## Python
 
@@ -55,7 +81,7 @@
 
 *   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
 
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. ✨
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your clawdbot alternative. ✨
 
 *   [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 
@@ -119,30 +145,6 @@
 
 *   [cssxsh/bilibili-helper](https://github.com/cssxsh/bilibili-helper) - Mirai Console 插件开发计划
 
-## TypeScript
-
-*   [KuekHaoYang/KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
-
-*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。新项目：https://github.com/Decohererk/DecoTV
-
-*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
-
-*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
-
-*   [unilei/aipan-netdisk-search](https://github.com/unilei/aipan-netdisk-search) - 不是aipan.me的源码，爱盼资源导航：一款简约的导航网站程序，free forever ~
-
-*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
-
-*   [xxss0903/drawstamputils](https://github.com/xxss0903/drawstamputils) - Draw Stamp Utils with Javascript
-
-*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-
-*   [xmoxmo/bncr](https://github.com/xmoxmo/bncr) -
-
-*   [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
-
-*   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
-
 ## Vue
 
 *   [Garry-QD/FlatNas](https://github.com/Garry-QD/FlatNas) - FlatNas 是一个轻量级、高度可定制的个人导航页与仪表盘系统。它基于 Vue 3 和 Express 构建，旨在为 NAS 用户、极客和开发者提供一个优雅的浏览器起始页。
@@ -180,8 +182,6 @@
 *   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
 
 *   [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
-
-*   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
 
 ## C\#
 
