@@ -52,7 +52,7 @@
 
 ## TypeScript
 
-*   [BytePioneer-AI/moltbot-china](https://github.com/BytePioneer-AI/moltbot-china) - Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信，微信
+*   [BytePioneer-AI/openclaw-china](https://github.com/BytePioneer-AI/openclaw-china) - OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信，微信
 
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
