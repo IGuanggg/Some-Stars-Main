@@ -28,6 +28,7 @@
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [C++](#c-2)
+*   [PHP](#php)
 *   [Thanks](#thanks)
 
 ## miscellaneous
@@ -188,8 +189,6 @@
 
 *   [wujunwei928/parse-video-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
 
-*   [YoungYannick/KomariBeautify](https://github.com/YoungYannick/KomariBeautify) - 一个用于增强使用PurCarte主题的Komari探针的文件
-
 *   [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置 & 一键部署中转】生成功能。
 
 *   [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
@@ -259,6 +258,10 @@
 ## C++
 
 *   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
+
+## PHP
+
+*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 
 ## Thanks
 
