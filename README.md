@@ -28,10 +28,11 @@
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [C++](#c-2)
-*   [PHP](#php)
 *   [Thanks](#thanks)
 
 ## miscellaneous
+
+*   [0xsline/short-drama](https://github.com/0xsline/short-drama) - 专业的短剧剧本创作skill,从选题立项到分集撰写、质量自检、合规审核、海外出海，覆盖短剧剧本生产全流程。
 
 *   [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 
@@ -258,10 +259,6 @@
 ## C++
 
 *   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
-
-## PHP
-
-*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 
 ## Thanks
 
