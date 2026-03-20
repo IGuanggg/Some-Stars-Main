@@ -32,7 +32,7 @@
 
 ## TypeScript
 
-*   [sliverp/qqbot](https://github.com/sliverp/qqbot) - qqbot
+*   [tencent-connect/openclaw-qqbot-community](https://github.com/tencent-connect/openclaw-qqbot-community) - qqbot
 
 *   [BytePioneer-AI/openclaw-china](https://github.com/BytePioneer-AI/openclaw-china) - OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信，微信
 
