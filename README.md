@@ -17,6 +17,7 @@
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
+*   [Rust](#rust)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [HTML](#html)
@@ -32,7 +33,7 @@
 
 ## TypeScript
 
-*   [tencent-connect/openclaw-qqbot-community](https://github.com/tencent-connect/openclaw-qqbot-community) - qqbot
+*   [tencent-connect/openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot) - qqbot
 
 *   [BytePioneer-AI/openclaw-china](https://github.com/BytePioneer-AI/openclaw-china) - OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信，微信
 
@@ -65,8 +66,6 @@
 *   [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 
 *   [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-
-*   [buyi06/tgstate-python](https://github.com/buyi06/tgstate-python) - Telegram 文件/图床管理面板（FastAPI + Web UI），一键 Docker 部署，支持上传、分享、下载与删除。
 
 *   [Cat-zaizai/ZaiZaiCat-Checkin](https://github.com/Cat-zaizai/ZaiZaiCat-Checkin) - 每日签到脚本(多账号),青龙脚本,签到脚本,签到列表:  🚚 顺丰速运 |  恩山论坛  |  看雪论坛  |  上海杨浦   |  华润通  |   鸿星尔克 |   WPS签到  |   什么值得买
 
@@ -163,6 +162,10 @@
 *   [FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency) - 青龙面板全依赖一键安装脚本 / Qinglong Pannel Dependency Install Scripts.
 
 *   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
+
+## Rust
+
+*   [buyi06/tgstate-python](https://github.com/buyi06/tgstate-python) - Telegram 文件/图床管理面板（FastAPI + Web UI），一键 Docker 部署，支持上传、分享、下载与删除。
 
 ## Go
 
