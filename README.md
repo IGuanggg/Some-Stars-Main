@@ -44,7 +44,7 @@
 
 ## PowerShell
 
-*   [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Wherever your AI supports skills, VibeSkills works. 340+ governed skills spanning coding, research, data science, automation & creative work.
+*   [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Wherever your AI supports skills, VibeSkills works. 340+ governed skills spanning coding, research, automation & creative work.
 
 ## TypeScript
 
