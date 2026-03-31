@@ -25,6 +25,7 @@
 *   [JavaScript](#javascript)
 *   [C#](#c)
 *   [Java](#java)
+*   [Batchfile](#batchfile)
 *   [Objective-C++](#objective-c)
 *   [C](#c-1)
 *   [Kotlin](#kotlin)
@@ -133,8 +134,6 @@
 *   [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
 
 *   [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
-
-*   [cyubuchen/Free\_Proxy\_Website](https://github.com/cyubuchen/Free_Proxy_Website) - 获取免费socks/https/http代理的网站集合
 
 ## miscellaneous
 
@@ -245,6 +244,10 @@
 *   [Katana-Official/Meta](https://github.com/Katana-Official/Meta) - Meta Platform demo source code
 
 *   [jance-hui/update-jd-ck](https://github.com/jance-hui/update-jd-ck) - alook浏览器 + IOS快捷指令快速更新ck
+
+## Batchfile
+
+*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
 
 ## Objective-C++
 
