@@ -154,6 +154,8 @@
 
 *   [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置 & 一键部署中转】生成功能。
 
+*   [wanghongenpin/Magisk-ProxyPinCA](https://github.com/wanghongenpin/Magisk-ProxyPinCA) - Magisk模块ProxyPin系统证书
+
 *   [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 
 ## Shell
@@ -163,8 +165,6 @@
 *   [rehiy/dailyhot-docker](https://github.com/rehiy/dailyhot-docker) - 汇聚全网热点，热门尽览无余
 
 *   [kspeeder/docker\_kspeeder](https://github.com/kspeeder/docker_kspeeder) - Docker镜像加速专家 多镜像并发下载，动态负载均衡，断点续传支持，Docker镜像代理服务
-
-*   [wanghongenpin/Magisk-ProxyPinCA](https://github.com/wanghongenpin/Magisk-ProxyPinCA) - Magisk模块ProxyPin系统证书
 
 *   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 
