@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -27,10 +28,15 @@
 *   [Batchfile](#batchfile)
 *   [Objective-C++](#objective-c)
 *   [C](#c-1)
-*   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [C++](#c-2)
 *   [Thanks](#thanks)
+
+## Kotlin
+
+*   [ella8192/Portal](https://github.com/ella8192/Portal) - Android Lab FakeLocation Service（安卓7~15的虚拟定位服务）
+
+*   [cssxsh/bilibili-helper](https://github.com/cssxsh/bilibili-helper) - Mirai Console 插件开发计划
 
 ## HTML
 
@@ -86,7 +92,7 @@
 
 *   [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) -  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |
 
-*   [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - VibeSkills is a new kind of super skill that organizes 340+ governed skills into one stable AI work system.
+*   [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Vibe-Skills aims to create a new form of skills that integrates harnessing capabilities, multiple expert-level skills, and context management into a unified, general-purpose skills package—thereby reducing the cognitive burden associated with learning and utilizing AI.
 
 *   [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 
@@ -137,8 +143,6 @@
 *   [assassinliujie/youtube2bilibili](https://github.com/assassinliujie/youtube2bilibili) - 油管视频/频道 一键搬运到b站脚本
 
 *   [jiran214/langup-ai](https://github.com/jiran214/langup-ai) - AGI 社交网络 Bot.  BiliBili |  直播聊天数字人 | 视频@自动回复 | 私信bot | 终端聊天  |  语音交互
-
-*   [smallnew666/ChatGPT-Virtual-Live](https://github.com/smallnew666/ChatGPT-Virtual-Live) - ChatGPT虚拟主播、支持B站、抖音、视频号
 
 ## miscellaneous
 
@@ -253,10 +257,6 @@
 ## C
 
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-## Kotlin
-
-*   [cssxsh/bilibili-helper](https://github.com/cssxsh/bilibili-helper) - Mirai Console 插件开发计划
 
 ## Dart
 
