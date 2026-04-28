@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [HTML](#html)
@@ -32,9 +33,13 @@
 *   [C++](#c-2)
 *   [Thanks](#thanks)
 
+## PowerShell
+
+*   [pheohu-42/Claude\_zh-CN\_LanguagePack](https://github.com/pheohu-42/Claude_zh-CN_LanguagePack) -
+
 ## Python
 
-*   [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed
+*   [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He
 
 *   [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) -  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |
 
@@ -89,8 +94,6 @@
 *   [oiov/u2b](https://github.com/oiov/u2b) - 好耶！是哔哩哔哩投稿姬，只需一行命令搬运YouTube视频到B站～
 
 *   [assassinliujie/youtube2bilibili](https://github.com/assassinliujie/youtube2bilibili) - 油管视频/频道 一键搬运到b站脚本
-
-*   [jiran214/langup-ai](https://github.com/jiran214/langup-ai) - AGI 社交网络 Bot.  BiliBili |  直播聊天数字人 | 视频@自动回复 | 私信bot | 终端聊天  |  语音交互
 
 ## Kotlin
 
