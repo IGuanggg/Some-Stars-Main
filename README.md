@@ -14,7 +14,6 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
-*   [PowerShell](#powershell)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [HTML](#html)
@@ -69,11 +68,9 @@
 
 *   [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
 
-## PowerShell
+## Python
 
 *   [pheohu-42/Claude\_zh-CN\_LanguagePack](https://github.com/pheohu-42/Claude_zh-CN_LanguagePack) -
-
-## Python
 
 *   [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
 
