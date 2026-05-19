@@ -214,7 +214,7 @@
 
 *   [setube/vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) - 文字游戏: 我的文字修仙全靠刷
 
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 *   [xzxxn777/Surge](https://github.com/xzxxn777/Surge) - JavaScript Scripts for Surge
 
