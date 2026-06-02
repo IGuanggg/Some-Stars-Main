@@ -34,6 +34,8 @@
 
 ## Python
 
+*   [KingJin-web/zy](https://github.com/KingJin-web/zy) -
+
 *   [IGuanggg/lumaforge](https://github.com/IGuanggg/lumaforge) -
 
 *   [hero8152/Infinite-Canvas](https://github.com/hero8152/Infinite-Canvas) - Supports comfyui/API calls/modelscope calls
@@ -223,8 +225,6 @@
 *   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
 
 *   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板
-
-*   [yang7758258/ohhh\_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL\_Script Study |🌟| Issues接投稿
 
 ## C\#
 
