@@ -14,8 +14,8 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [Shell](#shell)
 *   [TypeScript](#typescript)
+*   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
@@ -33,6 +33,8 @@
 *   [Thanks](#thanks)
 
 ## Python
+
+*   [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 
 *   [KingJin-web/zy](https://github.com/KingJin-web/zy) -
 
@@ -92,23 +94,9 @@
 
 *   [chendbdb/qinglong](https://github.com/chendbdb/qinglong) - 青龙面板所使用的脚本，全部个人制作的，且开源
 
-## Shell
-
-*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
-
-*   [justlovemaki/openclaw-china-docker](https://github.com/justlovemaki/openclaw-china-docker) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
-
-*   [rehiy/dailyhot-docker](https://github.com/rehiy/dailyhot-docker) - 汇聚全网热点，热门尽览无余
-
-*   [kspeeder/docker\_kspeeder](https://github.com/kspeeder/docker_kspeeder) - Docker镜像加速专家 多镜像并发下载，动态负载均衡，断点续传支持，Docker镜像代理服务
-
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-
-*   [ellermister/mtproxy](https://github.com/ellermister/mtproxy) - MTProxyTLS一键安装绿色脚本
-
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶五合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
-
 ## TypeScript
+
+*   [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - 面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、画布编排、对话助手、提示词库和素材管理等功能、兼容OpenAI接口，支持chatgpt2api、grok2api、flow2api、newapi等接入。
 
 *   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
@@ -143,6 +131,22 @@
 *   [xmoxmo/bncr](https://github.com/xmoxmo/bncr) -
 
 *   [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
+
+## Shell
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [justlovemaki/openclaw-china-docker](https://github.com/justlovemaki/openclaw-china-docker) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
+
+*   [rehiy/dailyhot-docker](https://github.com/rehiy/dailyhot-docker) - 汇聚全网热点，热门尽览无余
+
+*   [kspeeder/docker\_kspeeder](https://github.com/kspeeder/docker_kspeeder) - Docker镜像加速专家 多镜像并发下载，动态负载均衡，断点续传支持，Docker镜像代理服务
+
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+
+*   [ellermister/mtproxy](https://github.com/ellermister/mtproxy) - MTProxyTLS一键安装绿色脚本
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶五合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
 
 ## Kotlin
 
@@ -181,8 +185,6 @@
 *   [f23997/openvpn-http-Headers](https://github.com/f23997/openvpn-http-Headers) - openvpn http伪装
 
 *   [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
-
-*   [coracoo/awesome\_docker\_cn](https://github.com/coracoo/awesome_docker_cn) - 上百款可docker部署的项目，包含项目地址、项目部署教程等。
 
 ## Rust
 
@@ -237,8 +239,6 @@
 *   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 *   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-
-*   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
 
 ## Batchfile
 
