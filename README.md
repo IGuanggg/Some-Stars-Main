@@ -163,7 +163,7 @@
 
 *   [AKA-Cigma/qinglong-backup](https://github.com/AKA-Cigma/qinglong-backup) - 将青龙的基本配置文件及脚本备份至阿里网盘&阿里网盘自动签到
 
-*   [arvinsblog/deepsea](https://github.com/arvinsblog/deepsea) - ☆青龙面板脚本更新自用可用薅羊毛库☆【美团自动领神券优惠券☆顺丰速运签到☆小米运动自动刷步数（微信/支付宝）】
+*   [lazykitty2026/deepsea](https://github.com/lazykitty2026/deepsea) - ☆青龙面板脚本更新自用可用薅羊毛库☆【美团自动领神券优惠券☆顺丰速运签到☆小米运动自动刷步数（微信/支付宝）】
 
 *   [Evil0ctal/Douyin\_TikTok\_Download\_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin\_TikTok\_Download\_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 
