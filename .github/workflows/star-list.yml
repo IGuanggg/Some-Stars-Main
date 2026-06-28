@@ -6,20 +6,42 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # Execute every week at 0:00 CST (UTC+8), which is 16:00 UTC on the previous day
-    - cron: '0 16 * * *' # This runs at 16:00 UTC on Saturday, which is 0:00 CST on Sunday
+    # Run every day at 00:00 China Standard Time (UTC+8).
+    - cron: '0 16 * * *'
   watch:
     types: [started]
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: some generator
-        uses: SwordfishLabs/simonecorsi-mawesome@v2
+
+      - uses: actions/setup-node@v4
         with:
-          api-token: ${{ secrets.PERSONAL_TOKEN }}
-          github-email: ${{ secrets.USER_EMAIL }}
-          template-path: "template/README.ejs"
-          github-name: ${{ github.repository_owner }}
+          node-version: 24
+
+      - name: Generate star list
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          STAR_LIST_TOKEN: ${{ secrets.PERSONAL_TOKEN || github.token }}
+        run: node .github/scripts/update-stars.mjs
+
+      - name: Commit updates
+        env:
+          GITHUB_NAME: ${{ github.repository_owner }}
+          USER_EMAIL: ${{ secrets.USER_EMAIL }}
+        run: |
+          if git diff --quiet -- README.md data.json; then
+            echo "No star list changes."
+            exit 0
+          fi
+
+          git config user.name "${GITHUB_NAME:-github-actions[bot]}"
+          git config user.email "${USER_EMAIL:-41898282+github-actions[bot]@users.noreply.github.com}"
+          git add README.md data.json
+          git commit -m "chore(updates): updated entries in files"
+          git push
