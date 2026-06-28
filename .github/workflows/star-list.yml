@@ -27,7 +27,7 @@ jobs:
       - name: Generate star list
         env:
           GITHUB_REPOSITORY: ${{ github.repository }}
-          STAR_LIST_TOKEN: ${{ secrets.PERSONAL_TOKEN || github.token }}
+          STAR_LIST_TOKEN: ${{ github.token }}
         run: node .github/scripts/update-stars.mjs
 
       - name: Commit updates

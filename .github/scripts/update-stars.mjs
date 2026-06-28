@@ -16,6 +16,12 @@ const headers = {
   'X-GitHub-Api-Version': '2022-11-28',
 };
 
+const publicHeaders = {
+  Accept: 'application/vnd.github+json',
+  'User-Agent': `${repository}-star-list-generator`,
+  'X-GitHub-Api-Version': '2022-11-28',
+};
+
 function nextLink(linkHeader) {
   if (!linkHeader) return null;
   const match = linkHeader
@@ -25,8 +31,8 @@ function nextLink(linkHeader) {
   return match?.match(/^<([^>]+)>/)?.[1] || null;
 }
 
-async function request(url) {
-  const response = await fetch(url, { headers });
+async function request(url, requestHeaders = headers) {
+  const response = await fetch(url, { headers: requestHeaders });
   if (!response.ok) {
     const body = await response.text();
     throw new Error(`GitHub API ${response.status} ${response.statusText}: ${body}`);
@@ -34,12 +40,12 @@ async function request(url) {
   return response;
 }
 
-async function fetchPaged(url) {
+async function fetchPaged(url, requestHeaders = headers) {
   const items = [];
   let current = url;
 
   while (current) {
-    const response = await request(current);
+    const response = await request(current, requestHeaders);
     items.push(...(await response.json()));
     current = nextLink(response.headers.get('link'));
   }
@@ -48,7 +54,23 @@ async function fetchPaged(url) {
 }
 
 async function fetchStarredRepos() {
-  const rawItems = await fetchPaged(`${apiBase}/user/starred?per_page=100`);
+  let rawItems;
+
+  try {
+    rawItems = await fetchPaged(`${apiBase}/user/starred?per_page=100`);
+  } catch (error) {
+    console.warn(`Authenticated starred lookup failed: ${error.message}`);
+    console.warn(`Falling back to public starred list for ${owner}.`);
+    const publicItems = await fetchPaged(
+      `${apiBase}/users/${owner}/starred?per_page=100`,
+      publicHeaders
+    );
+
+    return publicItems.map((repo) => ({
+      starred_at: null,
+      repo,
+    }));
+  }
 
   return rawItems.map((item) => {
     if (item.repo) {
@@ -202,10 +224,12 @@ function renderReadme(groups, repos) {
   const topLanguages = [...languageEntries]
     .sort((a, b) => b[1].length - a[1].length)
     .slice(0, 8);
-  const recentlyStarred = [...repos]
-    .filter((repo) => repo.starred_at)
-    .sort((a, b) => new Date(b.starred_at) - new Date(a.starred_at))
-    .slice(0, 8);
+  const starredWithDates = repos.filter((repo) => repo.starred_at);
+  const recentlyStarred = (
+    starredWithDates.length
+      ? [...starredWithDates].sort((a, b) => new Date(b.starred_at) - new Date(a.starred_at))
+      : repos
+  ).slice(0, 8);
   const mostStarred = [...repos]
     .sort((a, b) => b.stargazers_count - a.stargazers_count)
     .slice(0, 8);
