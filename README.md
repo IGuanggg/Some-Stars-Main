@@ -43,7 +43,7 @@ My GitHub star list, refreshed every day.
 
 | Total starred | Languages | Last sync |
 | ---: | ---: | --- |
-| 176 | 20 | 2026-07-20, 22:47 Asia/Shanghai |
+| 176 | 20 | 2026-07-21, 02:19 Asia/Shanghai |
 
 `Python` 58 · `TypeScript` 23 · `miscellaneous` 18 · `JavaScript` 16 · `Shell` 16 · `C#` 10 · `Go` 10 · `HTML` 6
 
@@ -51,36 +51,36 @@ My GitHub star list, refreshed every day.
 
 ### Recently Starred
 
-- [dimthink/PriceAI](https://github.com/dimthink/PriceAI) <sub>1,986 stars · TypeScript · updated 2026-07-20</sub>
-- [IvanLi-CN/tavily-hikari](https://github.com/IvanLi-CN/tavily-hikari) <sub>317 stars · Rust · updated 2026-07-20</sub>
+- [dimthink/PriceAI](https://github.com/dimthink/PriceAI) <sub>1,990 stars · TypeScript · updated 2026-07-21</sub>
+- [IvanLi-CN/tavily-hikari](https://github.com/IvanLi-CN/tavily-hikari) <sub>318 stars · Rust · updated 2026-07-21</sub>
 - [dama-cyber/Casting-Workflow](https://github.com/dama-cyber/Casting-Workflow) <sub>464 stars · Python · updated 2026-07-20</sub>
-- [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) <sub>861 stars · Python · updated 2026-07-20</sub>
-- [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) <sub>1,419 stars · Rust · updated 2026-07-20</sub>
-- [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) <sub>1,117 stars · Python · updated 2026-07-20</sub>
-- [shenminglinyi/PlotPilot](https://github.com/shenminglinyi/PlotPilot) <sub>1,309 stars · Python · updated 2026-07-20</sub>
-- [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) <sub>3,687 stars · Python · updated 2026-07-20</sub>
+- [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) <sub>864 stars · Python · updated 2026-07-21</sub>
+- [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) <sub>1,428 stars · Rust · updated 2026-07-21</sub>
+- [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) <sub>1,128 stars · Python · updated 2026-07-21</sub>
+- [shenminglinyi/PlotPilot](https://github.com/shenminglinyi/PlotPilot) <sub>1,310 stars · Python · updated 2026-07-20</sub>
+- [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) <sub>3,689 stars · Python · updated 2026-07-21</sub>
 
 ### Most Starred
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) <sub>383,568 stars · TypeScript · updated 2026-07-20</sub>
-- [langgenius/dify](https://github.com/langgenius/dify) <sub>149,474 stars · TypeScript · updated 2026-07-20</sub>
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) <sub>88,524 stars · TypeScript · updated 2026-07-20</sub>
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) <sub>79,916 stars · TypeScript · updated 2026-07-20</sub>
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) <sub>78,134 stars · C · updated 2026-07-20</sub>
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) <sub>66,472 stars · Python · updated 2026-07-20</sub>
-- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) <sub>56,961 stars · Python · updated 2026-07-20</sub>
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) <sub>52,682 stars · Shell · updated 2026-07-20</sub>
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) <sub>383,583 stars · TypeScript · updated 2026-07-21</sub>
+- [langgenius/dify](https://github.com/langgenius/dify) <sub>149,501 stars · TypeScript · updated 2026-07-21</sub>
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) <sub>88,523 stars · TypeScript · updated 2026-07-21</sub>
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) <sub>79,960 stars · TypeScript · updated 2026-07-21</sub>
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) <sub>78,137 stars · C · updated 2026-07-21</sub>
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) <sub>66,468 stars · Python · updated 2026-07-21</sub>
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) <sub>56,968 stars · Python · updated 2026-07-21</sub>
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) <sub>52,682 stars · Shell · updated 2026-07-21</sub>
 
 ### Recently Updated
 
-- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) <sub>12,020 stars · Python · updated 2026-07-20</sub>
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) <sub>383,568 stars · TypeScript · updated 2026-07-20</sub>
-- [langgenius/dify](https://github.com/langgenius/dify) <sub>149,474 stars · TypeScript · updated 2026-07-20</sub>
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) <sub>66,472 stars · Python · updated 2026-07-20</sub>
-- [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) <sub>13,489 stars · Python · updated 2026-07-20</sub>
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) <sub>88,524 stars · TypeScript · updated 2026-07-20</sub>
-- [xx025/carrot](https://github.com/xx025/carrot) <sub>17,149 stars · miscellaneous · updated 2026-07-20</sub>
-- [LorisYounger/VPet](https://github.com/LorisYounger/VPet) <sub>6,493 stars · C# · updated 2026-07-20</sub>
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) <sub>44,261 stars · JavaScript · updated 2026-07-21</sub>
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) <sub>79,960 stars · TypeScript · updated 2026-07-21</sub>
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) <sub>88,523 stars · TypeScript · updated 2026-07-21</sub>
+- [hero8152/Infinite-Canvas](https://github.com/hero8152/Infinite-Canvas) <sub>2,253 stars · Python · updated 2026-07-21</sub>
+- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) <sub>18,885 stars · Python · updated 2026-07-21</sub>
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) <sub>383,583 stars · TypeScript · updated 2026-07-21</sub>
+- [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) <sub>1,733 stars · Python · updated 2026-07-21</sub>
+- [langgenius/dify](https://github.com/langgenius/dify) <sub>149,501 stars · TypeScript · updated 2026-07-21</sub>
 
 ## Language Index
 
@@ -113,16 +113,16 @@ My GitHub star list, refreshed every day.
 ### miscellaneous
 
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
-  <br><sub>stars 13,517 · forks 946 · updated 2026-07-20</sub>
+  <br><sub>stars 13,524 · forks 947 · updated 2026-07-21</sub>
 
 - [Shanyin-ai/shanyin-screenwriting-master](https://github.com/Shanyin-ai/shanyin-screenwriting-master) - 山音超级编剧大师——由 @山音 设计的全格式影视编剧技能。 覆盖从1-3分钟概念超短片到90分钟电影长片、多集剧集的全格式剧本创作。 支持四种格式：概念超短片（how-to-tell/what-if）、5-10分钟叙事短片、90分钟长片（商业/文艺）、多集剧集。 覆盖从人物设计、结构大纲、场景拆解、到完整剧本写作的全流程。
   <br><sub>stars 674 · forks 116 · updated 2026-07-20 · #ai-agent #claude-ai #claude-skills #screenwriting</sub>
 
 - [0xsline/short-drama](https://github.com/0xsline/short-drama) - 专业的短剧剧本创作skill,从选题立项到分集撰写、质量自检、合规审核、海外出海，覆盖短剧剧本生产全流程。
-  <br><sub>stars 844 · forks 177 · updated 2026-07-20</sub>
+  <br><sub>stars 845 · forks 177 · updated 2026-07-21</sub>
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
-  <br><sub>stars 31,531 · forks 2,711 · updated 2026-07-20 · #awesome-list #clawdbot #moltbot #openclaw</sub>
+  <br><sub>stars 31,532 · forks 2,711 · updated 2026-07-21 · #awesome-list #clawdbot #moltbot #openclaw</sub>
 
 - [Fansirsqi/Sesame-TK](https://github.com/Fansirsqi/Sesame-TK) - 芝你麻咸鱼的粒-TK
   <br><sub>stars 1,154 · forks 251 · updated 2026-07-20</sub>
@@ -134,7 +134,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 230 · forks 15 · updated 2026-07-20 · #collect-green-energy #sesame-tk</sub>
 
 - [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
-  <br><sub>stars 4,157 · forks 596 · updated 2026-07-20</sub>
+  <br><sub>stars 4,158 · forks 596 · updated 2026-07-20</sub>
 
 - [f23997/openvpn-http-Headers](https://github.com/f23997/openvpn-http-Headers) - openvpn http伪装
   <br><sub>stars 8 · forks 10 · updated 2026-07-20</sub>
@@ -143,19 +143,19 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 11,091 · forks 1,004 · updated 2026-07-20 · #developer #exam #experiences #gong-wu-yuan</sub>
 
 - [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) - 上百款可docker部署的项目，包含项目地址、项目部署教程等。
-  <br><sub>stars 3,619 · forks 332 · updated 2026-07-20</sub>
+  <br><sub>stars 3,620 · forks 332 · updated 2026-07-21</sub>
 
 - [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复（国内主流AI模型，扣子，FastGpt，Dify全面支持！），⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！
   <br><sub>stars 3,304 · forks 482 · updated 2026-07-20 · #bot #crawler #security #wei-xin</sub>
 
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
-  <br><sub>stars 38,833 · forks 2,668 · updated 2026-07-20 · #api #chatgpt #claude #deepseek</sub>
+  <br><sub>stars 38,835 · forks 2,668 · updated 2026-07-21 · #api #chatgpt #claude #deepseek</sub>
 
 - [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、Cherry Studio、沉浸式翻译等项目使用
-  <br><sub>stars 6,513 · forks 591 · updated 2026-07-20</sub>
+  <br><sub>stars 6,515 · forks 591 · updated 2026-07-21</sub>
 
 - [xx025/carrot](https://github.com/xx025/carrot) - AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源
-  <br><sub>stars 17,149 · forks 1,461 · updated 2026-07-20 · #ai #chat #chatgpt #openai</sub>
+  <br><sub>stars 17,150 · forks 1,461 · updated 2026-07-21 · #ai #chat #chatgpt #openai</sub>
 
 - [Airahc/checkinpanel](https://github.com/Airahc/checkinpanel) - 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）
   <br><sub>stars 1 · forks 0 · updated 2026-07-20</sub>
@@ -164,7 +164,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 9,045 · forks 1,730 · updated 2026-07-20 · #nas #python</sub>
 
 - [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) - No description provided.
-  <br><sub>stars 13,953 · forks 3,121 · updated 2026-07-20</sub>
+  <br><sub>stars 13,954 · forks 3,121 · updated 2026-07-21</sub>
 
 </details>
 
@@ -184,7 +184,7 @@ My GitHub star list, refreshed every day.
 ### C
 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-  <br><sub>stars 78,134 · forks 4,864 · updated 2026-07-20 · #arm64 #auto-install #bootable-usb #bsd</sub>
+  <br><sub>stars 78,137 · forks 4,865 · updated 2026-07-21 · #arm64 #auto-install #bootable-usb #bsd</sub>
 
 </details>
 
@@ -197,25 +197,25 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 799 · forks 22 · updated 2026-07-20</sub>
 
 - [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
-  <br><sub>stars 7,574 · forks 370 · updated 2026-07-20 · #hotkeys #legion #lenovo #lenovo-legion</sub>
+  <br><sub>stars 7,573 · forks 370 · updated 2026-07-21 · #hotkeys #legion #lenovo #lenovo-legion</sub>
 
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
   <br><sub>stars 7,436 · forks 248 · updated 2026-07-20</sub>
 
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-  <br><sub>stars 26,217 · forks 1,664 · updated 2026-07-20 · #android-app #avalonia #avaloniaui #cross-platform</sub>
+  <br><sub>stars 26,219 · forks 1,664 · updated 2026-07-20 · #android-app #avalonia #avaloniaui #cross-platform</sub>
 
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   <br><sub>stars 19,204 · forks 2,176 · updated 2026-07-20 · #activation-toolkit #activator #digital-license #win-10</sub>
 
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
-  <br><sub>stars 8,753 · forks 1,912 · updated 2026-07-20 · #bilibili #blazor #netcore #quartz-net</sub>
+  <br><sub>stars 8,754 · forks 1,912 · updated 2026-07-20 · #bilibili #blazor #netcore #quartz-net</sub>
 
 - [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
-  <br><sub>stars 6,493 · forks 643 · updated 2026-07-20 · #desktop-pet #wpf</sub>
+  <br><sub>stars 6,496 · forks 643 · updated 2026-07-21 · #desktop-pet #wpf</sub>
 
 - [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 - UI Automation Testing Tools For Genshin Impact
-  <br><sub>stars 14,300 · forks 1,035 · updated 2026-07-20 · #auto-play-game #automatic #genius-invokation-tcg #genshin</sub>
+  <br><sub>stars 14,300 · forks 1,035 · updated 2026-07-21 · #auto-play-game #automatic #genius-invokation-tcg #genshin</sub>
 
 - [Milk-Dream/WeChatVideoDownload-Fiddler](https://github.com/Milk-Dream/WeChatVideoDownload-Fiddler) - 小白视频号助手是微信视频号下载的Fiddler插件,使用此插件你可以很轻松的下载微信视频号的视频内容,这个微信视频号插件使用C# .NETFramework4.7.1开发
   <br><sub>stars 88 · forks 18 · updated 2026-07-20</sub>
@@ -231,7 +231,7 @@ My GitHub star list, refreshed every day.
 ### C++
 
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
-  <br><sub>stars 15,462 · forks 1,500 · updated 2026-07-20</sub>
+  <br><sub>stars 15,462 · forks 1,501 · updated 2026-07-20</sub>
 
 </details>
 
@@ -251,7 +251,7 @@ My GitHub star list, refreshed every day.
 ### Dart
 
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems
-  <br><sub>stars 13,567 · forks 1,162 · updated 2026-07-20 · #capture-traffic #charles #fiddler #proxy</sub>
+  <br><sub>stars 13,571 · forks 1,162 · updated 2026-07-21 · #capture-traffic #charles #fiddler #proxy</sub>
 
 </details>
 
@@ -261,19 +261,19 @@ My GitHub star list, refreshed every day.
 ### Go
 
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
-  <br><sub>stars 28,374 · forks 3,869 · updated 2026-07-20 · #cloud #cloud-storage #cloudreve #file</sub>
+  <br><sub>stars 28,374 · forks 3,868 · updated 2026-07-21 · #cloud #cloud-storage #cloudreve #file</sub>
 
 - [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能加速服务，支持Docker 镜像加速、GitHub 加速、下载离线镜像等功能。轻量级，不占用存储空间。
-  <br><sub>stars 2,714 · forks 356 · updated 2026-07-20 · #devops #docker #docker-proxy #github</sub>
+  <br><sub>stars 2,715 · forks 356 · updated 2026-07-20 · #devops #docker #docker-proxy #github</sub>
 
 - [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
-  <br><sub>stars 5,413 · forks 518 · updated 2026-07-20 · #monitoring #monitoring-tool #remote-control</sub>
+  <br><sub>stars 5,414 · forks 519 · updated 2026-07-21 · #monitoring #monitoring-tool #remote-control</sub>
 
 - [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。
-  <br><sub>stars 13,925 · forks 3,346 · updated 2026-07-20</sub>
+  <br><sub>stars 13,927 · forks 3,347 · updated 2026-07-21</sub>
 
 - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
-  <br><sub>stars 10,244 · forks 1,602 · updated 2026-07-20 · #monitoring #monitoring-tool #system</sub>
+  <br><sub>stars 10,244 · forks 1,602 · updated 2026-07-21 · #monitoring #monitoring-tool #system</sub>
 
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube
   <br><sub>stars 10,529 · forks 978 · updated 2026-07-20 · #dubbing #localization #tts #video-transcription</sub>
@@ -298,10 +298,10 @@ My GitHub star list, refreshed every day.
 ### HTML
 
 - [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
-  <br><sub>stars 7,257 · forks 641 · updated 2026-07-20</sub>
+  <br><sub>stars 7,263 · forks 641 · updated 2026-07-21</sub>
 
 - [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
-  <br><sub>stars 7,390 · forks 795 · updated 2026-07-20 · #agent-collaboration #ai-assistant #dashboard #flask</sub>
+  <br><sub>stars 7,391 · forks 795 · updated 2026-07-21 · #agent-collaboration #ai-assistant #dashboard #flask</sub>
 
 - [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置 & 一键部署中转】生成功能。
   <br><sub>stars 1,682 · forks 412 · updated 2026-07-20 · #reality #vless #vless-reality #vless-reality-vision</sub>
@@ -339,10 +339,10 @@ My GitHub star list, refreshed every day.
 ### JavaScript
 
 - [worldwonderer/oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) - 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction, covering trend scouting, story analysis, writing, AI-slop cleanup, and cover generation
-  <br><sub>stars 4,372 · forks 675 · updated 2026-07-20 · #ai-agent #ai-writing #chinese-novel #claude-code</sub>
+  <br><sub>stars 4,376 · forks 677 · updated 2026-07-21 · #ai-agent #ai-writing #chinese-novel #claude-code</sub>
 
 - [0xsline/StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) - AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-in logs and gallery management.
-  <br><sub>stars 933 · forks 143 · updated 2026-07-20 · #ffmpeg #gemini #google #google-cloud-platform</sub>
+  <br><sub>stars 934 · forks 144 · updated 2026-07-21 · #ffmpeg #gemini #google #google-cloud-platform</sub>
 
 - [lolove1/222](https://github.com/lolove1/222) - No description provided.
   <br><sub>stars 24 · forks 4 · updated 2026-07-20</sub>
@@ -351,7 +351,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 1,752 · forks 303 · updated 2026-07-20 · #game #javascript #vue #xiuxian</sub>
 
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-  <br><sub>stars 44,260 · forks 5,376 · updated 2026-07-20 · #batch-processing #batch-script #code-free #crawler</sub>
+  <br><sub>stars 44,261 · forks 5,377 · updated 2026-07-21 · #batch-processing #batch-script #code-free #crawler</sub>
 
 - [xzxxn777/Surge](https://github.com/xzxxn777/Surge) - JavaScript Scripts for Surge
   <br><sub>stars 638 · forks 127 · updated 2026-07-20</sub>
@@ -360,7 +360,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 4,445 · forks 606 · updated 2026-07-20 · #crontab-task #qinglong</sub>
 
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板
-  <br><sub>stars 40,763 · forks 34,803 · updated 2026-07-20 · #shadowsocks #shadowsocks-ws-tls #trojan #vless</sub>
+  <br><sub>stars 40,771 · forks 34,806 · updated 2026-07-21 · #shadowsocks #shadowsocks-ws-tls #trojan #vless</sub>
 
 - [yang7758258/ohhh_QL-Script](https://github.com/yang7758258/ohhh_QL-Script) - QL_Script Study |🌟| Issues接投稿
   <br><sub>stars 261 · forks 42 · updated 2026-07-20</sub>
@@ -375,7 +375,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 4,315 · forks 599 · updated 2026-07-20 · #docker-proxy #docker-registry #gcr-registry</sub>
 
 - [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 企鹅交流1021185005
-  <br><sub>stars 3,235 · forks 417 · updated 2026-07-20</sub>
+  <br><sub>stars 3,236 · forks 417 · updated 2026-07-21</sub>
 
 - [crazyn2/wechat-bot](https://github.com/crazyn2/wechat-bot) - 带二次开发接口的PC微信聊天机器人
   <br><sub>stars 64 · forks 7 · updated 2026-07-20</sub>
@@ -400,7 +400,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 143 · forks 15 · updated 2026-07-20 · #bilibili #mirai #mirai-console #mirai-plugin</sub>
 
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-  <br><sub>stars 27,161 · forks 3,337 · updated 2026-07-20 · #android #api #app #bark</sub>
+  <br><sub>stars 27,162 · forks 3,337 · updated 2026-07-20 · #android #api #app #bark</sub>
 
 </details>
 
@@ -430,7 +430,7 @@ My GitHub star list, refreshed every day.
 ### PHP
 
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
-  <br><sub>stars 12,139 · forks 2,764 · updated 2026-07-20 · #dujiaofaka #dujiaoka #faka</sub>
+  <br><sub>stars 12,140 · forks 2,764 · updated 2026-07-21 · #dujiaofaka #dujiaoka #faka</sub>
 
 </details>
 
@@ -443,37 +443,37 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 464 · forks 91 · updated 2026-07-20</sub>
 
 - [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) - Agent-native reverse-engineering lab with a 197-article knowledge base, MCP tools, and CTF/APK/PE automation workflows.
-  <br><sub>stars 861 · forks 231 · updated 2026-07-20 · #ai-agent #android-reverse-engineering #binary-analysis #cryptography</sub>
+  <br><sub>stars 864 · forks 231 · updated 2026-07-21 · #ai-agent #android-reverse-engineering #binary-analysis #cryptography</sub>
 
 - [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) - Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.
-  <br><sub>stars 1,117 · forks 188 · updated 2026-07-20 · #cli #codex #codex-cli #configuration-management</sub>
+  <br><sub>stars 1,128 · forks 192 · updated 2026-07-21 · #cli #codex #codex-cli #configuration-management</sub>
 
 - [shenminglinyi/PlotPilot](https://github.com/shenminglinyi/PlotPilot) - 【墨枢】作者的领航员
-  <br><sub>stars 1,309 · forks 404 · updated 2026-07-20</sub>
+  <br><sub>stars 1,310 · forks 405 · updated 2026-07-20</sub>
 
 - [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) - 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease.
-  <br><sub>stars 3,687 · forks 604 · updated 2026-07-20</sub>
+  <br><sub>stars 3,689 · forks 603 · updated 2026-07-21</sub>
 
 - [tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory) - 天天中转站
-  <br><sub>stars 1,533 · forks 622 · updated 2026-07-20</sub>
+  <br><sub>stars 1,537 · forks 627 · updated 2026-07-21</sub>
 
 - [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry Studio、New Api 等软件
-  <br><sub>stars 5,189 · forks 1,450 · updated 2026-07-20</sub>
+  <br><sub>stars 5,192 · forks 1,450 · updated 2026-07-21</sub>
 
 - [KingJin-web/zy](https://github.com/KingJin-web/zy) - No description provided.
   <br><sub>stars 129 · forks 26 · updated 2026-07-20</sub>
 
 - [hero8152/Infinite-Canvas](https://github.com/hero8152/Infinite-Canvas) - Supports comfyui/API calls/modelscope calls
-  <br><sub>stars 2,245 · forks 448 · updated 2026-07-20</sub>
+  <br><sub>stars 2,253 · forks 448 · updated 2026-07-21</sub>
 
 - [pheohu-42/Claude_zh-CN_LanguagePack](https://github.com/pheohu-42/Claude_zh-CN_LanguagePack) - No description provided.
   <br><sub>stars 332 · forks 16 · updated 2026-07-20</sub>
 
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-  <br><sub>stars 40,119 · forks 3,323 · updated 2026-07-20 · #ai-agent #aippt #office #powerpoint</sub>
+  <br><sub>stars 40,141 · forks 3,325 · updated 2026-07-21 · #ai-agent #aippt #office #powerpoint</sub>
 
 - [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) - Outlookmail Plus: Designed Specifically for Registration | Outlookmail Plus：专为注册而生 |
-  <br><sub>stars 1,731 · forks 344 · updated 2026-07-20</sub>
+  <br><sub>stars 1,733 · forks 345 · updated 2026-07-21</sub>
 
 - [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - Governed workflow runtime for AI agents: scope complex requests, coordinate local Skills, verify delivery, and preserve resumable context.
   <br><sub>stars 2,406 · forks 171 · updated 2026-07-20 · #agent-framework #agent-skills #agentic-coding #ai-agents</sub>
@@ -482,13 +482,13 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 16,253 · forks 1,704 · updated 2026-07-20 · #ai-agents #ai-orchestration #autonomous-agents #claude</sub>
 
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-  <br><sub>stars 17,974 · forks 1,530 · updated 2026-07-20 · #apple-silicon #inference-server #llm #macos</sub>
+  <br><sub>stars 17,979 · forks 1,530 · updated 2026-07-21 · #apple-silicon #inference-server #llm #macos</sub>
 
 - [wujunwei928/parse-video-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
   <br><sub>stars 658 · forks 175 · updated 2026-07-20 · #python #spider #video</sub>
 
 - [Cat-zaizai/ZaiZaiCat-Checkin](https://github.com/Cat-zaizai/ZaiZaiCat-Checkin) - 每日签到脚本(多账号),青龙脚本,签到脚本,签到列表: 🚚 顺丰速运 | 恩山论坛 | 看雪论坛 | 上海杨浦 | 华润通 | 鸿星尔克 | WPS签到 | 什么值得买
-  <br><sub>stars 400 · forks 56 · updated 2026-07-20 · #checkin #python #qinglong</sub>
+  <br><sub>stars 401 · forks 56 · updated 2026-07-20 · #checkin #python #qinglong</sub>
 
 - [HisMax/RedInk](https://github.com/HisMax/RedInk) - Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
   <br><sub>stars 5,415 · forks 1,031 · updated 2026-07-20 · #ai #aigc #content-generator #docker</sub>
@@ -497,7 +497,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 3,239 · forks 270 · updated 2026-07-20 · #background-replacement #image-compression #image-cropping #photo-layout</sub>
 
 - [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
-  <br><sub>stars 15,378 · forks 1,312 · updated 2026-07-20 · #ai #subtitle #translate #video-subtile</sub>
+  <br><sub>stars 15,377 · forks 1,312 · updated 2026-07-20 · #ai #subtitle #translate #video-subtile</sub>
 
 - [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
   <br><sub>stars 5,845 · forks 1,168 · updated 2026-07-20 · #gemini #gemini-api #googlesearch #imagen-3</sub>
@@ -506,22 +506,22 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 886 · forks 172 · updated 2026-07-20</sub>
 
 - [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
-  <br><sub>stars 10,354 · forks 1,419 · updated 2026-07-20 · #aiagent #aiops #gemini-api #llm</sub>
+  <br><sub>stars 10,358 · forks 1,419 · updated 2026-07-21 · #aiagent #aiops #gemini-api #llm</sub>
 
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
-  <br><sub>stars 8,900 · forks 2,389 · updated 2026-07-20</sub>
+  <br><sub>stars 8,900 · forks 2,388 · updated 2026-07-20</sub>
 
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-  <br><sub>stars 13,489 · forks 2,333 · updated 2026-07-20 · #bilibili #douyin #tiktok #xiaohongshu</sub>
+  <br><sub>stars 13,507 · forks 2,338 · updated 2026-07-21 · #bilibili #douyin #tiktok #xiaohongshu</sub>
 
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
   <br><sub>stars 12,020 · forks 1,783 · updated 2026-07-20 · #api #docker #downloader #fastapi</sub>
 
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-  <br><sub>stars 36,955 · forks 2,563 · updated 2026-07-20 · #agent #ai #astrbot #chatbot</sub>
+  <br><sub>stars 37,009 · forks 2,570 · updated 2026-07-21 · #agent #ai #astrbot #chatbot</sub>
 
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
-  <br><sub>stars 21,297 · forks 2,443 · updated 2026-07-20 · #cnn #demo #docker #face-recognition</sub>
+  <br><sub>stars 21,297 · forks 2,444 · updated 2026-07-20 · #cnn #demo #docker #face-recognition</sub>
 
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
   <br><sub>stars 7,764 · forks 822 · updated 2026-07-20</sub>
@@ -533,10 +533,10 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 202 · forks 25 · updated 2026-07-20</sub>
 
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
-  <br><sub>stars 18,883 · forks 2,691 · updated 2026-07-20 · #api #async #crawler #douyin</sub>
+  <br><sub>stars 18,885 · forks 2,691 · updated 2026-07-21 · #api #async #crawler #douyin</sub>
 
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-  <br><sub>stars 15,556 · forks 1,740 · updated 2026-07-20 · #alibabacloud #android #android-emulator #aws</sub>
+  <br><sub>stars 15,558 · forks 1,740 · updated 2026-07-21 · #alibabacloud #android #android-emulator #aws</sub>
 
 - [wd210010/only_for_happly](https://github.com/wd210010/only_for_happly) - manus自动写脚本 注册链接 https://manus.im/invitation/V9OIRPDYST3RAF8 1元机场 http://b.u9v.cn/dVMss 百度贴吧签到★小米运动刷步数★恩山签到★雨云签到白嫖服务器★小茅预约★天翼云盘签到★阿里云盘签到★富贵论坛签到★一点万向签到打卡★品赞代理签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★ddnsto自动续费七天★爱奇艺签到刷时长★双色球预测（娱乐）
   <br><sub>stars 1,421 · forks 156 · updated 2026-07-20</sub>
@@ -560,16 +560,16 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 299 · forks 66 · updated 2026-07-20</sub>
 
 - [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 中文频道、群组与机器人精选索引，结合自动化抓取与人工整理，支持在线搜索与分类浏览。
-  <br><sub>stars 9,050 · forks 526 · updated 2026-07-20 · #open-data #telegram #telegram-bot #telegram-channel</sub>
+  <br><sub>stars 9,051 · forks 526 · updated 2026-07-20 · #open-data #telegram #telegram-bot #telegram-channel</sub>
 
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
   <br><sub>stars 15,193 · forks 2,620 · updated 2026-07-20 · #api #csv #docker #douyin</sub>
 
 - [cyubuchen/Free_Proxy_Website](https://github.com/cyubuchen/Free_Proxy_Website) - 获取免费socks/https/http代理的网站集合
-  <br><sub>stars 685 · forks 129 · updated 2026-07-20 · #crawler #free-proxy-list #ip #proxy</sub>
+  <br><sub>stars 684 · forks 129 · updated 2026-07-20 · #crawler #free-proxy-list #ip #proxy</sub>
 
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-  <br><sub>stars 56,961 · forks 11,411 · updated 2026-07-20</sub>
+  <br><sub>stars 56,968 · forks 11,413 · updated 2026-07-21</sub>
 
 - [linbailo/zyqinglong](https://github.com/linbailo/zyqinglong) - 青龙面板脚本自用库薅羊毛（✅ 滴滴出行领券✅ 滴滴加油领券✅ 滴滴代驾领券/滴滴签到领券打卡✅ 滴滴果园✅ mt论坛✅ 美团✅ 饿了么✅ 得物✅ 顺丰✅ 霸王茶姬✅ 益禾堂✅ 塔斯汀✅ 海底捞）
   <br><sub>stars 1,924 · forks 220 · updated 2026-07-20</sub>
@@ -578,7 +578,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 817 · forks 190 · updated 2026-07-20</sub>
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
-  <br><sub>stars 66,472 · forks 13,532 · updated 2026-07-20 · #chatbot #chatbots #chatgpt #chatgpt-4</sub>
+  <br><sub>stars 66,468 · forks 13,532 · updated 2026-07-21 · #chatbot #chatbots #chatgpt #chatgpt-4</sub>
 
 - [huaji8/huajiScript](https://github.com/huaji8/huajiScript) - 滑稽の青龙脚本库
   <br><sub>stars 814 · forks 87 · updated 2026-07-20 · #javascript #luguan #python-script #python3</sub>
@@ -611,7 +611,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 470 · forks 243 · updated 2026-07-20</sub>
 
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
-  <br><sub>stars 46,055 · forks 10,265 · updated 2026-07-20 · #ai #ai-agent #ai-agents #chatgpt-on-wechat</sub>
+  <br><sub>stars 46,057 · forks 10,266 · updated 2026-07-21 · #ai #ai-agent #ai-agents #chatgpt-on-wechat</sub>
 
 </details>
 
@@ -621,10 +621,10 @@ My GitHub star list, refreshed every day.
 ### Rust
 
 - [IvanLi-CN/tavily-hikari](https://github.com/IvanLi-CN/tavily-hikari) - No description provided.
-  <br><sub>stars 317 · forks 46 · updated 2026-07-20 · #search</sub>
+  <br><sub>stars 318 · forks 46 · updated 2026-07-21 · #search</sub>
 
 - [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) - Codex Switch & Instruct desktop manager
-  <br><sub>stars 1,419 · forks 215 · updated 2026-07-20</sub>
+  <br><sub>stars 1,428 · forks 215 · updated 2026-07-21</sub>
 
 - [buyi06/tgstate-rust](https://github.com/buyi06/tgstate-rust) - Telegram 文件/图床管理面板（FastAPI + Web UI），一键 Docker 部署，支持上传、分享、下载与删除。
   <br><sub>stars 138 · forks 39 · updated 2026-07-20</sub>
@@ -640,7 +640,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 1,921 · forks 650 · updated 2026-07-20 · #argo #cdn #clash #cloudflare</sub>
 
 - [justlovemaki/openclaw-china-docker](https://github.com/justlovemaki/openclaw-china-docker) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
-  <br><sub>stars 3,757 · forks 454 · updated 2026-07-20</sub>
+  <br><sub>stars 3,756 · forks 454 · updated 2026-07-20</sub>
 
 - [rehiy/dailyhot-docker](https://github.com/rehiy/dailyhot-docker) - 汇聚全网热点，热门尽览无余
   <br><sub>stars 152 · forks 27 · updated 2026-07-20</sub>
@@ -649,13 +649,13 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 292 · forks 39 · updated 2026-07-20 · #cloudflare #docker #docker-image #docker-registry</sub>
 
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-  <br><sub>stars 52,682 · forks 2,881 · updated 2026-07-20 · #container #docker #docker-osx #kvm</sub>
+  <br><sub>stars 52,682 · forks 2,881 · updated 2026-07-21 · #container #docker #docker-osx #kvm</sub>
 
 - [ellermister/mtproxy](https://github.com/ellermister/mtproxy) - MTProxyTLS一键安装绿色脚本
   <br><sub>stars 1,642 · forks 452 · updated 2026-07-20 · #mtp #mtproto #mtproto-proxy #mtproxy</sub>
 
 - [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶五合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
-  <br><sub>stars 9,648 · forks 3,025 · updated 2026-07-20 · #acme #alpine #anytls #argo</sub>
+  <br><sub>stars 9,650 · forks 3,025 · updated 2026-07-21 · #acme #alpine #anytls #argo</sub>
 
 - [FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency) - 青龙面板全依赖一键安装脚本 / Qinglong Pannel Dependency Install Scripts.
   <br><sub>stars 2,186 · forks 347 · updated 2026-07-20 · #cron #homepage #jd #module</sub>
@@ -667,7 +667,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 1,242 · forks 119 · updated 2026-07-20</sub>
 
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
-  <br><sub>stars 14,650 · forks 1,547 · updated 2026-07-20 · #mirror #speedup</sub>
+  <br><sub>stars 14,651 · forks 1,547 · updated 2026-07-21 · #mirror #speedup</sub>
 
 - [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
   <br><sub>stars 5,280 · forks 605 · updated 2026-07-20 · #proxmox #proxmox-ve #samba #zfs</sub>
@@ -676,7 +676,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 876 · forks 110 · updated 2026-07-20 · #debian #quickbox-lite #seedbox #seedbox-install-script</sub>
 
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) - 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
-  <br><sub>stars 2,257 · forks 487 · updated 2026-07-20 · #alive #bash #centos #debian</sub>
+  <br><sub>stars 2,258 · forks 488 · updated 2026-07-21 · #alive #bash #centos #debian</sub>
 
 - [Aniverse/inexistence](https://github.com/Aniverse/inexistence) - I know nothing, you see nothing.
   <br><sub>stars 1,498 · forks 368 · updated 2026-07-20</sub>
@@ -692,25 +692,25 @@ My GitHub star list, refreshed every day.
 ### TypeScript
 
 - [dimthink/PriceAI](https://github.com/dimthink/PriceAI) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
-  <br><sub>stars 1,986 · forks 121 · updated 2026-07-20 · #ai #ai-subscription #chatgpt #claude</sub>
+  <br><sub>stars 1,990 · forks 122 · updated 2026-07-21 · #ai #ai-subscription #chatgpt #claude</sub>
 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.
-  <br><sub>stars 79,916 · forks 9,214 · updated 2026-07-20 · #agent-skills #ai-agents #ai-design #byok</sub>
+  <br><sub>stars 79,960 · forks 9,220 · updated 2026-07-21 · #agent-skills #ai-agents #ai-design #byok</sub>
 
 - [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
-  <br><sub>stars 3,541 · forks 924 · updated 2026-07-20</sub>
+  <br><sub>stars 3,550 · forks 925 · updated 2026-07-21</sub>
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
-  <br><sub>stars 149,474 · forks 23,557 · updated 2026-07-20 · #agent #agentic-ai #agentic-framework #agentic-workflow</sub>
+  <br><sub>stars 149,501 · forks 23,560 · updated 2026-07-21 · #agent #agentic-ai #agentic-framework #agentic-workflow</sub>
 
 - [beilunyang/moemail](https://github.com/beilunyang/moemail) - A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
-  <br><sub>stars 2,741 · forks 2,521 · updated 2026-07-20 · #cloudflare #cloudflare-workers #email #temp-email</sub>
+  <br><sub>stars 2,743 · forks 2,522 · updated 2026-07-21 · #cloudflare #cloudflare-workers #email #temp-email</sub>
 
 - [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
-  <br><sub>stars 21,391 · forks 16,424 · updated 2026-07-20</sub>
+  <br><sub>stars 21,396 · forks 16,426 · updated 2026-07-21</sub>
 
 - [ponponon/claude_code_src](https://github.com/ponponon/claude_code_src) - 2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文件的 sourcesContent 字段里面，解压还原后有 70w 行代码
-  <br><sub>stars 2,325 · forks 3,542 · updated 2026-07-20</sub>
+  <br><sub>stars 2,325 · forks 3,540 · updated 2026-07-20</sub>
 
 - [tencent-connect/openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot) - qqbot
   <br><sub>stars 1,530 · forks 193 · updated 2026-07-20</sub>
@@ -719,31 +719,31 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 3,959 · forks 343 · updated 2026-07-20 · #openclaw #openclaw-china #openclaw-dingding #openclaw-feishu</sub>
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-  <br><sub>stars 383,568 · forks 80,571 · updated 2026-07-20 · #ai #assistant #crustacean #molty</sub>
+  <br><sub>stars 383,583 · forks 80,577 · updated 2026-07-21 · #ai #assistant #crustacean #molty</sub>
 
 - [KuekHaoYang/KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
-  <br><sub>stars 3,863 · forks 6,649 · updated 2026-07-20</sub>
+  <br><sub>stars 3,864 · forks 6,649 · updated 2026-07-20</sub>
 
 - [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。新项目：https://github.com/Decohererk/DecoTV
   <br><sub>stars 2,853 · forks 3,475 · updated 2026-07-20</sub>
 
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
-  <br><sub>stars 52,241 · forks 6,915 · updated 2026-07-20 · #electron #javascript #music-player #vue</sub>
+  <br><sub>stars 52,244 · forks 6,915 · updated 2026-07-20 · #electron #javascript #music-player #vue</sub>
 
 - [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
-  <br><sub>stars 9,097 · forks 8,793 · updated 2026-07-20</sub>
+  <br><sub>stars 9,098 · forks 8,793 · updated 2026-07-21</sub>
 
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-  <br><sub>stars 10,577 · forks 7,156 · updated 2026-07-20 · #cloudflare-email #cloudflare-pages #cloudflare-workers #email</sub>
+  <br><sub>stars 10,581 · forks 7,163 · updated 2026-07-21 · #cloudflare-email #cloudflare-pages #cloudflare-workers #email</sub>
 
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
-  <br><sub>stars 21,048 · forks 5,832 · updated 2026-07-20 · #elegant #news</sub>
+  <br><sub>stars 21,050 · forks 5,832 · updated 2026-07-21 · #elegant #news</sub>
 
 - [xxss0903/drawstamputils](https://github.com/xxss0903/drawstamputils) - Draw Stamp Utils with Javascript
   <br><sub>stars 1,596 · forks 677 · updated 2026-07-20</sub>
 
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-  <br><sub>stars 47,408 · forks 2,349 · updated 2026-07-20 · #ai #electron #esrgan #gigapixel</sub>
+  <br><sub>stars 47,412 · forks 2,349 · updated 2026-07-21 · #ai #electron #esrgan #gigapixel</sub>
 
 - [xmoxmo/bncr](https://github.com/xmoxmo/bncr) - No description provided.
   <br><sub>stars 7 · forks 1 · updated 2026-07-20</sub>
@@ -758,7 +758,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 2,838 · forks 1,180 · updated 2026-07-20 · #bing #bingai #gpt #gpt4</sub>
 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
-  <br><sub>stars 88,524 · forks 59,394 · updated 2026-07-20 · #calclaude #chatgpt #claude #cross-platform</sub>
+  <br><sub>stars 88,523 · forks 59,395 · updated 2026-07-21 · #calclaude #chatgpt #claude #cross-platform</sub>
 
 </details>
 
