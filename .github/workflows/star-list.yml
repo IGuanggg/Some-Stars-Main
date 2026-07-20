@@ -6,8 +6,9 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # Run every day at 00:00 China Standard Time (UTC+8).
-    - cron: '0 16 * * *'
+    # Run every day at 00:17 China Standard Time (UTC+8).
+    # Avoid minute 0, when GitHub Actions scheduled runs are more likely to be delayed or dropped.
+    - cron: '17 16 * * *'
   watch:
     types: [started]
 
