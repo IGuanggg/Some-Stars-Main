@@ -43,7 +43,7 @@ My GitHub star list, refreshed every day.
 
 | Total starred | Languages | Last sync |
 | ---: | ---: | --- |
-| 176 | 20 | 2026-07-20, 22:43 Asia/Shanghai |
+| 176 | 20 | 2026-07-20, 22:47 Asia/Shanghai |
 
 `Python` 58 · `TypeScript` 23 · `miscellaneous` 18 · `JavaScript` 16 · `Shell` 16 · `C#` 10 · `Go` 10 · `HTML` 6
 
@@ -62,25 +62,25 @@ My GitHub star list, refreshed every day.
 
 ### Most Starred
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) <sub>383,567 stars · TypeScript · updated 2026-07-20</sub>
-- [langgenius/dify](https://github.com/langgenius/dify) <sub>149,473 stars · TypeScript · updated 2026-07-20</sub>
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) <sub>88,523 stars · TypeScript · updated 2026-07-20</sub>
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) <sub>79,915 stars · TypeScript · updated 2026-07-20</sub>
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) <sub>78,133 stars · C · updated 2026-07-20</sub>
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) <sub>66,471 stars · Python · updated 2026-07-20</sub>
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) <sub>383,568 stars · TypeScript · updated 2026-07-20</sub>
+- [langgenius/dify](https://github.com/langgenius/dify) <sub>149,474 stars · TypeScript · updated 2026-07-20</sub>
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) <sub>88,524 stars · TypeScript · updated 2026-07-20</sub>
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) <sub>79,916 stars · TypeScript · updated 2026-07-20</sub>
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) <sub>78,134 stars · C · updated 2026-07-20</sub>
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) <sub>66,472 stars · Python · updated 2026-07-20</sub>
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) <sub>56,961 stars · Python · updated 2026-07-20</sub>
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) <sub>52,681 stars · Shell · updated 2026-07-20</sub>
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) <sub>52,682 stars · Shell · updated 2026-07-20</sub>
 
 ### Recently Updated
 
-- [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) <sub>15,378 stars · Python · updated 2026-07-20</sub>
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) <sub>40,119 stars · Python · updated 2026-07-20</sub>
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) <sub>36,955 stars · Python · updated 2026-07-20</sub>
-- [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) <sub>7,574 stars · C# · updated 2026-07-20</sub>
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) <sub>383,567 stars · TypeScript · updated 2026-07-20</sub>
-- [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) <sub>7,257 stars · HTML · updated 2026-07-20</sub>
-- [dimthink/PriceAI](https://github.com/dimthink/PriceAI) <sub>1,986 stars · TypeScript · updated 2026-07-20</sub>
-- [ponponon/claude_code_src](https://github.com/ponponon/claude_code_src) <sub>2,325 stars · TypeScript · updated 2026-07-20</sub>
+- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) <sub>12,020 stars · Python · updated 2026-07-20</sub>
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) <sub>383,568 stars · TypeScript · updated 2026-07-20</sub>
+- [langgenius/dify](https://github.com/langgenius/dify) <sub>149,474 stars · TypeScript · updated 2026-07-20</sub>
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) <sub>66,472 stars · Python · updated 2026-07-20</sub>
+- [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) <sub>13,489 stars · Python · updated 2026-07-20</sub>
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) <sub>88,524 stars · TypeScript · updated 2026-07-20</sub>
+- [xx025/carrot](https://github.com/xx025/carrot) <sub>17,149 stars · miscellaneous · updated 2026-07-20</sub>
+- [LorisYounger/VPet](https://github.com/LorisYounger/VPet) <sub>6,493 stars · C# · updated 2026-07-20</sub>
 
 ## Language Index
 
@@ -155,7 +155,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 6,513 · forks 591 · updated 2026-07-20</sub>
 
 - [xx025/carrot](https://github.com/xx025/carrot) - AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源
-  <br><sub>stars 17,148 · forks 1,461 · updated 2026-07-20 · #ai #chat #chatgpt #openai</sub>
+  <br><sub>stars 17,149 · forks 1,461 · updated 2026-07-20 · #ai #chat #chatgpt #openai</sub>
 
 - [Airahc/checkinpanel](https://github.com/Airahc/checkinpanel) - 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）
   <br><sub>stars 1 · forks 0 · updated 2026-07-20</sub>
@@ -184,7 +184,7 @@ My GitHub star list, refreshed every day.
 ### C
 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-  <br><sub>stars 78,133 · forks 4,864 · updated 2026-07-20 · #arm64 #auto-install #bootable-usb #bsd</sub>
+  <br><sub>stars 78,134 · forks 4,864 · updated 2026-07-20 · #arm64 #auto-install #bootable-usb #bsd</sub>
 
 </details>
 
@@ -203,7 +203,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 7,436 · forks 248 · updated 2026-07-20</sub>
 
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-  <br><sub>stars 26,216 · forks 1,664 · updated 2026-07-20 · #android-app #avalonia #avaloniaui #cross-platform</sub>
+  <br><sub>stars 26,217 · forks 1,664 · updated 2026-07-20 · #android-app #avalonia #avaloniaui #cross-platform</sub>
 
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   <br><sub>stars 19,204 · forks 2,176 · updated 2026-07-20 · #activation-toolkit #activator #digital-license #win-10</sub>
@@ -212,7 +212,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 8,753 · forks 1,912 · updated 2026-07-20 · #bilibili #blazor #netcore #quartz-net</sub>
 
 - [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
-  <br><sub>stars 6,492 · forks 643 · updated 2026-07-20 · #desktop-pet #wpf</sub>
+  <br><sub>stars 6,493 · forks 643 · updated 2026-07-20 · #desktop-pet #wpf</sub>
 
 - [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 - UI Automation Testing Tools For Genshin Impact
   <br><sub>stars 14,300 · forks 1,035 · updated 2026-07-20 · #auto-play-game #automatic #genius-invokation-tcg #genshin</sub>
@@ -430,7 +430,7 @@ My GitHub star list, refreshed every day.
 ### PHP
 
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
-  <br><sub>stars 12,138 · forks 2,764 · updated 2026-07-20 · #dujiaofaka #dujiaoka #faka</sub>
+  <br><sub>stars 12,139 · forks 2,764 · updated 2026-07-20 · #dujiaofaka #dujiaoka #faka</sub>
 
 </details>
 
@@ -512,10 +512,10 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 8,900 · forks 2,389 · updated 2026-07-20</sub>
 
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-  <br><sub>stars 13,488 · forks 2,333 · updated 2026-07-20 · #bilibili #douyin #tiktok #xiaohongshu</sub>
+  <br><sub>stars 13,489 · forks 2,333 · updated 2026-07-20 · #bilibili #douyin #tiktok #xiaohongshu</sub>
 
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
-  <br><sub>stars 12,019 · forks 1,783 · updated 2026-07-20 · #api #docker #downloader #fastapi</sub>
+  <br><sub>stars 12,020 · forks 1,783 · updated 2026-07-20 · #api #docker #downloader #fastapi</sub>
 
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
   <br><sub>stars 36,955 · forks 2,563 · updated 2026-07-20 · #agent #ai #astrbot #chatbot</sub>
@@ -578,7 +578,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 817 · forks 190 · updated 2026-07-20</sub>
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
-  <br><sub>stars 66,471 · forks 13,532 · updated 2026-07-20 · #chatbot #chatbots #chatgpt #chatgpt-4</sub>
+  <br><sub>stars 66,472 · forks 13,532 · updated 2026-07-20 · #chatbot #chatbots #chatgpt #chatgpt-4</sub>
 
 - [huaji8/huajiScript](https://github.com/huaji8/huajiScript) - 滑稽の青龙脚本库
   <br><sub>stars 814 · forks 87 · updated 2026-07-20 · #javascript #luguan #python-script #python3</sub>
@@ -611,7 +611,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 470 · forks 243 · updated 2026-07-20</sub>
 
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
-  <br><sub>stars 46,054 · forks 10,265 · updated 2026-07-20 · #ai #ai-agent #ai-agents #chatgpt-on-wechat</sub>
+  <br><sub>stars 46,055 · forks 10,265 · updated 2026-07-20 · #ai #ai-agent #ai-agents #chatgpt-on-wechat</sub>
 
 </details>
 
@@ -649,7 +649,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 292 · forks 39 · updated 2026-07-20 · #cloudflare #docker #docker-image #docker-registry</sub>
 
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-  <br><sub>stars 52,681 · forks 2,881 · updated 2026-07-20 · #container #docker #docker-osx #kvm</sub>
+  <br><sub>stars 52,682 · forks 2,881 · updated 2026-07-20 · #container #docker #docker-osx #kvm</sub>
 
 - [ellermister/mtproxy](https://github.com/ellermister/mtproxy) - MTProxyTLS一键安装绿色脚本
   <br><sub>stars 1,642 · forks 452 · updated 2026-07-20 · #mtp #mtproto #mtproto-proxy #mtproxy</sub>
@@ -695,13 +695,13 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 1,986 · forks 121 · updated 2026-07-20 · #ai #ai-subscription #chatgpt #claude</sub>
 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.
-  <br><sub>stars 79,915 · forks 9,214 · updated 2026-07-20 · #agent-skills #ai-agents #ai-design #byok</sub>
+  <br><sub>stars 79,916 · forks 9,214 · updated 2026-07-20 · #agent-skills #ai-agents #ai-design #byok</sub>
 
 - [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
   <br><sub>stars 3,541 · forks 924 · updated 2026-07-20</sub>
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
-  <br><sub>stars 149,473 · forks 23,557 · updated 2026-07-20 · #agent #agentic-ai #agentic-framework #agentic-workflow</sub>
+  <br><sub>stars 149,474 · forks 23,557 · updated 2026-07-20 · #agent #agentic-ai #agentic-framework #agentic-workflow</sub>
 
 - [beilunyang/moemail](https://github.com/beilunyang/moemail) - A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
   <br><sub>stars 2,741 · forks 2,521 · updated 2026-07-20 · #cloudflare #cloudflare-workers #email #temp-email</sub>
@@ -719,7 +719,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 3,959 · forks 343 · updated 2026-07-20 · #openclaw #openclaw-china #openclaw-dingding #openclaw-feishu</sub>
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-  <br><sub>stars 383,567 · forks 80,571 · updated 2026-07-20 · #ai #assistant #crustacean #molty</sub>
+  <br><sub>stars 383,568 · forks 80,571 · updated 2026-07-20 · #ai #assistant #crustacean #molty</sub>
 
 - [KuekHaoYang/KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
   <br><sub>stars 3,863 · forks 6,649 · updated 2026-07-20</sub>
@@ -731,7 +731,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 52,241 · forks 6,915 · updated 2026-07-20 · #electron #javascript #music-player #vue</sub>
 
 - [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
-  <br><sub>stars 9,097 · forks 8,794 · updated 2026-07-20</sub>
+  <br><sub>stars 9,097 · forks 8,793 · updated 2026-07-20</sub>
 
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
   <br><sub>stars 10,577 · forks 7,156 · updated 2026-07-20 · #cloudflare-email #cloudflare-pages #cloudflare-workers #email</sub>
@@ -758,7 +758,7 @@ My GitHub star list, refreshed every day.
   <br><sub>stars 2,838 · forks 1,180 · updated 2026-07-20 · #bing #bingai #gpt #gpt4</sub>
 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
-  <br><sub>stars 88,523 · forks 59,394 · updated 2026-07-20 · #calclaude #chatgpt #claude #cross-platform</sub>
+  <br><sub>stars 88,524 · forks 59,394 · updated 2026-07-20 · #calclaude #chatgpt #claude #cross-platform</sub>
 
 </details>
 
