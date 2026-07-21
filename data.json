@@ -17,15 +17,15 @@
       "url": "https://api.github.com/repos/op7418/Humanizer-zh",
       "languages_url": "https://api.github.com/repos/op7418/Humanizer-zh/languages",
       "created_at": "2026-01-19T04:23:44Z",
-      "updated_at": "2026-07-20T17:16:24Z",
+      "updated_at": "2026-07-21T02:31:18Z",
       "pushed_at": "2026-01-19T07:46:35Z",
       "git_url": "git://github.com/op7418/Humanizer-zh.git",
       "ssh_url": "git@github.com:op7418/Humanizer-zh.git",
       "clone_url": "https://github.com/op7418/Humanizer-zh.git",
       "homepage": null,
-      "stargazers_count": 13524,
-      "watchers_count": 13524,
-      "forks_count": 947,
+      "stargazers_count": 13531,
+      "watchers_count": 13531,
+      "forks_count": 948,
       "open_issues_count": 23,
       "language": null,
       "topics": [],
@@ -37,7 +37,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-06-14T08:01:32Z"
     },
     {
       "id": 1196950132,
@@ -56,14 +56,14 @@
       "url": "https://api.github.com/repos/Shanyin-ai/shanyin-screenwriting-master",
       "languages_url": "https://api.github.com/repos/Shanyin-ai/shanyin-screenwriting-master/languages",
       "created_at": "2026-03-31T07:32:45Z",
-      "updated_at": "2026-07-20T10:59:17Z",
+      "updated_at": "2026-07-20T21:50:45Z",
       "pushed_at": "2026-04-01T02:18:00Z",
       "git_url": "git://github.com/Shanyin-ai/shanyin-screenwriting-master.git",
       "ssh_url": "git@github.com:Shanyin-ai/shanyin-screenwriting-master.git",
       "clone_url": "https://github.com/Shanyin-ai/shanyin-screenwriting-master.git",
       "homepage": "",
-      "stargazers_count": 674,
-      "watchers_count": 674,
+      "stargazers_count": 675,
+      "watchers_count": 675,
       "forks_count": 116,
       "open_issues_count": 1,
       "language": null,
@@ -82,7 +82,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-04-03T01:03:54Z"
     },
     {
       "id": 1170403082,
@@ -101,14 +101,14 @@
       "url": "https://api.github.com/repos/0xsline/short-drama",
       "languages_url": "https://api.github.com/repos/0xsline/short-drama/languages",
       "created_at": "2026-03-02T04:42:03Z",
-      "updated_at": "2026-07-20T17:08:13Z",
+      "updated_at": "2026-07-21T02:15:16Z",
       "pushed_at": "2026-04-17T18:26:52Z",
       "git_url": "git://github.com/0xsline/short-drama.git",
       "ssh_url": "git@github.com:0xsline/short-drama.git",
       "clone_url": "https://github.com/0xsline/short-drama.git",
       "homepage": "",
-      "stargazers_count": 845,
-      "watchers_count": 845,
+      "stargazers_count": 847,
+      "watchers_count": 847,
       "forks_count": 177,
       "open_issues_count": 1,
       "language": null,
@@ -121,7 +121,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-03-08T02:21:46Z"
     },
     {
       "id": 1153093670,
@@ -140,15 +140,15 @@
       "url": "https://api.github.com/repos/hesamsheikh/awesome-openclaw-usecases",
       "languages_url": "https://api.github.com/repos/hesamsheikh/awesome-openclaw-usecases/languages",
       "created_at": "2026-02-08T22:08:17Z",
-      "updated_at": "2026-07-20T18:07:36Z",
+      "updated_at": "2026-07-20T20:52:54Z",
       "pushed_at": "2026-03-24T14:54:56Z",
       "git_url": "git://github.com/hesamsheikh/awesome-openclaw-usecases.git",
       "ssh_url": "git@github.com:hesamsheikh/awesome-openclaw-usecases.git",
       "clone_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases.git",
       "homepage": "",
-      "stargazers_count": 31532,
-      "watchers_count": 31532,
-      "forks_count": 2711,
+      "stargazers_count": 31534,
+      "watchers_count": 31534,
+      "forks_count": 2710,
       "open_issues_count": 70,
       "language": null,
       "topics": [
@@ -169,7 +169,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-02-25T15:18:11Z"
     },
     {
       "id": 874112860,
@@ -203,7 +203,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2025-12-27T03:57:38Z"
     },
     {
       "id": 832989879,
@@ -237,7 +237,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2025-05-29T08:24:15Z"
     },
     {
       "id": 891461097,
@@ -274,7 +274,7 @@
       "archived": true,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2025-05-29T08:00:49Z"
     },
     {
       "id": 951028385,
@@ -308,7 +308,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2025-05-06T07:52:27Z"
     },
     {
       "id": 456021861,
@@ -342,7 +342,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-10-15T04:08:47Z"
     },
     {
       "id": 401948308,
@@ -361,15 +361,15 @@
       "url": "https://api.github.com/repos/miss-mumu/developer2gwy",
       "languages_url": "https://api.github.com/repos/miss-mumu/developer2gwy/languages",
       "created_at": "2021-09-01T05:57:39Z",
-      "updated_at": "2026-07-20T10:59:04Z",
+      "updated_at": "2026-07-20T18:41:12Z",
       "pushed_at": "2024-08-06T09:02:50Z",
       "git_url": "git://github.com/miss-mumu/developer2gwy.git",
       "ssh_url": "git@github.com:miss-mumu/developer2gwy.git",
       "clone_url": "https://github.com/miss-mumu/developer2gwy.git",
       "homepage": "",
-      "stargazers_count": 11091,
-      "watchers_count": 11091,
-      "forks_count": 1004,
+      "stargazers_count": 11090,
+      "watchers_count": 11090,
+      "forks_count": 1005,
       "open_issues_count": 88,
       "language": null,
       "topics": [
@@ -391,7 +391,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2024-10-10T06:27:50Z"
     },
     {
       "id": 787288022,
@@ -425,7 +425,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-08-15T09:41:14Z"
     },
     {
       "id": 577139024,
@@ -471,93 +471,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
-    },
-    {
-      "id": 631567741,
-      "node_id": "R_kgDOJaT1fQ",
-      "name": "GPT_API_free",
-      "full_name": "chatanywhere/GPT_API_free",
-      "owner": {
-        "login": "chatanywhere",
-        "id": 111742565,
-        "avatar_url": "https://avatars.githubusercontent.com/u/111742565?v=4",
-        "url": "https://api.github.com/users/chatanywhere",
-        "html_url": "https://github.com/chatanywhere"
-      },
-      "html_url": "https://github.com/chatanywhere/GPT_API_free",
-      "description": "Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。",
-      "url": "https://api.github.com/repos/chatanywhere/GPT_API_free",
-      "languages_url": "https://api.github.com/repos/chatanywhere/GPT_API_free/languages",
-      "created_at": "2023-04-23T12:42:08Z",
-      "updated_at": "2026-07-20T17:18:45Z",
-      "pushed_at": "2026-07-03T17:18:26Z",
-      "git_url": "git://github.com/chatanywhere/GPT_API_free.git",
-      "ssh_url": "git@github.com:chatanywhere/GPT_API_free.git",
-      "clone_url": "https://github.com/chatanywhere/GPT_API_free.git",
-      "homepage": "https://api.chatanywhere.tech",
-      "stargazers_count": 38835,
-      "watchers_count": 38835,
-      "forks_count": 2668,
-      "open_issues_count": 19,
-      "language": null,
-      "topics": [
-        "api",
-        "chatgpt",
-        "claude",
-        "deepseek",
-        "gemini",
-        "gpt",
-        "grok"
-      ],
-      "archived": false,
-      "disabled": false,
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit"
-      },
-      "starred_at": null
-    },
-    {
-      "id": 761791665,
-      "node_id": "R_kgDOLWgEsQ",
-      "name": "free_chatgpt_api",
-      "full_name": "popjane/free_chatgpt_api",
-      "owner": {
-        "login": "popjane",
-        "id": 143701929,
-        "avatar_url": "https://avatars.githubusercontent.com/u/143701929?v=4",
-        "url": "https://api.github.com/users/popjane",
-        "html_url": "https://github.com/popjane"
-      },
-      "html_url": "https://github.com/popjane/free_chatgpt_api",
-      "description": "🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、Cherry Studio、沉浸式翻译等项目使用",
-      "url": "https://api.github.com/repos/popjane/free_chatgpt_api",
-      "languages_url": "https://api.github.com/repos/popjane/free_chatgpt_api/languages",
-      "created_at": "2024-02-22T13:57:20Z",
-      "updated_at": "2026-07-20T17:18:02Z",
-      "pushed_at": "2025-11-27T16:52:02Z",
-      "git_url": "git://github.com/popjane/free_chatgpt_api.git",
-      "ssh_url": "git@github.com:popjane/free_chatgpt_api.git",
-      "clone_url": "https://github.com/popjane/free_chatgpt_api.git",
-      "homepage": "",
-      "stargazers_count": 6515,
-      "watchers_count": 6515,
-      "forks_count": 591,
-      "open_issues_count": 46,
-      "language": null,
-      "topics": [],
-      "archived": false,
-      "disabled": false,
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit"
-      },
-      "starred_at": null
+      "starred_at": "2024-08-13T04:27:00Z"
     },
     {
       "id": 609721722,
@@ -576,7 +490,7 @@
       "url": "https://api.github.com/repos/xx025/carrot",
       "languages_url": "https://api.github.com/repos/xx025/carrot/languages",
       "created_at": "2023-03-05T02:56:17Z",
-      "updated_at": "2026-07-20T16:58:28Z",
+      "updated_at": "2026-07-20T21:59:25Z",
       "pushed_at": "2026-04-26T13:26:59Z",
       "git_url": "git://github.com/xx025/carrot.git",
       "ssh_url": "git@github.com:xx025/carrot.git",
@@ -596,7 +510,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-06-13T02:14:00Z"
     },
     {
       "id": 507504022,
@@ -635,7 +549,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2023-07-30T14:46:43Z"
     },
     {
       "id": 392603437,
@@ -677,7 +591,7 @@
         "spdx_id": "AGPL-3.0",
         "url": "https://api.github.com/licenses/agpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2023-03-28T16:34:51Z"
     },
     {
       "id": 436896788,
@@ -696,14 +610,14 @@
       "url": "https://api.github.com/repos/AUK9527/Are-u-ok",
       "languages_url": "https://api.github.com/repos/AUK9527/Are-u-ok/languages",
       "created_at": "2021-12-10T07:57:34Z",
-      "updated_at": "2026-07-20T17:32:34Z",
+      "updated_at": "2026-07-21T02:23:59Z",
       "pushed_at": "2026-06-30T18:23:35Z",
       "git_url": "git://github.com/AUK9527/Are-u-ok.git",
       "ssh_url": "git@github.com:AUK9527/Are-u-ok.git",
       "clone_url": "https://github.com/AUK9527/Are-u-ok.git",
       "homepage": null,
-      "stargazers_count": 13954,
-      "watchers_count": 13954,
+      "stargazers_count": 13955,
+      "watchers_count": 13955,
       "forks_count": 3121,
       "open_issues_count": 6,
       "language": null,
@@ -711,7 +625,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2022-11-02T11:47:51Z"
     }
   ],
   "Batchfile": [
@@ -754,7 +668,7 @@
       "archived": true,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2025-05-23T04:02:56Z"
     }
   ],
   "C": [
@@ -775,14 +689,14 @@
       "url": "https://api.github.com/repos/ventoy/Ventoy",
       "languages_url": "https://api.github.com/repos/ventoy/Ventoy/languages",
       "created_at": "2020-03-10T15:19:19Z",
-      "updated_at": "2026-07-20T16:44:24Z",
+      "updated_at": "2026-07-21T02:20:56Z",
       "pushed_at": "2026-06-29T05:46:23Z",
       "git_url": "git://github.com/ventoy/Ventoy.git",
       "ssh_url": "git@github.com:ventoy/Ventoy.git",
       "clone_url": "https://github.com/ventoy/Ventoy.git",
       "homepage": "https://www.ventoy.net",
-      "stargazers_count": 78137,
-      "watchers_count": 78137,
+      "stargazers_count": 78138,
+      "watchers_count": 78138,
       "forks_count": 4865,
       "open_issues_count": 993,
       "language": "C",
@@ -814,7 +728,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2025-04-06T01:37:29Z"
     }
   ],
   "C#": [
@@ -855,7 +769,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2025-08-03T17:51:04Z"
     },
     {
       "id": 418846673,
@@ -874,14 +788,14 @@
       "url": "https://api.github.com/repos/BartoszCichecki/LenovoLegionToolkit",
       "languages_url": "https://api.github.com/repos/BartoszCichecki/LenovoLegionToolkit/languages",
       "created_at": "2021-10-19T08:59:53Z",
-      "updated_at": "2026-07-20T17:35:14Z",
+      "updated_at": "2026-07-21T01:27:55Z",
       "pushed_at": "2025-07-24T07:13:08Z",
       "git_url": "git://github.com/BartoszCichecki/LenovoLegionToolkit.git",
       "ssh_url": "git@github.com:BartoszCichecki/LenovoLegionToolkit.git",
       "clone_url": "https://github.com/BartoszCichecki/LenovoLegionToolkit.git",
       "homepage": "",
-      "stargazers_count": 7573,
-      "watchers_count": 7573,
+      "stargazers_count": 7574,
+      "watchers_count": 7574,
       "forks_count": 370,
       "open_issues_count": 28,
       "language": "C#",
@@ -903,7 +817,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-12-17T15:58:55Z"
     },
     {
       "id": 794067373,
@@ -942,7 +856,7 @@
         "spdx_id": "Unlicense",
         "url": "https://api.github.com/licenses/unlicense"
       },
-      "starred_at": null
+      "starred_at": "2024-11-22T08:55:55Z"
     },
     {
       "id": 321682465,
@@ -961,14 +875,14 @@
       "url": "https://api.github.com/repos/BeyondDimension/SteamTools",
       "languages_url": "https://api.github.com/repos/BeyondDimension/SteamTools/languages",
       "created_at": "2020-12-15T13:52:11Z",
-      "updated_at": "2026-07-20T15:07:59Z",
+      "updated_at": "2026-07-21T02:20:01Z",
       "pushed_at": "2026-07-17T10:29:39Z",
       "git_url": "git://github.com/BeyondDimension/SteamTools.git",
       "ssh_url": "git@github.com:BeyondDimension/SteamTools.git",
       "clone_url": "https://github.com/BeyondDimension/SteamTools.git",
       "homepage": "https://steampp.net",
-      "stargazers_count": 26219,
-      "watchers_count": 26219,
+      "stargazers_count": 26223,
+      "watchers_count": 26223,
       "forks_count": 1664,
       "open_issues_count": 1144,
       "language": "C#",
@@ -999,7 +913,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-11-22T04:17:30Z"
     },
     {
       "id": 135050219,
@@ -1048,7 +962,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2024-08-17T15:37:02Z"
     },
     {
       "id": 436286849,
@@ -1093,7 +1007,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-08-15T08:21:49Z"
     },
     {
       "id": 577623124,
@@ -1112,14 +1026,14 @@
       "url": "https://api.github.com/repos/LorisYounger/VPet",
       "languages_url": "https://api.github.com/repos/LorisYounger/VPet/languages",
       "created_at": "2022-12-13T06:37:41Z",
-      "updated_at": "2026-07-20T17:07:55Z",
+      "updated_at": "2026-07-21T01:57:18Z",
       "pushed_at": "2026-07-18T01:29:24Z",
       "git_url": "git://github.com/LorisYounger/VPet.git",
       "ssh_url": "git@github.com:LorisYounger/VPet.git",
       "clone_url": "https://github.com/LorisYounger/VPet.git",
       "homepage": "",
-      "stargazers_count": 6496,
-      "watchers_count": 6496,
+      "stargazers_count": 6497,
+      "watchers_count": 6497,
       "forks_count": 643,
       "open_issues_count": 26,
       "language": "C#",
@@ -1135,7 +1049,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-08-13T09:17:00Z"
     },
     {
       "id": 683560668,
@@ -1154,14 +1068,14 @@
       "url": "https://api.github.com/repos/babalae/better-genshin-impact",
       "languages_url": "https://api.github.com/repos/babalae/better-genshin-impact/languages",
       "created_at": "2023-08-27T01:02:45Z",
-      "updated_at": "2026-07-20T17:35:19Z",
+      "updated_at": "2026-07-21T02:01:18Z",
       "pushed_at": "2026-07-20T02:37:01Z",
       "git_url": "git://github.com/babalae/better-genshin-impact.git",
       "ssh_url": "git@github.com:babalae/better-genshin-impact.git",
       "clone_url": "https://github.com/babalae/better-genshin-impact.git",
       "homepage": "https://bettergi.com",
-      "stargazers_count": 14300,
-      "watchers_count": 14300,
+      "stargazers_count": 14302,
+      "watchers_count": 14302,
       "forks_count": 1035,
       "open_issues_count": 440,
       "language": "C#",
@@ -1181,7 +1095,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-08-13T03:13:24Z"
     },
     {
       "id": 679806116,
@@ -1215,7 +1129,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2023-08-24T08:13:50Z"
     },
     {
       "id": 496221318,
@@ -1234,14 +1148,14 @@
       "url": "https://api.github.com/repos/nilaoda/N_m3u8DL-RE",
       "languages_url": "https://api.github.com/repos/nilaoda/N_m3u8DL-RE/languages",
       "created_at": "2022-05-25T12:28:40Z",
-      "updated_at": "2026-07-20T14:36:15Z",
+      "updated_at": "2026-07-21T01:38:55Z",
       "pushed_at": "2026-07-03T13:43:16Z",
       "git_url": "git://github.com/nilaoda/N_m3u8DL-RE.git",
       "ssh_url": "git@github.com:nilaoda/N_m3u8DL-RE.git",
       "clone_url": "https://github.com/nilaoda/N_m3u8DL-RE.git",
       "homepage": "",
-      "stargazers_count": 8402,
-      "watchers_count": 8402,
+      "stargazers_count": 8403,
+      "watchers_count": 8403,
       "forks_count": 854,
       "open_issues_count": 420,
       "language": "C#",
@@ -1264,48 +1178,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
-    }
-  ],
-  "C++": [
-    {
-      "id": 488177011,
-      "node_id": "R_kgDOHRj9cw",
-      "name": "nekoray",
-      "full_name": "MatsuriDayo/nekoray",
-      "owner": {
-        "login": "MatsuriDayo",
-        "id": 95122236,
-        "avatar_url": "https://avatars.githubusercontent.com/u/95122236?v=4",
-        "url": "https://api.github.com/users/MatsuriDayo",
-        "html_url": "https://github.com/MatsuriDayo"
-      },
-      "html_url": "https://github.com/MatsuriDayo/nekoray",
-      "description": "不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
-      "url": "https://api.github.com/repos/MatsuriDayo/nekoray",
-      "languages_url": "https://api.github.com/repos/MatsuriDayo/nekoray/languages",
-      "created_at": "2022-05-03T11:12:00Z",
-      "updated_at": "2026-07-20T10:59:05Z",
-      "pushed_at": "2024-12-12T08:25:39Z",
-      "git_url": "git://github.com/MatsuriDayo/nekoray.git",
-      "ssh_url": "git@github.com:MatsuriDayo/nekoray.git",
-      "clone_url": "https://github.com/MatsuriDayo/nekoray.git",
-      "homepage": "https://matsuridayo.github.io/",
-      "stargazers_count": 15462,
-      "watchers_count": 15462,
-      "forks_count": 1501,
-      "open_issues_count": 217,
-      "language": "C++",
-      "topics": [],
-      "archived": true,
-      "disabled": false,
-      "license": {
-        "key": "gpl-3.0",
-        "name": "GNU General Public License v3.0",
-        "spdx_id": "GPL-3.0",
-        "url": "https://api.github.com/licenses/gpl-3.0"
-      },
-      "starred_at": null
+      "starred_at": "2023-04-09T13:18:49Z"
     }
   ],
   "CSS": [
@@ -1346,7 +1219,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2023-04-17T17:59:25Z"
     }
   ],
   "Dart": [
@@ -1367,7 +1240,7 @@
       "url": "https://api.github.com/repos/wanghongenpin/proxypin",
       "languages_url": "https://api.github.com/repos/wanghongenpin/proxypin/languages",
       "created_at": "2023-06-05T11:16:00Z",
-      "updated_at": "2026-07-20T17:40:53Z",
+      "updated_at": "2026-07-21T01:16:00Z",
       "pushed_at": "2026-07-19T17:33:37Z",
       "git_url": "git://github.com/wanghongenpin/proxypin.git",
       "ssh_url": "git@github.com:wanghongenpin/proxypin.git",
@@ -1394,7 +1267,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-10-28T03:53:48Z"
     }
   ],
   "Go": [
@@ -1443,7 +1316,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2025-12-30T08:04:49Z"
     },
     {
       "id": 885377863,
@@ -1462,14 +1335,14 @@
       "url": "https://api.github.com/repos/sky22333/hubproxy",
       "languages_url": "https://api.github.com/repos/sky22333/hubproxy/languages",
       "created_at": "2024-11-08T13:23:51Z",
-      "updated_at": "2026-07-20T15:09:19Z",
+      "updated_at": "2026-07-21T01:23:37Z",
       "pushed_at": "2026-07-19T01:48:03Z",
       "git_url": "git://github.com/sky22333/hubproxy.git",
       "ssh_url": "git@github.com:sky22333/hubproxy.git",
       "clone_url": "https://github.com/sky22333/hubproxy.git",
       "homepage": "http://docs.52013120.xyz/",
-      "stargazers_count": 2715,
-      "watchers_count": 2715,
+      "stargazers_count": 2716,
+      "watchers_count": 2716,
       "forks_count": 356,
       "open_issues_count": 4,
       "language": "Go",
@@ -1493,7 +1366,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-12-19T07:53:38Z"
     },
     {
       "id": 969211164,
@@ -1512,15 +1385,15 @@
       "url": "https://api.github.com/repos/komari-monitor/komari",
       "languages_url": "https://api.github.com/repos/komari-monitor/komari/languages",
       "created_at": "2025-04-19T16:34:16Z",
-      "updated_at": "2026-07-20T16:31:55Z",
+      "updated_at": "2026-07-21T02:06:56Z",
       "pushed_at": "2026-07-20T15:16:55Z",
       "git_url": "git://github.com/komari-monitor/komari.git",
       "ssh_url": "git@github.com:komari-monitor/komari.git",
       "clone_url": "https://github.com/komari-monitor/komari.git",
       "homepage": "https://ss.akz.moe",
-      "stargazers_count": 5414,
-      "watchers_count": 5414,
-      "forks_count": 519,
+      "stargazers_count": 5418,
+      "watchers_count": 5418,
+      "forks_count": 520,
       "open_issues_count": 10,
       "language": "Go",
       "topics": [
@@ -1536,7 +1409,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-12-18T04:16:27Z"
     },
     {
       "id": 1017201879,
@@ -1555,14 +1428,14 @@
       "url": "https://api.github.com/repos/fish2018/pansou",
       "languages_url": "https://api.github.com/repos/fish2018/pansou/languages",
       "created_at": "2025-07-10T07:17:46Z",
-      "updated_at": "2026-07-20T18:04:14Z",
+      "updated_at": "2026-07-21T02:27:48Z",
       "pushed_at": "2026-06-14T14:06:26Z",
       "git_url": "git://github.com/fish2018/pansou.git",
       "ssh_url": "git@github.com:fish2018/pansou.git",
       "clone_url": "https://github.com/fish2018/pansou.git",
       "homepage": "https://so.252035.xyz/",
-      "stargazers_count": 13927,
-      "watchers_count": 13927,
+      "stargazers_count": 13930,
+      "watchers_count": 13930,
       "forks_count": 3347,
       "open_issues_count": 12,
       "language": "Go",
@@ -1575,7 +1448,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-08-03T17:49:01Z"
     },
     {
       "id": 220588935,
@@ -1594,15 +1467,15 @@
       "url": "https://api.github.com/repos/nezhahq/nezha",
       "languages_url": "https://api.github.com/repos/nezhahq/nezha/languages",
       "created_at": "2019-11-09T04:01:45Z",
-      "updated_at": "2026-07-20T17:34:47Z",
-      "pushed_at": "2026-07-20T17:33:42Z",
+      "updated_at": "2026-07-20T22:15:56Z",
+      "pushed_at": "2026-07-20T22:15:44Z",
       "git_url": "git://github.com/nezhahq/nezha.git",
       "ssh_url": "git@github.com:nezhahq/nezha.git",
       "clone_url": "https://github.com/nezhahq/nezha.git",
       "homepage": "https://nezhahq.github.io",
       "stargazers_count": 10244,
       "watchers_count": 10244,
-      "forks_count": 1602,
+      "forks_count": 1603,
       "open_issues_count": 51,
       "language": "Go",
       "topics": [
@@ -1618,7 +1491,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2025-05-12T04:06:50Z"
     },
     {
       "id": 904490600,
@@ -1645,7 +1518,7 @@
       "homepage": "",
       "stargazers_count": 10529,
       "watchers_count": 10529,
-      "forks_count": 978,
+      "forks_count": 979,
       "open_issues_count": 31,
       "language": "Go",
       "topics": [
@@ -1663,7 +1536,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2025-04-15T03:42:44Z"
     },
     {
       "id": 765975313,
@@ -1702,7 +1575,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-10-22T03:20:41Z"
     },
     {
       "id": 685877018,
@@ -1721,15 +1594,15 @@
       "url": "https://api.github.com/repos/putyy/res-downloader",
       "languages_url": "https://api.github.com/repos/putyy/res-downloader/languages",
       "created_at": "2023-09-01T08:03:47Z",
-      "updated_at": "2026-07-20T13:10:54Z",
+      "updated_at": "2026-07-21T02:17:20Z",
       "pushed_at": "2026-06-18T23:55:16Z",
       "git_url": "git://github.com/putyy/res-downloader.git",
       "ssh_url": "git@github.com:putyy/res-downloader.git",
       "clone_url": "https://github.com/putyy/res-downloader.git",
       "homepage": "https://github.com/putyy/res-downloader",
-      "stargazers_count": 18696,
-      "watchers_count": 18696,
-      "forks_count": 2320,
+      "stargazers_count": 18700,
+      "watchers_count": 18700,
+      "forks_count": 2321,
       "open_issues_count": 67,
       "language": "Go",
       "topics": [
@@ -1748,7 +1621,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-09-18T12:07:50Z"
     },
     {
       "id": 195377002,
@@ -1794,7 +1667,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2024-08-13T04:53:44Z"
     },
     {
       "id": 536441618,
@@ -1813,14 +1686,14 @@
       "url": "https://api.github.com/repos/yisier/nps",
       "languages_url": "https://api.github.com/repos/yisier/nps/languages",
       "created_at": "2022-09-14T06:24:00Z",
-      "updated_at": "2026-07-20T10:59:06Z",
+      "updated_at": "2026-07-20T19:04:21Z",
       "pushed_at": "2026-07-13T04:54:11Z",
       "git_url": "git://github.com/yisier/nps.git",
       "ssh_url": "git@github.com:yisier/nps.git",
       "clone_url": "https://github.com/yisier/nps.git",
       "homepage": "https://yisier.github.io/nps/",
-      "stargazers_count": 3315,
-      "watchers_count": 3315,
+      "stargazers_count": 3316,
+      "watchers_count": 3316,
       "forks_count": 422,
       "open_issues_count": 17,
       "language": "Go",
@@ -1840,7 +1713,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-06-10T10:19:13Z"
     }
   ],
   "HTML": [
@@ -1861,14 +1734,14 @@
       "url": "https://api.github.com/repos/lewislulu/html-ppt-skill",
       "languages_url": "https://api.github.com/repos/lewislulu/html-ppt-skill/languages",
       "created_at": "2026-04-15T07:36:22Z",
-      "updated_at": "2026-07-20T17:29:27Z",
+      "updated_at": "2026-07-21T02:10:06Z",
       "pushed_at": "2026-04-26T07:13:39Z",
       "git_url": "git://github.com/lewislulu/html-ppt-skill.git",
       "ssh_url": "git@github.com:lewislulu/html-ppt-skill.git",
       "clone_url": "https://github.com/lewislulu/html-ppt-skill.git",
       "homepage": null,
-      "stargazers_count": 7263,
-      "watchers_count": 7263,
+      "stargazers_count": 7265,
+      "watchers_count": 7265,
       "forks_count": 641,
       "open_issues_count": 21,
       "language": "HTML",
@@ -1881,7 +1754,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-04-20T15:42:04Z"
     },
     {
       "id": 1167209519,
@@ -1931,7 +1804,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2026-03-27T01:53:53Z"
     },
     {
       "id": 793192228,
@@ -1979,7 +1852,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-10-29T03:17:00Z"
     },
     {
       "id": 694932273,
@@ -2018,7 +1891,7 @@
         "spdx_id": "GPL-2.0",
         "url": "https://api.github.com/licenses/gpl-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-10-28T03:53:48Z"
     },
     {
       "id": 705389767,
@@ -2037,15 +1910,15 @@
       "url": "https://api.github.com/repos/lllllllillllllillll/DweebUI",
       "languages_url": "https://api.github.com/repos/lllllllillllllillll/DweebUI/languages",
       "created_at": "2023-10-15T21:55:00Z",
-      "updated_at": "2026-07-20T10:59:10Z",
+      "updated_at": "2026-07-21T02:26:00Z",
       "pushed_at": "2025-06-25T22:44:29Z",
       "git_url": "git://github.com/lllllllillllllillll/DweebUI.git",
       "ssh_url": "git@github.com:lllllllillllllillll/DweebUI.git",
       "clone_url": "https://github.com/lllllllillllllillll/DweebUI.git",
       "homepage": "https://www.dweebui.com/",
-      "stargazers_count": 1059,
-      "watchers_count": 1059,
-      "forks_count": 56,
+      "stargazers_count": 1060,
+      "watchers_count": 1060,
+      "forks_count": 55,
       "open_issues_count": 28,
       "language": "HTML",
       "topics": [
@@ -2075,7 +1948,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2024-08-17T09:40:17Z"
     },
     {
       "id": 491782606,
@@ -2120,7 +1993,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-07-26T07:33:12Z"
     }
   ],
   "Java": [
@@ -2161,7 +2034,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2025-04-16T04:20:06Z"
     },
     {
       "id": 742338890,
@@ -2180,14 +2053,14 @@
       "url": "https://api.github.com/repos/Katana-Official/Meta",
       "languages_url": "https://api.github.com/repos/Katana-Official/Meta/languages",
       "created_at": "2024-01-12T08:57:19Z",
-      "updated_at": "2026-07-20T10:59:11Z",
+      "updated_at": "2026-07-21T02:18:17Z",
       "pushed_at": "2025-04-03T08:06:47Z",
       "git_url": "git://github.com/Katana-Official/Meta.git",
       "ssh_url": "git@github.com:Katana-Official/Meta.git",
       "clone_url": "https://github.com/Katana-Official/Meta.git",
       "homepage": null,
-      "stargazers_count": 376,
-      "watchers_count": 376,
+      "stargazers_count": 377,
+      "watchers_count": 377,
       "forks_count": 36,
       "open_issues_count": 21,
       "language": "Java",
@@ -2200,7 +2073,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-10-08T03:21:02Z"
     },
     {
       "id": 710565323,
@@ -2234,7 +2107,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-08-13T04:56:06Z"
     }
   ],
   "JavaScript": [
@@ -2255,15 +2128,15 @@
       "url": "https://api.github.com/repos/worldwonderer/oh-story-claudecode",
       "languages_url": "https://api.github.com/repos/worldwonderer/oh-story-claudecode/languages",
       "created_at": "2026-04-22T16:35:39Z",
-      "updated_at": "2026-07-20T16:41:34Z",
+      "updated_at": "2026-07-21T01:43:41Z",
       "pushed_at": "2026-07-16T16:35:56Z",
       "git_url": "git://github.com/worldwonderer/oh-story-claudecode.git",
       "ssh_url": "git@github.com:worldwonderer/oh-story-claudecode.git",
       "clone_url": "https://github.com/worldwonderer/oh-story-claudecode.git",
       "homepage": "",
-      "stargazers_count": 4376,
-      "watchers_count": 4376,
-      "forks_count": 677,
+      "stargazers_count": 4383,
+      "watchers_count": 4383,
+      "forks_count": 679,
       "open_issues_count": 8,
       "language": "JavaScript",
       "topics": [
@@ -2287,7 +2160,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-06-14T01:13:18Z"
     },
     {
       "id": 1109163478,
@@ -2306,15 +2179,15 @@
       "url": "https://api.github.com/repos/0xsline/StoryGen-Atelier",
       "languages_url": "https://api.github.com/repos/0xsline/StoryGen-Atelier/languages",
       "created_at": "2025-12-03T12:30:22Z",
-      "updated_at": "2026-07-20T16:27:07Z",
+      "updated_at": "2026-07-20T23:47:06Z",
       "pushed_at": "2025-12-06T09:27:07Z",
       "git_url": "git://github.com/0xsline/StoryGen-Atelier.git",
       "ssh_url": "git@github.com:0xsline/StoryGen-Atelier.git",
       "clone_url": "https://github.com/0xsline/StoryGen-Atelier.git",
       "homepage": "",
-      "stargazers_count": 934,
-      "watchers_count": 934,
-      "forks_count": 144,
+      "stargazers_count": 935,
+      "watchers_count": 935,
+      "forks_count": 145,
       "open_issues_count": 2,
       "language": "JavaScript",
       "topics": [
@@ -2334,7 +2207,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2025-12-04T16:59:06Z"
     },
     {
       "id": 612068550,
@@ -2368,7 +2241,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2025-07-15T14:08:00Z"
     },
     {
       "id": 828462853,
@@ -2412,7 +2285,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2025-05-29T07:55:37Z"
     },
     {
       "id": 280567579,
@@ -2431,14 +2304,14 @@
       "url": "https://api.github.com/repos/NaiboWang/EasySpider",
       "languages_url": "https://api.github.com/repos/NaiboWang/EasySpider/languages",
       "created_at": "2020-07-18T02:41:27Z",
-      "updated_at": "2026-07-20T18:17:55Z",
+      "updated_at": "2026-07-21T01:19:36Z",
       "pushed_at": "2026-07-03T09:39:50Z",
       "git_url": "git://github.com/NaiboWang/EasySpider.git",
       "ssh_url": "git@github.com:NaiboWang/EasySpider.git",
       "clone_url": "https://github.com/NaiboWang/EasySpider.git",
       "homepage": "https://www.easyspider.net",
-      "stargazers_count": 44261,
-      "watchers_count": 44261,
+      "stargazers_count": 44263,
+      "watchers_count": 44263,
       "forks_count": 5377,
       "open_issues_count": 269,
       "language": "JavaScript",
@@ -2472,7 +2345,7 @@
         "spdx_id": "AGPL-3.0",
         "url": "https://api.github.com/licenses/agpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-11-22T08:51:56Z"
     },
     {
       "id": 772850003,
@@ -2506,7 +2379,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-10-28T08:32:31Z"
     },
     {
       "id": 645332264,
@@ -2525,14 +2398,14 @@
       "url": "https://api.github.com/repos/6dylan6/jdpro",
       "languages_url": "https://api.github.com/repos/6dylan6/jdpro/languages",
       "created_at": "2023-05-25T12:21:23Z",
-      "updated_at": "2026-07-20T10:59:09Z",
+      "updated_at": "2026-07-21T00:03:20Z",
       "pushed_at": "2026-07-12T03:00:57Z",
       "git_url": "git://github.com/6dylan6/jdpro.git",
       "ssh_url": "git@github.com:6dylan6/jdpro.git",
       "clone_url": "https://github.com/6dylan6/jdpro.git",
       "homepage": "",
-      "stargazers_count": 4445,
-      "watchers_count": 4445,
+      "stargazers_count": 4446,
+      "watchers_count": 4446,
       "forks_count": 606,
       "open_issues_count": 613,
       "language": "JavaScript",
@@ -2543,7 +2416,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-08-23T08:56:39Z"
     },
     {
       "id": 736322676,
@@ -2562,16 +2435,16 @@
       "url": "https://api.github.com/repos/cmliu/edgetunnel",
       "languages_url": "https://api.github.com/repos/cmliu/edgetunnel/languages",
       "created_at": "2023-12-27T15:37:22Z",
-      "updated_at": "2026-07-20T17:47:22Z",
+      "updated_at": "2026-07-21T02:25:23Z",
       "pushed_at": "2026-07-11T16:29:44Z",
       "git_url": "git://github.com/cmliu/edgetunnel.git",
       "ssh_url": "git@github.com:cmliu/edgetunnel.git",
       "clone_url": "https://github.com/cmliu/edgetunnel.git",
       "homepage": "https://EDT-Pages.github.io/admin",
-      "stargazers_count": 40771,
-      "watchers_count": 40771,
-      "forks_count": 34806,
-      "open_issues_count": 90,
+      "stargazers_count": 40786,
+      "watchers_count": 40786,
+      "forks_count": 34812,
+      "open_issues_count": 89,
       "language": "JavaScript",
       "topics": [
         "shadowsocks",
@@ -2588,7 +2461,7 @@
         "spdx_id": "GPL-2.0",
         "url": "https://api.github.com/licenses/gpl-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-08-23T02:19:01Z"
     },
     {
       "id": 375524599,
@@ -2622,7 +2495,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-08-14T04:26:14Z"
     },
     {
       "id": 606383344,
@@ -2666,7 +2539,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2024-08-13T02:57:26Z"
     },
     {
       "id": 667321553,
@@ -2703,7 +2576,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-08-12T05:56:35Z"
     },
     {
       "id": 812303359,
@@ -2722,14 +2595,14 @@
       "url": "https://api.github.com/repos/dqzboy/Docker-Proxy",
       "languages_url": "https://api.github.com/repos/dqzboy/Docker-Proxy/languages",
       "created_at": "2024-06-08T14:06:48Z",
-      "updated_at": "2026-07-20T10:59:12Z",
+      "updated_at": "2026-07-21T01:04:12Z",
       "pushed_at": "2026-07-20T05:59:14Z",
       "git_url": "git://github.com/dqzboy/Docker-Proxy.git",
       "ssh_url": "git@github.com:dqzboy/Docker-Proxy.git",
       "clone_url": "https://github.com/dqzboy/Docker-Proxy.git",
       "homepage": "https://dqzboy.github.io/docs/",
-      "stargazers_count": 4315,
-      "watchers_count": 4315,
+      "stargazers_count": 4316,
+      "watchers_count": 4316,
       "forks_count": 599,
       "open_issues_count": 0,
       "language": "JavaScript",
@@ -2746,7 +2619,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-07-23T04:07:37Z"
     },
     {
       "id": 574012459,
@@ -2780,7 +2653,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-04-02T03:51:16Z"
     },
     {
       "id": 630366278,
@@ -2819,7 +2692,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2023-10-09T07:59:53Z"
     },
     {
       "id": 276248883,
@@ -2858,7 +2731,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2023-07-30T14:20:55Z"
     },
     {
       "id": 474282610,
@@ -2897,7 +2770,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2022-09-28T08:15:06Z"
     }
   ],
   "Kotlin": [
@@ -2949,7 +2822,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2026-04-21T13:09:04Z"
     },
     {
       "id": 307297394,
@@ -2994,7 +2867,7 @@
         "spdx_id": "AGPL-3.0",
         "url": "https://api.github.com/licenses/agpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2025-03-19T15:52:52Z"
     },
     {
       "id": 337594329,
@@ -3013,16 +2886,16 @@
       "url": "https://api.github.com/repos/pppscn/SmsForwarder",
       "languages_url": "https://api.github.com/repos/pppscn/SmsForwarder/languages",
       "created_at": "2021-02-10T02:23:07Z",
-      "updated_at": "2026-07-20T15:17:47Z",
+      "updated_at": "2026-07-21T02:20:56Z",
       "pushed_at": "2026-07-20T07:48:06Z",
       "git_url": "git://github.com/pppscn/SmsForwarder.git",
       "ssh_url": "git@github.com:pppscn/SmsForwarder.git",
       "clone_url": "https://github.com/pppscn/SmsForwarder.git",
       "homepage": "",
-      "stargazers_count": 27162,
-      "watchers_count": 27162,
+      "stargazers_count": 27165,
+      "watchers_count": 27165,
       "forks_count": 3337,
-      "open_issues_count": 12,
+      "open_issues_count": 9,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -3051,48 +2924,7 @@
         "spdx_id": "BSD-2-Clause",
         "url": "https://api.github.com/licenses/bsd-2-clause"
       },
-      "starred_at": null
-    }
-  ],
-  "Objective-C++": [
-    {
-      "id": 752266291,
-      "node_id": "R_kgDOLNasMw",
-      "name": "ChargeLimiter",
-      "full_name": "lich4/ChargeLimiter",
-      "owner": {
-        "login": "lich4",
-        "id": 8621719,
-        "avatar_url": "https://avatars.githubusercontent.com/u/8621719?v=4",
-        "url": "https://api.github.com/users/lich4",
-        "html_url": "https://github.com/lich4"
-      },
-      "html_url": "https://github.com/lich4/ChargeLimiter",
-      "description": "Charge limiter for iOS, inspired by AlDente",
-      "url": "https://api.github.com/repos/lich4/ChargeLimiter",
-      "languages_url": "https://api.github.com/repos/lich4/ChargeLimiter/languages",
-      "created_at": "2024-02-03T14:28:09Z",
-      "updated_at": "2026-07-20T10:59:11Z",
-      "pushed_at": "2024-10-09T16:02:30Z",
-      "git_url": "git://github.com/lich4/ChargeLimiter.git",
-      "ssh_url": "git@github.com:lich4/ChargeLimiter.git",
-      "clone_url": "https://github.com/lich4/ChargeLimiter.git",
-      "homepage": "",
-      "stargazers_count": 831,
-      "watchers_count": 831,
-      "forks_count": 59,
-      "open_issues_count": 1,
-      "language": "Objective-C++",
-      "topics": [],
-      "archived": true,
-      "disabled": false,
-      "license": {
-        "key": "gpl-3.0",
-        "name": "GNU General Public License v3.0",
-        "spdx_id": "GPL-3.0",
-        "url": "https://api.github.com/licenses/gpl-3.0"
-      },
-      "starred_at": null
+      "starred_at": "2024-04-08T06:19:57Z"
     }
   ],
   "Perl": [
@@ -3149,7 +2981,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2023-02-17T08:11:47Z"
     }
   ],
   "PHP": [
@@ -3194,10 +3026,47 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2024-08-13T03:06:36Z"
     }
   ],
   "Python": [
+    {
+      "id": 1074177872,
+      "node_id": "R_kgDOQAanUA",
+      "name": "arboris-novel",
+      "full_name": "t59688/arboris-novel",
+      "owner": {
+        "login": "t59688",
+        "id": 125454309,
+        "avatar_url": "https://avatars.githubusercontent.com/u/125454309?v=4",
+        "url": "https://api.github.com/users/t59688",
+        "html_url": "https://github.com/t59688"
+      },
+      "html_url": "https://github.com/t59688/arboris-novel",
+      "description": "AI 写作伙伴，点亮你的创作灵感",
+      "url": "https://api.github.com/repos/t59688/arboris-novel",
+      "languages_url": "https://api.github.com/repos/t59688/arboris-novel/languages",
+      "created_at": "2025-10-11T09:39:24Z",
+      "updated_at": "2026-07-21T02:22:06Z",
+      "pushed_at": "2026-02-25T01:17:49Z",
+      "git_url": "git://github.com/t59688/arboris-novel.git",
+      "ssh_url": "git@github.com:t59688/arboris-novel.git",
+      "clone_url": "https://github.com/t59688/arboris-novel.git",
+      "homepage": "https://arboris.aozhiai.com",
+      "stargazers_count": 1515,
+      "watchers_count": 1515,
+      "forks_count": 328,
+      "open_issues_count": 25,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "novel"
+      ],
+      "archived": false,
+      "disabled": false,
+      "license": null,
+      "starred_at": "2026-07-21T02:22:05Z"
+    },
     {
       "id": 1277836173,
       "node_id": "R_kgDOTCo7jQ",
@@ -3215,22 +3084,22 @@
       "url": "https://api.github.com/repos/dama-cyber/Casting-Workflow",
       "languages_url": "https://api.github.com/repos/dama-cyber/Casting-Workflow/languages",
       "created_at": "2026-06-23T08:26:29Z",
-      "updated_at": "2026-07-20T13:05:30Z",
+      "updated_at": "2026-07-21T02:03:42Z",
       "pushed_at": "2026-07-17T09:16:28Z",
       "git_url": "git://github.com/dama-cyber/Casting-Workflow.git",
       "ssh_url": "git@github.com:dama-cyber/Casting-Workflow.git",
       "clone_url": "https://github.com/dama-cyber/Casting-Workflow.git",
       "homepage": null,
-      "stargazers_count": 464,
-      "watchers_count": 464,
-      "forks_count": 91,
+      "stargazers_count": 467,
+      "watchers_count": 467,
+      "forks_count": 92,
       "open_issues_count": 1,
       "language": "Python",
       "topics": [],
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2026-07-14T03:53:59Z"
     },
     {
       "id": 1272358389,
@@ -3249,14 +3118,14 @@
       "url": "https://api.github.com/repos/LING71671/open-reverselab",
       "languages_url": "https://api.github.com/repos/LING71671/open-reverselab/languages",
       "created_at": "2026-06-17T14:31:38Z",
-      "updated_at": "2026-07-20T17:59:15Z",
+      "updated_at": "2026-07-20T20:18:54Z",
       "pushed_at": "2026-07-12T18:03:02Z",
       "git_url": "git://github.com/LING71671/open-reverselab.git",
       "ssh_url": "git@github.com:LING71671/open-reverselab.git",
       "clone_url": "https://github.com/LING71671/open-reverselab.git",
       "homepage": "https://ling71671.github.io/open-reverselab/",
-      "stargazers_count": 864,
-      "watchers_count": 864,
+      "stargazers_count": 865,
+      "watchers_count": 865,
       "forks_count": 231,
       "open_issues_count": 4,
       "language": "Python",
@@ -3290,7 +3159,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2026-07-12T15:42:31Z"
     },
     {
       "id": 1282680810,
@@ -3309,15 +3178,15 @@
       "url": "https://api.github.com/repos/Jia-Ethan/codex-keysmith",
       "languages_url": "https://api.github.com/repos/Jia-Ethan/codex-keysmith/languages",
       "created_at": "2026-06-28T04:38:07Z",
-      "updated_at": "2026-07-20T17:49:43Z",
+      "updated_at": "2026-07-21T02:22:18Z",
       "pushed_at": "2026-07-18T02:51:08Z",
       "git_url": "git://github.com/Jia-Ethan/codex-keysmith.git",
       "ssh_url": "git@github.com:Jia-Ethan/codex-keysmith.git",
       "clone_url": "https://github.com/Jia-Ethan/codex-keysmith.git",
       "homepage": null,
-      "stargazers_count": 1128,
-      "watchers_count": 1128,
-      "forks_count": 192,
+      "stargazers_count": 1146,
+      "watchers_count": 1146,
+      "forks_count": 196,
       "open_issues_count": 1,
       "language": "Python",
       "topics": [
@@ -3338,7 +3207,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-07-01T01:18:06Z"
     },
     {
       "id": 1202566439,
@@ -3357,14 +3226,14 @@
       "url": "https://api.github.com/repos/shenminglinyi/PlotPilot",
       "languages_url": "https://api.github.com/repos/shenminglinyi/PlotPilot/languages",
       "created_at": "2026-04-06T06:45:44Z",
-      "updated_at": "2026-07-20T15:38:54Z",
+      "updated_at": "2026-07-21T02:16:57Z",
       "pushed_at": "2026-07-19T05:04:58Z",
       "git_url": "git://github.com/shenminglinyi/PlotPilot.git",
       "ssh_url": "git@github.com:shenminglinyi/PlotPilot.git",
       "clone_url": "https://github.com/shenminglinyi/PlotPilot.git",
       "homepage": null,
-      "stargazers_count": 1310,
-      "watchers_count": 1310,
+      "stargazers_count": 1315,
+      "watchers_count": 1315,
       "forks_count": 405,
       "open_issues_count": 24,
       "language": "Python",
@@ -3377,7 +3246,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2026-06-29T01:50:31Z"
     },
     {
       "id": 1134458275,
@@ -3396,7 +3265,7 @@
       "url": "https://api.github.com/repos/ShadowHackrs/gmail-account-creator",
       "languages_url": "https://api.github.com/repos/ShadowHackrs/gmail-account-creator/languages",
       "created_at": "2026-01-14T18:42:23Z",
-      "updated_at": "2026-07-20T18:08:00Z",
+      "updated_at": "2026-07-20T19:40:15Z",
       "pushed_at": "2026-06-25T16:31:50Z",
       "git_url": "git://github.com/ShadowHackrs/gmail-account-creator.git",
       "ssh_url": "git@github.com:ShadowHackrs/gmail-account-creator.git",
@@ -3404,7 +3273,7 @@
       "homepage": null,
       "stargazers_count": 3689,
       "watchers_count": 3689,
-      "forks_count": 603,
+      "forks_count": 602,
       "open_issues_count": 17,
       "language": "Python",
       "topics": [],
@@ -3416,7 +3285,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2026-06-25T04:14:19Z"
     },
     {
       "id": 1256125546,
@@ -3435,22 +3304,22 @@
       "url": "https://api.github.com/repos/tiantianGPU/reg-factory",
       "languages_url": "https://api.github.com/repos/tiantianGPU/reg-factory/languages",
       "created_at": "2026-06-01T13:38:37Z",
-      "updated_at": "2026-07-20T17:30:42Z",
+      "updated_at": "2026-07-20T18:38:49Z",
       "pushed_at": "2026-07-17T23:10:41Z",
       "git_url": "git://github.com/tiantianGPU/reg-factory.git",
       "ssh_url": "git@github.com:tiantianGPU/reg-factory.git",
       "clone_url": "https://github.com/tiantianGPU/reg-factory.git",
       "homepage": "https://tiantianai.pro",
-      "stargazers_count": 1537,
-      "watchers_count": 1537,
-      "forks_count": 627,
+      "stargazers_count": 1538,
+      "watchers_count": 1538,
+      "forks_count": 626,
       "open_issues_count": 0,
       "language": "Python",
       "topics": [],
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2026-06-25T04:13:19Z"
     },
     {
       "id": 1215153409,
@@ -3469,15 +3338,15 @@
       "url": "https://api.github.com/repos/basketikun/chatgpt2api",
       "languages_url": "https://api.github.com/repos/basketikun/chatgpt2api/languages",
       "created_at": "2026-04-19T14:53:01Z",
-      "updated_at": "2026-07-20T17:11:10Z",
+      "updated_at": "2026-07-21T02:10:52Z",
       "pushed_at": "2026-07-05T04:05:34Z",
       "git_url": "git://github.com/basketikun/chatgpt2api.git",
       "ssh_url": "git@github.com:basketikun/chatgpt2api.git",
       "clone_url": "https://github.com/basketikun/chatgpt2api.git",
       "homepage": "https://linux.do",
-      "stargazers_count": 5192,
-      "watchers_count": 5192,
-      "forks_count": 1450,
+      "stargazers_count": 5199,
+      "watchers_count": 5199,
+      "forks_count": 1451,
       "open_issues_count": 19,
       "language": "Python",
       "topics": [],
@@ -3489,7 +3358,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-06-05T14:48:20Z"
     },
     {
       "id": 981242300,
@@ -3523,7 +3392,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2026-06-02T05:20:55Z"
     },
     {
       "id": 1235082631,
@@ -3542,15 +3411,15 @@
       "url": "https://api.github.com/repos/hero8152/Infinite-Canvas",
       "languages_url": "https://api.github.com/repos/hero8152/Infinite-Canvas/languages",
       "created_at": "2026-05-11T01:58:39Z",
-      "updated_at": "2026-07-20T18:16:51Z",
+      "updated_at": "2026-07-21T02:30:55Z",
       "pushed_at": "2026-07-17T13:51:45Z",
       "git_url": "git://github.com/hero8152/Infinite-Canvas.git",
       "ssh_url": "git@github.com:hero8152/Infinite-Canvas.git",
       "clone_url": "https://github.com/hero8152/Infinite-Canvas.git",
       "homepage": null,
-      "stargazers_count": 2253,
-      "watchers_count": 2253,
-      "forks_count": 448,
+      "stargazers_count": 2258,
+      "watchers_count": 2258,
+      "forks_count": 449,
       "open_issues_count": 119,
       "language": "Python",
       "topics": [],
@@ -3562,7 +3431,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2026-05-16T16:30:34Z"
     },
     {
       "id": 1220696080,
@@ -3581,14 +3450,14 @@
       "url": "https://api.github.com/repos/pheohu-42/Claude_zh-CN_LanguagePack",
       "languages_url": "https://api.github.com/repos/pheohu-42/Claude_zh-CN_LanguagePack/languages",
       "created_at": "2026-04-25T07:53:46Z",
-      "updated_at": "2026-07-20T10:59:17Z",
+      "updated_at": "2026-07-21T01:22:05Z",
       "pushed_at": "2026-05-28T10:12:50Z",
       "git_url": "git://github.com/pheohu-42/Claude_zh-CN_LanguagePack.git",
       "ssh_url": "git@github.com:pheohu-42/Claude_zh-CN_LanguagePack.git",
       "clone_url": "https://github.com/pheohu-42/Claude_zh-CN_LanguagePack.git",
       "homepage": null,
-      "stargazers_count": 332,
-      "watchers_count": 332,
+      "stargazers_count": 331,
+      "watchers_count": 331,
       "forks_count": 16,
       "open_issues_count": 9,
       "language": "Python",
@@ -3596,7 +3465,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2026-04-28T02:05:07Z"
     },
     {
       "id": 1113573066,
@@ -3615,15 +3484,15 @@
       "url": "https://api.github.com/repos/hugohe3/ppt-master",
       "languages_url": "https://api.github.com/repos/hugohe3/ppt-master/languages",
       "created_at": "2025-12-10T06:54:33Z",
-      "updated_at": "2026-07-20T17:50:17Z",
+      "updated_at": "2026-07-21T02:25:13Z",
       "pushed_at": "2026-07-20T16:22:42Z",
       "git_url": "git://github.com/hugohe3/ppt-master.git",
       "ssh_url": "git@github.com:hugohe3/ppt-master.git",
       "clone_url": "https://github.com/hugohe3/ppt-master.git",
       "homepage": "https://hugohe3.github.io/ppt-master/",
-      "stargazers_count": 40141,
-      "watchers_count": 40141,
-      "forks_count": 3325,
+      "stargazers_count": 40168,
+      "watchers_count": 40168,
+      "forks_count": 3330,
       "open_issues_count": 2,
       "language": "Python",
       "topics": [
@@ -3646,7 +3515,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-04-27T10:03:56Z"
     },
     {
       "id": 1166516871,
@@ -3665,15 +3534,15 @@
       "url": "https://api.github.com/repos/ZeroPointSix/outlookEmailPlus",
       "languages_url": "https://api.github.com/repos/ZeroPointSix/outlookEmailPlus/languages",
       "created_at": "2026-02-25T10:01:17Z",
-      "updated_at": "2026-07-20T18:12:41Z",
+      "updated_at": "2026-07-21T01:38:08Z",
       "pushed_at": "2026-07-18T09:39:14Z",
       "git_url": "git://github.com/ZeroPointSix/outlookEmailPlus.git",
       "ssh_url": "git@github.com:ZeroPointSix/outlookEmailPlus.git",
       "clone_url": "https://github.com/ZeroPointSix/outlookEmailPlus.git",
       "homepage": "",
-      "stargazers_count": 1733,
-      "watchers_count": 1733,
-      "forks_count": 345,
+      "stargazers_count": 1735,
+      "watchers_count": 1735,
+      "forks_count": 346,
       "open_issues_count": 18,
       "language": "Python",
       "topics": [],
@@ -3685,7 +3554,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2026-04-11T06:20:45Z"
     },
     {
       "id": 1164005541,
@@ -3704,7 +3573,7 @@
       "url": "https://api.github.com/repos/foryourhealth111-pixel/Vibe-Skills",
       "languages_url": "https://api.github.com/repos/foryourhealth111-pixel/Vibe-Skills/languages",
       "created_at": "2026-02-22T13:51:44Z",
-      "updated_at": "2026-07-20T12:05:57Z",
+      "updated_at": "2026-07-21T01:18:22Z",
       "pushed_at": "2026-07-20T00:33:25Z",
       "git_url": "git://github.com/foryourhealth111-pixel/Vibe-Skills.git",
       "ssh_url": "git@github.com:foryourhealth111-pixel/Vibe-Skills.git",
@@ -3712,8 +3581,8 @@
       "homepage": "",
       "stargazers_count": 2406,
       "watchers_count": 2406,
-      "forks_count": 171,
-      "open_issues_count": 14,
+      "forks_count": 172,
+      "open_issues_count": 15,
       "language": "Python",
       "topics": [
         "agent-framework",
@@ -3744,7 +3613,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2026-03-26T07:02:23Z"
     },
     {
       "id": 1164832776,
@@ -3763,14 +3632,14 @@
       "url": "https://api.github.com/repos/cft0808/edict",
       "languages_url": "https://api.github.com/repos/cft0808/edict/languages",
       "created_at": "2026-02-23T14:35:04Z",
-      "updated_at": "2026-07-20T15:50:45Z",
+      "updated_at": "2026-07-20T23:30:47Z",
       "pushed_at": "2026-07-20T11:24:49Z",
       "git_url": "git://github.com/cft0808/edict.git",
       "ssh_url": "git@github.com:cft0808/edict.git",
       "clone_url": "https://github.com/cft0808/edict.git",
       "homepage": "https://openclaw.ai",
-      "stargazers_count": 16253,
-      "watchers_count": 16253,
+      "stargazers_count": 16254,
+      "watchers_count": 16254,
       "forks_count": 1704,
       "open_issues_count": 32,
       "language": "Python",
@@ -3797,7 +3666,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-03-11T02:06:45Z"
     },
     {
       "id": 1157171418,
@@ -3816,16 +3685,16 @@
       "url": "https://api.github.com/repos/jundot/omlx",
       "languages_url": "https://api.github.com/repos/jundot/omlx/languages",
       "created_at": "2026-02-13T14:13:27Z",
-      "updated_at": "2026-07-20T18:07:15Z",
-      "pushed_at": "2026-07-20T16:36:24Z",
+      "updated_at": "2026-07-21T02:31:39Z",
+      "pushed_at": "2026-07-21T02:31:34Z",
       "git_url": "git://github.com/jundot/omlx.git",
       "ssh_url": "git@github.com:jundot/omlx.git",
       "clone_url": "https://github.com/jundot/omlx.git",
       "homepage": "https://omlx.ai",
-      "stargazers_count": 17979,
-      "watchers_count": 17979,
+      "stargazers_count": 17988,
+      "watchers_count": 17988,
       "forks_count": 1530,
-      "open_issues_count": 725,
+      "open_issues_count": 717,
       "language": "Python",
       "topics": [
         "apple-silicon",
@@ -3843,7 +3712,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2026-03-10T04:27:46Z"
     },
     {
       "id": 781236985,
@@ -3862,14 +3731,14 @@
       "url": "https://api.github.com/repos/wujunwei928/parse-video-py",
       "languages_url": "https://api.github.com/repos/wujunwei928/parse-video-py/languages",
       "created_at": "2024-04-03T02:07:41Z",
-      "updated_at": "2026-07-20T10:59:11Z",
+      "updated_at": "2026-07-21T02:11:30Z",
       "pushed_at": "2026-06-08T16:48:04Z",
       "git_url": "git://github.com/wujunwei928/parse-video-py.git",
       "ssh_url": "git@github.com:wujunwei928/parse-video-py.git",
       "clone_url": "https://github.com/wujunwei928/parse-video-py.git",
       "homepage": "",
-      "stargazers_count": 658,
-      "watchers_count": 658,
+      "stargazers_count": 659,
+      "watchers_count": 659,
       "forks_count": 175,
       "open_issues_count": 22,
       "language": "Python",
@@ -3886,7 +3755,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-12-20T03:06:12Z"
     },
     {
       "id": 1102743902,
@@ -3929,7 +3798,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-12-08T07:04:14Z"
     },
     {
       "id": 1103772881,
@@ -3981,7 +3850,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2025-12-04T08:58:07Z"
     },
     {
       "id": 837479775,
@@ -4027,7 +3896,7 @@
         "spdx_id": "AGPL-3.0",
         "url": "https://api.github.com/licenses/agpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2025-08-03T17:49:51Z"
     },
     {
       "id": 881171866,
@@ -4046,14 +3915,14 @@
       "url": "https://api.github.com/repos/WEIFENG2333/VideoCaptioner",
       "languages_url": "https://api.github.com/repos/WEIFENG2333/VideoCaptioner/languages",
       "created_at": "2024-10-31T03:06:23Z",
-      "updated_at": "2026-07-20T15:18:42Z",
+      "updated_at": "2026-07-20T18:42:06Z",
       "pushed_at": "2026-07-19T18:30:44Z",
       "git_url": "git://github.com/WEIFENG2333/VideoCaptioner.git",
       "ssh_url": "git@github.com:WEIFENG2333/VideoCaptioner.git",
       "clone_url": "https://github.com/WEIFENG2333/VideoCaptioner.git",
       "homepage": "https://www.videocaptioner.cn",
-      "stargazers_count": 15377,
-      "watchers_count": 15377,
+      "stargazers_count": 15376,
+      "watchers_count": 15376,
       "forks_count": 1312,
       "open_issues_count": 184,
       "language": "Python",
@@ -4071,7 +3940,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2025-07-31T02:46:20Z"
     },
     {
       "id": 902201960,
@@ -4117,7 +3986,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2025-07-09T17:19:17Z"
     },
     {
       "id": 841374526,
@@ -4156,7 +4025,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-05-06T07:51:40Z"
     },
     {
       "id": 841472636,
@@ -4175,15 +4044,15 @@
       "url": "https://api.github.com/repos/linyqh/NarratoAI",
       "languages_url": "https://api.github.com/repos/linyqh/NarratoAI/languages",
       "created_at": "2024-08-12T13:29:01Z",
-      "updated_at": "2026-07-20T17:44:06Z",
+      "updated_at": "2026-07-21T01:48:35Z",
       "pushed_at": "2026-07-19T06:53:18Z",
       "git_url": "git://github.com/linyqh/NarratoAI.git",
       "ssh_url": "git@github.com:linyqh/NarratoAI.git",
       "clone_url": "https://github.com/linyqh/NarratoAI.git",
       "homepage": "https://www.narratoai.co",
-      "stargazers_count": 10358,
-      "watchers_count": 10358,
-      "forks_count": 1419,
+      "stargazers_count": 10360,
+      "watchers_count": 10360,
+      "forks_count": 1420,
       "open_issues_count": 5,
       "language": "Python",
       "topics": [
@@ -4202,7 +4071,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-04-24T06:50:55Z"
     },
     {
       "id": 249088403,
@@ -4229,7 +4098,7 @@
       "homepage": "",
       "stargazers_count": 8900,
       "watchers_count": 8900,
-      "forks_count": 2388,
+      "forks_count": 2389,
       "open_issues_count": 36,
       "language": "Python",
       "topics": [],
@@ -4241,7 +4110,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-04-16T03:02:40Z"
     },
     {
       "id": 727109010,
@@ -4260,16 +4129,16 @@
       "url": "https://api.github.com/repos/dreammis/social-auto-upload",
       "languages_url": "https://api.github.com/repos/dreammis/social-auto-upload/languages",
       "created_at": "2023-12-04T07:49:16Z",
-      "updated_at": "2026-07-20T18:01:59Z",
+      "updated_at": "2026-07-21T02:26:37Z",
       "pushed_at": "2026-07-15T05:23:46Z",
       "git_url": "git://github.com/dreammis/social-auto-upload.git",
       "ssh_url": "git@github.com:dreammis/social-auto-upload.git",
       "clone_url": "https://github.com/dreammis/social-auto-upload.git",
       "homepage": "https://sap-doc.nasdaddy.com/",
-      "stargazers_count": 13507,
-      "watchers_count": 13507,
+      "stargazers_count": 13515,
+      "watchers_count": 13515,
       "forks_count": 2338,
-      "open_issues_count": 63,
+      "open_issues_count": 64,
       "language": "Python",
       "topics": [
         "bilibili",
@@ -4281,7 +4150,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2025-04-15T03:47:17Z"
     },
     {
       "id": 679219059,
@@ -4300,14 +4169,14 @@
       "url": "https://api.github.com/repos/JoeanAmier/XHS-Downloader",
       "languages_url": "https://api.github.com/repos/JoeanAmier/XHS-Downloader/languages",
       "created_at": "2023-08-16T11:03:36Z",
-      "updated_at": "2026-07-20T14:47:27Z",
+      "updated_at": "2026-07-20T22:59:57Z",
       "pushed_at": "2026-07-19T03:29:21Z",
       "git_url": "git://github.com/JoeanAmier/XHS-Downloader.git",
       "ssh_url": "git@github.com:JoeanAmier/XHS-Downloader.git",
       "clone_url": "https://github.com/JoeanAmier/XHS-Downloader.git",
       "homepage": "https://discord.com/invite/ZYtmgKud9Y",
-      "stargazers_count": 12020,
-      "watchers_count": 12020,
+      "stargazers_count": 12022,
+      "watchers_count": 12022,
       "forks_count": 1783,
       "open_issues_count": 25,
       "language": "Python",
@@ -4341,7 +4210,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2025-04-15T03:45:36Z"
     },
     {
       "id": 575865240,
@@ -4360,16 +4229,16 @@
       "url": "https://api.github.com/repos/AstrBotDevs/AstrBot",
       "languages_url": "https://api.github.com/repos/AstrBotDevs/AstrBot/languages",
       "created_at": "2022-12-08T13:27:46Z",
-      "updated_at": "2026-07-20T18:11:02Z",
+      "updated_at": "2026-07-21T02:32:00Z",
       "pushed_at": "2026-07-20T16:15:02Z",
       "git_url": "git://github.com/AstrBotDevs/AstrBot.git",
       "ssh_url": "git@github.com:AstrBotDevs/AstrBot.git",
       "clone_url": "https://github.com/AstrBotDevs/AstrBot.git",
       "homepage": "https://astrbot.app",
-      "stargazers_count": 37009,
-      "watchers_count": 37009,
-      "forks_count": 2570,
-      "open_issues_count": 1330,
+      "stargazers_count": 37142,
+      "watchers_count": 37142,
+      "forks_count": 2584,
+      "open_issues_count": 1331,
       "language": "Python",
       "topics": [
         "agent",
@@ -4398,7 +4267,7 @@
         "spdx_id": "AGPL-3.0",
         "url": "https://api.github.com/licenses/agpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2025-04-15T03:34:59Z"
     },
     {
       "id": 655413331,
@@ -4417,14 +4286,14 @@
       "url": "https://api.github.com/repos/Zeyi-Lin/HivisionIDPhotos",
       "languages_url": "https://api.github.com/repos/Zeyi-Lin/HivisionIDPhotos/languages",
       "created_at": "2023-06-18T20:17:56Z",
-      "updated_at": "2026-07-20T14:05:00Z",
+      "updated_at": "2026-07-21T00:27:05Z",
       "pushed_at": "2026-07-03T04:12:11Z",
       "git_url": "git://github.com/Zeyi-Lin/HivisionIDPhotos.git",
       "ssh_url": "git@github.com:Zeyi-Lin/HivisionIDPhotos.git",
       "clone_url": "https://github.com/Zeyi-Lin/HivisionIDPhotos.git",
       "homepage": "https://modelscope.cn/studios/SwanLab/HivisionIDPhotos",
-      "stargazers_count": 21297,
-      "watchers_count": 21297,
+      "stargazers_count": 21298,
+      "watchers_count": 21298,
       "forks_count": 2444,
       "open_issues_count": 101,
       "language": "Python",
@@ -4450,7 +4319,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-11-22T08:34:01Z"
     },
     {
       "id": 559033997,
@@ -4489,7 +4358,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-10-30T03:15:42Z"
     },
     {
       "id": 684649663,
@@ -4528,7 +4397,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2024-10-24T03:33:11Z"
     },
     {
       "id": 865763625,
@@ -4562,7 +4431,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-10-21T02:55:43Z"
     },
     {
       "id": 425387994,
@@ -4581,14 +4450,14 @@
       "url": "https://api.github.com/repos/Evil0ctal/Douyin_TikTok_Download_API",
       "languages_url": "https://api.github.com/repos/Evil0ctal/Douyin_TikTok_Download_API/languages",
       "created_at": "2021-11-07T01:35:09Z",
-      "updated_at": "2026-07-20T18:13:37Z",
+      "updated_at": "2026-07-21T01:54:26Z",
       "pushed_at": "2025-10-12T15:30:32Z",
       "git_url": "git://github.com/Evil0ctal/Douyin_TikTok_Download_API.git",
       "ssh_url": "git@github.com:Evil0ctal/Douyin_TikTok_Download_API.git",
       "clone_url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API.git",
       "homepage": "https://douyin.wtf",
-      "stargazers_count": 18885,
-      "watchers_count": 18885,
+      "stargazers_count": 18889,
+      "watchers_count": 18889,
       "forks_count": 2691,
       "open_issues_count": 147,
       "language": "Python",
@@ -4622,7 +4491,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-10-03T12:39:55Z"
     },
     {
       "id": 77145066,
@@ -4641,7 +4510,7 @@
       "url": "https://api.github.com/repos/budtmo/docker-android",
       "languages_url": "https://api.github.com/repos/budtmo/docker-android/languages",
       "created_at": "2016-12-22T13:02:48Z",
-      "updated_at": "2026-07-20T17:21:43Z",
+      "updated_at": "2026-07-21T01:20:11Z",
       "pushed_at": "2026-07-15T23:03:03Z",
       "git_url": "git://github.com/budtmo/docker-android.git",
       "ssh_url": "git@github.com:budtmo/docker-android.git",
@@ -4649,7 +4518,7 @@
       "homepage": "",
       "stargazers_count": 15558,
       "watchers_count": 15558,
-      "forks_count": 1740,
+      "forks_count": 1741,
       "open_issues_count": 161,
       "language": "Python",
       "topics": [
@@ -4682,7 +4551,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2024-09-03T06:27:25Z"
     },
     {
       "id": 639633349,
@@ -4716,7 +4585,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-08-20T10:02:09Z"
     },
     {
       "id": 830808726,
@@ -4750,7 +4619,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-08-19T09:40:38Z"
     },
     {
       "id": 799072729,
@@ -4793,7 +4662,7 @@
         "spdx_id": "AGPL-3.0",
         "url": "https://api.github.com/licenses/agpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-08-14T04:25:31Z"
     },
     {
       "id": 785077375,
@@ -4832,7 +4701,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-08-14T03:53:06Z"
     },
     {
       "id": 835472360,
@@ -4866,7 +4735,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-08-14T03:51:41Z"
     },
     {
       "id": 701312880,
@@ -4912,7 +4781,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2024-08-13T14:07:59Z"
     },
     {
       "id": 629871484,
@@ -4946,7 +4815,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-08-13T14:06:59Z"
     },
     {
       "id": 654801980,
@@ -4965,14 +4834,14 @@
       "url": "https://api.github.com/repos/jackvale/rectg",
       "languages_url": "https://api.github.com/repos/jackvale/rectg/languages",
       "created_at": "2023-06-17T02:15:48Z",
-      "updated_at": "2026-07-20T15:29:42Z",
+      "updated_at": "2026-07-21T00:49:20Z",
       "pushed_at": "2026-07-10T07:13:14Z",
       "git_url": "git://github.com/jackvale/rectg.git",
       "ssh_url": "git@github.com:jackvale/rectg.git",
       "clone_url": "https://github.com/jackvale/rectg.git",
       "homepage": "http://rectg.com/",
-      "stargazers_count": 9051,
-      "watchers_count": 9051,
+      "stargazers_count": 9053,
+      "watchers_count": 9053,
       "forks_count": 526,
       "open_issues_count": 3,
       "language": "Python",
@@ -4991,7 +4860,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-08-13T04:43:02Z"
     },
     {
       "id": 549007739,
@@ -5010,14 +4879,14 @@
       "url": "https://api.github.com/repos/JoeanAmier/TikTokDownloader",
       "languages_url": "https://api.github.com/repos/JoeanAmier/TikTokDownloader/languages",
       "created_at": "2022-10-10T14:27:36Z",
-      "updated_at": "2026-07-20T13:41:46Z",
+      "updated_at": "2026-07-21T01:53:48Z",
       "pushed_at": "2026-07-19T03:20:55Z",
       "git_url": "git://github.com/JoeanAmier/TikTokDownloader.git",
       "ssh_url": "git@github.com:JoeanAmier/TikTokDownloader.git",
       "clone_url": "https://github.com/JoeanAmier/TikTokDownloader.git",
       "homepage": "https://discord.com/invite/ZYtmgKud9Y",
-      "stargazers_count": 15193,
-      "watchers_count": 15193,
+      "stargazers_count": 15195,
+      "watchers_count": 15195,
       "forks_count": 2620,
       "open_issues_count": 43,
       "language": "Python",
@@ -5048,7 +4917,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-08-13T04:41:31Z"
     },
     {
       "id": 180192817,
@@ -5089,7 +4958,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-08-13T04:28:04Z"
     },
     {
       "id": 651517185,
@@ -5108,14 +4977,14 @@
       "url": "https://api.github.com/repos/NanmiCoder/MediaCrawler",
       "languages_url": "https://api.github.com/repos/NanmiCoder/MediaCrawler/languages",
       "created_at": "2023-06-09T12:14:34Z",
-      "updated_at": "2026-07-20T17:00:58Z",
+      "updated_at": "2026-07-21T02:31:08Z",
       "pushed_at": "2026-07-16T09:36:01Z",
       "git_url": "git://github.com/NanmiCoder/MediaCrawler.git",
       "ssh_url": "git@github.com:NanmiCoder/MediaCrawler.git",
       "clone_url": "https://github.com/NanmiCoder/MediaCrawler.git",
       "homepage": "https://nanmicoder.github.io/MediaCrawler/",
-      "stargazers_count": 56968,
-      "watchers_count": 56968,
+      "stargazers_count": 56984,
+      "watchers_count": 56984,
       "forks_count": 11413,
       "open_issues_count": 180,
       "language": "Python",
@@ -5128,7 +4997,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2024-08-13T04:27:25Z"
     },
     {
       "id": 637989761,
@@ -5162,7 +5031,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-08-13T04:26:01Z"
     },
     {
       "id": 783378483,
@@ -5196,67 +5065,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
-    },
-    {
-      "id": 620936652,
-      "node_id": "R_kgDOJQK9zA",
-      "name": "gpt4free",
-      "full_name": "xtekky/gpt4free",
-      "owner": {
-        "login": "xtekky",
-        "id": 98614666,
-        "avatar_url": "https://avatars.githubusercontent.com/u/98614666?v=4",
-        "url": "https://api.github.com/users/xtekky",
-        "html_url": "https://github.com/xtekky"
-      },
-      "html_url": "https://github.com/xtekky/gpt4free",
-      "description": "The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3",
-      "url": "https://api.github.com/repos/xtekky/gpt4free",
-      "languages_url": "https://api.github.com/repos/xtekky/gpt4free/languages",
-      "created_at": "2023-03-29T17:00:43Z",
-      "updated_at": "2026-07-20T18:02:00Z",
-      "pushed_at": "2026-07-19T22:38:19Z",
-      "git_url": "git://github.com/xtekky/gpt4free.git",
-      "ssh_url": "git@github.com:xtekky/gpt4free.git",
-      "clone_url": "https://github.com/xtekky/gpt4free.git",
-      "homepage": "https://t.me/g4f_channel",
-      "stargazers_count": 66468,
-      "watchers_count": 66468,
-      "forks_count": 13532,
-      "open_issues_count": 7,
-      "language": "Python",
-      "topics": [
-        "chatbot",
-        "chatbots",
-        "chatgpt",
-        "chatgpt-4",
-        "chatgpt-api",
-        "chatgpt-free",
-        "chatgpt4",
-        "deepseek",
-        "deepseek-api",
-        "deepseek-r1",
-        "gpt",
-        "gpt-4",
-        "gpt-4o",
-        "gpt4",
-        "gpt4-api",
-        "language-model",
-        "openai",
-        "openai-api",
-        "openai-chatgpt",
-        "reverse-engineering"
-      ],
-      "archived": false,
-      "disabled": false,
-      "license": {
-        "key": "gpl-3.0",
-        "name": "GNU General Public License v3.0",
-        "spdx_id": "GPL-3.0",
-        "url": "https://api.github.com/licenses/gpl-3.0"
-      },
-      "starred_at": null
+      "starred_at": "2024-07-20T13:10:34Z"
     },
     {
       "id": 781395957,
@@ -5301,7 +5110,7 @@
         "spdx_id": "AGPL-3.0",
         "url": "https://api.github.com/licenses/agpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-04-07T03:19:20Z"
     },
     {
       "id": 647509652,
@@ -5320,8 +5129,8 @@
       "url": "https://api.github.com/repos/jxxghp/MoviePilot",
       "languages_url": "https://api.github.com/repos/jxxghp/MoviePilot/languages",
       "created_at": "2023-05-31T00:06:46Z",
-      "updated_at": "2026-07-20T10:59:09Z",
-      "pushed_at": "2026-07-20T09:40:57Z",
+      "updated_at": "2026-07-21T00:25:22Z",
+      "pushed_at": "2026-07-21T00:29:09Z",
       "git_url": "git://github.com/jxxghp/MoviePilot.git",
       "ssh_url": "git@github.com:jxxghp/MoviePilot.git",
       "clone_url": "https://github.com/jxxghp/MoviePilot.git",
@@ -5329,7 +5138,7 @@
       "stargazers_count": 11380,
       "watchers_count": 11380,
       "forks_count": 1424,
-      "open_issues_count": 35,
+      "open_issues_count": 28,
       "language": "Python",
       "topics": [],
       "archived": false,
@@ -5340,7 +5149,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-03-31T08:56:39Z"
     },
     {
       "id": 396733113,
@@ -5384,7 +5193,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2024-01-18T06:36:48Z"
     },
     {
       "id": 284582964,
@@ -5403,8 +5212,8 @@
       "url": "https://api.github.com/repos/tickmao/Novel",
       "languages_url": "https://api.github.com/repos/tickmao/Novel/languages",
       "created_at": "2020-08-03T02:19:37Z",
-      "updated_at": "2026-07-20T10:59:04Z",
-      "pushed_at": "2026-07-19T20:31:28Z",
+      "updated_at": "2026-07-20T19:48:48Z",
+      "pushed_at": "2026-07-20T19:48:27Z",
       "git_url": "git://github.com/tickmao/Novel.git",
       "ssh_url": "git@github.com:tickmao/Novel.git",
       "clone_url": "https://github.com/tickmao/Novel.git",
@@ -5433,7 +5242,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2023-12-01T03:15:38Z"
     },
     {
       "id": 587960172,
@@ -5472,7 +5281,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2023-08-02T16:08:22Z"
     },
     {
       "id": 527791852,
@@ -5511,7 +5320,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2023-04-22T17:34:54Z"
     },
     {
       "id": 409922997,
@@ -5547,7 +5356,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2023-04-22T17:24:06Z"
     },
     {
       "id": 397561338,
@@ -5581,7 +5390,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2023-02-17T08:09:50Z"
     },
     {
       "id": 262975445,
@@ -5626,7 +5435,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2023-02-16T17:34:21Z"
     },
     {
       "id": 177378705,
@@ -5665,7 +5474,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2023-02-16T17:18:15Z"
     },
     {
       "id": 522158088,
@@ -5684,15 +5493,15 @@
       "url": "https://api.github.com/repos/zhayujie/CowAgent",
       "languages_url": "https://api.github.com/repos/zhayujie/CowAgent/languages",
       "created_at": "2022-08-07T08:33:41Z",
-      "updated_at": "2026-07-20T17:35:15Z",
+      "updated_at": "2026-07-21T02:29:51Z",
       "pushed_at": "2026-07-20T10:01:09Z",
       "git_url": "git://github.com/zhayujie/CowAgent.git",
       "ssh_url": "git@github.com:zhayujie/CowAgent.git",
       "clone_url": "https://github.com/zhayujie/CowAgent.git",
       "homepage": "https://cowagent.ai",
-      "stargazers_count": 46057,
-      "watchers_count": 46057,
-      "forks_count": 10266,
+      "stargazers_count": 46062,
+      "watchers_count": 46062,
+      "forks_count": 10267,
       "open_issues_count": 32,
       "language": "Python",
       "topics": [
@@ -5721,7 +5530,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2023-02-08T10:27:16Z"
     }
   ],
   "Rust": [
@@ -5742,8 +5551,8 @@
       "url": "https://api.github.com/repos/IvanLi-CN/tavily-hikari",
       "languages_url": "https://api.github.com/repos/IvanLi-CN/tavily-hikari/languages",
       "created_at": "2025-10-31T09:01:50Z",
-      "updated_at": "2026-07-20T17:47:20Z",
-      "pushed_at": "2026-07-20T10:37:08Z",
+      "updated_at": "2026-07-20T23:53:32Z",
+      "pushed_at": "2026-07-20T23:54:55Z",
       "git_url": "git://github.com/IvanLi-CN/tavily-hikari.git",
       "ssh_url": "git@github.com:IvanLi-CN/tavily-hikari.git",
       "clone_url": "https://github.com/IvanLi-CN/tavily-hikari.git",
@@ -5764,7 +5573,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-07-14T04:12:40Z"
     },
     {
       "id": 1288848940,
@@ -5783,15 +5592,15 @@
       "url": "https://api.github.com/repos/yynxxxxx/Codex-X",
       "languages_url": "https://api.github.com/repos/yynxxxxx/Codex-X/languages",
       "created_at": "2026-07-04T03:28:35Z",
-      "updated_at": "2026-07-20T17:58:35Z",
+      "updated_at": "2026-07-21T02:13:09Z",
       "pushed_at": "2026-07-16T13:48:10Z",
       "git_url": "git://github.com/yynxxxxx/Codex-X.git",
       "ssh_url": "git@github.com:yynxxxxx/Codex-X.git",
       "clone_url": "https://github.com/yynxxxxx/Codex-X.git",
       "homepage": "https://github.com/yynxxxxx/Codex-X",
-      "stargazers_count": 1428,
-      "watchers_count": 1428,
-      "forks_count": 215,
+      "stargazers_count": 1433,
+      "watchers_count": 1433,
+      "forks_count": 216,
       "open_issues_count": 13,
       "language": "Rust",
       "topics": [],
@@ -5803,7 +5612,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-07-09T08:08:42Z"
     },
     {
       "id": 1134046499,
@@ -5830,14 +5639,14 @@
       "homepage": "",
       "stargazers_count": 138,
       "watchers_count": 138,
-      "forks_count": 39,
+      "forks_count": 40,
       "open_issues_count": 0,
       "language": "Rust",
       "topics": [],
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2026-01-16T09:05:28Z"
     }
   ],
   "Shell": [
@@ -5858,14 +5667,14 @@
       "url": "https://api.github.com/repos/fscarmen/ArgoX",
       "languages_url": "https://api.github.com/repos/fscarmen/ArgoX/languages",
       "created_at": "2023-02-16T09:29:16Z",
-      "updated_at": "2026-07-20T14:37:53Z",
+      "updated_at": "2026-07-20T23:25:40Z",
       "pushed_at": "2026-07-19T11:58:51Z",
       "git_url": "git://github.com/fscarmen/ArgoX.git",
       "ssh_url": "git@github.com:fscarmen/ArgoX.git",
       "clone_url": "https://github.com/fscarmen/ArgoX.git",
       "homepage": "https://fscarmen.cloudflare.now.cc/",
-      "stargazers_count": 1921,
-      "watchers_count": 1921,
+      "stargazers_count": 1923,
+      "watchers_count": 1923,
       "forks_count": 650,
       "open_issues_count": 1,
       "language": "Shell",
@@ -5898,7 +5707,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2026-05-20T02:09:07Z"
     },
     {
       "id": 1147210886,
@@ -5937,7 +5746,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2026-02-03T08:20:10Z"
     },
     {
       "id": 750758961,
@@ -5971,7 +5780,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2025-08-03T14:28:26Z"
     },
     {
       "id": 953751420,
@@ -6012,7 +5821,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2025-08-02T16:20:24Z"
     },
     {
       "id": 269336148,
@@ -6031,7 +5840,7 @@
       "url": "https://api.github.com/repos/sickcodes/Docker-OSX",
       "languages_url": "https://api.github.com/repos/sickcodes/Docker-OSX/languages",
       "created_at": "2020-06-04T11:01:37Z",
-      "updated_at": "2026-07-20T18:00:27Z",
+      "updated_at": "2026-07-21T02:23:54Z",
       "pushed_at": "2025-11-11T05:23:57Z",
       "git_url": "git://github.com/sickcodes/Docker-OSX.git",
       "ssh_url": "git@github.com:sickcodes/Docker-OSX.git",
@@ -6062,7 +5871,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-09-02T02:27:53Z"
     },
     {
       "id": 237766675,
@@ -6108,7 +5917,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2024-08-27T07:22:32Z"
     },
     {
       "id": 708312415,
@@ -6127,14 +5936,14 @@
       "url": "https://api.github.com/repos/yonggekkk/sing-box-yg",
       "languages_url": "https://api.github.com/repos/yonggekkk/sing-box-yg/languages",
       "created_at": "2023-10-22T07:08:11Z",
-      "updated_at": "2026-07-20T17:05:32Z",
+      "updated_at": "2026-07-21T02:25:09Z",
       "pushed_at": "2026-07-16T07:37:08Z",
       "git_url": "git://github.com/yonggekkk/sing-box-yg.git",
       "ssh_url": "git@github.com:yonggekkk/sing-box-yg.git",
       "clone_url": "https://github.com/yonggekkk/sing-box-yg.git",
       "homepage": "https://ygkkk.blogspot.com/2023/10/sing-box-yg.html",
-      "stargazers_count": 9650,
-      "watchers_count": 9650,
+      "stargazers_count": 9653,
+      "watchers_count": 9653,
       "forks_count": 3025,
       "open_issues_count": 2,
       "language": "Shell",
@@ -6167,7 +5976,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-08-15T09:46:05Z"
     },
     {
       "id": 429083284,
@@ -6215,7 +6024,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-08-14T02:03:33Z"
     },
     {
       "id": 408076823,
@@ -6234,14 +6043,14 @@
       "url": "https://api.github.com/repos/emptysuns/Hi_Hysteria",
       "languages_url": "https://api.github.com/repos/emptysuns/Hi_Hysteria/languages",
       "created_at": "2021-09-19T08:49:36Z",
-      "updated_at": "2026-07-20T10:59:05Z",
+      "updated_at": "2026-07-21T00:28:20Z",
       "pushed_at": "2026-07-09T02:39:05Z",
       "git_url": "git://github.com/emptysuns/Hi_Hysteria.git",
       "ssh_url": "git@github.com:emptysuns/Hi_Hysteria.git",
       "clone_url": "https://github.com/emptysuns/Hi_Hysteria.git",
       "homepage": "https://hihysteria.t.me",
-      "stargazers_count": 3585,
-      "watchers_count": 3585,
+      "stargazers_count": 3586,
+      "watchers_count": 3586,
       "forks_count": 652,
       "open_issues_count": 1,
       "language": "Shell",
@@ -6258,7 +6067,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-08-13T05:01:36Z"
     },
     {
       "id": 546538918,
@@ -6297,7 +6106,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2024-07-22T10:00:41Z"
     },
     {
       "id": 404565294,
@@ -6316,15 +6125,15 @@
       "url": "https://api.github.com/repos/DaoCloud/public-image-mirror",
       "languages_url": "https://api.github.com/repos/DaoCloud/public-image-mirror/languages",
       "created_at": "2021-09-09T02:53:40Z",
-      "updated_at": "2026-07-20T17:41:32Z",
+      "updated_at": "2026-07-21T02:31:35Z",
       "pushed_at": "2026-07-20T06:35:55Z",
       "git_url": "git://github.com/DaoCloud/public-image-mirror.git",
       "ssh_url": "git@github.com:DaoCloud/public-image-mirror.git",
       "clone_url": "https://github.com/DaoCloud/public-image-mirror.git",
       "homepage": "",
-      "stargazers_count": 14651,
-      "watchers_count": 14651,
-      "forks_count": 1547,
+      "stargazers_count": 14653,
+      "watchers_count": 14653,
+      "forks_count": 1548,
       "open_issues_count": 8,
       "language": "Shell",
       "topics": [
@@ -6339,7 +6148,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2024-06-17T08:25:54Z"
     },
     {
       "id": 209236767,
@@ -6383,7 +6192,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-06-08T17:26:35Z"
     },
     {
       "id": 199709155,
@@ -6428,7 +6237,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2023-05-15T17:02:39Z"
     },
     {
       "id": 596101676,
@@ -6480,7 +6289,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2023-04-18T16:44:41Z"
     },
     {
       "id": 109921357,
@@ -6514,7 +6323,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2023-04-06T14:56:30Z"
     },
     {
       "id": 384998967,
@@ -6556,7 +6365,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2023-03-13T13:45:16Z"
     }
   ],
   "TypeScript": [
@@ -6577,15 +6386,15 @@
       "url": "https://api.github.com/repos/dimthink/PriceAI",
       "languages_url": "https://api.github.com/repos/dimthink/PriceAI/languages",
       "created_at": "2026-05-08T16:29:10Z",
-      "updated_at": "2026-07-20T17:58:31Z",
+      "updated_at": "2026-07-21T02:14:41Z",
       "pushed_at": "2026-07-20T09:23:44Z",
       "git_url": "git://github.com/dimthink/PriceAI.git",
       "ssh_url": "git@github.com:dimthink/PriceAI.git",
       "clone_url": "https://github.com/dimthink/PriceAI.git",
       "homepage": "https://priceai.cc",
-      "stargazers_count": 1990,
-      "watchers_count": 1990,
-      "forks_count": 122,
+      "stargazers_count": 2006,
+      "watchers_count": 2006,
+      "forks_count": 123,
       "open_issues_count": 5,
       "language": "TypeScript",
       "topics": [
@@ -6608,7 +6417,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2026-07-18T06:14:57Z"
     },
     {
       "id": 1223170290,
@@ -6627,16 +6436,16 @@
       "url": "https://api.github.com/repos/nexu-io/open-design",
       "languages_url": "https://api.github.com/repos/nexu-io/open-design/languages",
       "created_at": "2026-04-28T04:25:20Z",
-      "updated_at": "2026-07-20T18:17:30Z",
-      "pushed_at": "2026-07-20T18:16:07Z",
+      "updated_at": "2026-07-21T02:28:32Z",
+      "pushed_at": "2026-07-21T02:26:18Z",
       "git_url": "git://github.com/nexu-io/open-design.git",
       "ssh_url": "git@github.com:nexu-io/open-design.git",
       "clone_url": "https://github.com/nexu-io/open-design.git",
       "homepage": "https://open-design.ai",
-      "stargazers_count": 79960,
-      "watchers_count": 79960,
-      "forks_count": 9220,
-      "open_issues_count": 641,
+      "stargazers_count": 80032,
+      "watchers_count": 80032,
+      "forks_count": 9232,
+      "open_issues_count": 635,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -6668,7 +6477,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2026-06-10T03:58:04Z"
     },
     {
       "id": 1242967652,
@@ -6687,16 +6496,16 @@
       "url": "https://api.github.com/repos/basketikun/infinite-canvas",
       "languages_url": "https://api.github.com/repos/basketikun/infinite-canvas/languages",
       "created_at": "2026-05-18T23:45:50Z",
-      "updated_at": "2026-07-20T17:34:48Z",
+      "updated_at": "2026-07-21T01:38:01Z",
       "pushed_at": "2026-07-20T17:08:47Z",
       "git_url": "git://github.com/basketikun/infinite-canvas.git",
       "ssh_url": "git@github.com:basketikun/infinite-canvas.git",
       "clone_url": "https://github.com/basketikun/infinite-canvas.git",
       "homepage": "https://canvas.best",
-      "stargazers_count": 3550,
-      "watchers_count": 3550,
-      "forks_count": 925,
-      "open_issues_count": 19,
+      "stargazers_count": 3553,
+      "watchers_count": 3553,
+      "forks_count": 926,
+      "open_issues_count": 20,
       "language": "TypeScript",
       "topics": [],
       "archived": false,
@@ -6707,7 +6516,7 @@
         "spdx_id": "AGPL-3.0",
         "url": "https://api.github.com/licenses/agpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2026-06-05T09:37:13Z"
     },
     {
       "id": 626805178,
@@ -6726,16 +6535,16 @@
       "url": "https://api.github.com/repos/langgenius/dify",
       "languages_url": "https://api.github.com/repos/langgenius/dify/languages",
       "created_at": "2023-04-12T07:40:24Z",
-      "updated_at": "2026-07-20T18:12:20Z",
-      "pushed_at": "2026-07-20T18:09:28Z",
+      "updated_at": "2026-07-21T02:30:30Z",
+      "pushed_at": "2026-07-21T02:30:39Z",
       "git_url": "git://github.com/langgenius/dify.git",
       "ssh_url": "git@github.com:langgenius/dify.git",
       "clone_url": "https://github.com/langgenius/dify.git",
       "homepage": "https://dify.ai",
-      "stargazers_count": 149501,
-      "watchers_count": 149501,
-      "forks_count": 23560,
-      "open_issues_count": 1091,
+      "stargazers_count": 149526,
+      "watchers_count": 149526,
+      "forks_count": 23568,
+      "open_issues_count": 1095,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -6767,7 +6576,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2026-04-30T02:55:48Z"
     },
     {
       "id": 896908848,
@@ -6794,7 +6603,7 @@
       "homepage": "https://moemail.app",
       "stargazers_count": 2743,
       "watchers_count": 2743,
-      "forks_count": 2522,
+      "forks_count": 2523,
       "open_issues_count": 64,
       "language": "TypeScript",
       "topics": [
@@ -6811,7 +6620,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-04-11T07:54:14Z"
     },
     {
       "id": 1197305828,
@@ -6830,22 +6639,22 @@
       "url": "https://api.github.com/repos/claude-code-best/claude-code",
       "languages_url": "https://api.github.com/repos/claude-code-best/claude-code/languages",
       "created_at": "2026-03-31T13:33:21Z",
-      "updated_at": "2026-07-20T18:07:15Z",
-      "pushed_at": "2026-07-20T11:43:16Z",
+      "updated_at": "2026-07-21T02:31:11Z",
+      "pushed_at": "2026-07-21T01:28:11Z",
       "git_url": "git://github.com/claude-code-best/claude-code.git",
       "ssh_url": "git@github.com:claude-code-best/claude-code.git",
       "clone_url": "https://github.com/claude-code-best/claude-code.git",
       "homepage": "https://ccb.agent-aura.top/",
-      "stargazers_count": 21396,
-      "watchers_count": 21396,
-      "forks_count": 16426,
+      "stargazers_count": 21400,
+      "watchers_count": 21400,
+      "forks_count": 16427,
       "open_issues_count": 16,
       "language": "TypeScript",
       "topics": [],
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2026-04-01T15:53:41Z"
     },
     {
       "id": 1197283738,
@@ -6879,7 +6688,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2026-04-01T15:53:10Z"
     },
     {
       "id": 1144084209,
@@ -6898,14 +6707,14 @@
       "url": "https://api.github.com/repos/tencent-connect/openclaw-qqbot",
       "languages_url": "https://api.github.com/repos/tencent-connect/openclaw-qqbot/languages",
       "created_at": "2026-01-28T09:17:44Z",
-      "updated_at": "2026-07-20T11:12:37Z",
+      "updated_at": "2026-07-21T01:08:02Z",
       "pushed_at": "2026-07-14T04:39:19Z",
       "git_url": "git://github.com/tencent-connect/openclaw-qqbot.git",
       "ssh_url": "git@github.com:tencent-connect/openclaw-qqbot.git",
       "clone_url": "https://github.com/tencent-connect/openclaw-qqbot.git",
       "homepage": null,
-      "stargazers_count": 1530,
-      "watchers_count": 1530,
+      "stargazers_count": 1529,
+      "watchers_count": 1529,
       "forks_count": 193,
       "open_issues_count": 117,
       "language": "TypeScript",
@@ -6918,7 +6727,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2026-03-11T04:47:54Z"
     },
     {
       "id": 1143968677,
@@ -6959,7 +6768,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2026-02-03T05:57:14Z"
     },
     {
       "id": 1103012935,
@@ -6978,16 +6787,16 @@
       "url": "https://api.github.com/repos/openclaw/openclaw",
       "languages_url": "https://api.github.com/repos/openclaw/openclaw/languages",
       "created_at": "2025-11-24T10:16:47Z",
-      "updated_at": "2026-07-20T18:13:04Z",
-      "pushed_at": "2026-07-20T18:12:06Z",
+      "updated_at": "2026-07-21T02:28:22Z",
+      "pushed_at": "2026-07-21T02:31:54Z",
       "git_url": "git://github.com/openclaw/openclaw.git",
       "ssh_url": "git@github.com:openclaw/openclaw.git",
       "clone_url": "https://github.com/openclaw/openclaw.git",
       "homepage": "https://openclaw.ai",
-      "stargazers_count": 383583,
-      "watchers_count": 383583,
-      "forks_count": 80577,
-      "open_issues_count": 7009,
+      "stargazers_count": 383609,
+      "watchers_count": 383609,
+      "forks_count": 80583,
+      "open_issues_count": 7026,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -7006,7 +6815,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2026-01-29T02:51:44Z"
     },
     {
       "id": 1097360639,
@@ -7025,7 +6834,7 @@
       "url": "https://api.github.com/repos/KuekHaoYang/KVideo",
       "languages_url": "https://api.github.com/repos/KuekHaoYang/KVideo/languages",
       "created_at": "2025-11-16T02:49:26Z",
-      "updated_at": "2026-07-20T15:00:41Z",
+      "updated_at": "2026-07-21T02:25:16Z",
       "pushed_at": "2026-07-13T13:15:18Z",
       "git_url": "git://github.com/KuekHaoYang/KVideo.git",
       "ssh_url": "git@github.com:KuekHaoYang/KVideo.git",
@@ -7045,7 +6854,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-12-26T01:25:45Z"
     },
     {
       "id": 1045411835,
@@ -7064,14 +6873,14 @@
       "url": "https://api.github.com/repos/katelya77/KatelyaTV",
       "languages_url": "https://api.github.com/repos/katelya77/KatelyaTV/languages",
       "created_at": "2025-08-27T06:04:23Z",
-      "updated_at": "2026-07-20T10:59:14Z",
+      "updated_at": "2026-07-20T22:28:01Z",
       "pushed_at": "2025-10-01T16:34:37Z",
       "git_url": "git://github.com/katelya77/KatelyaTV.git",
       "ssh_url": "git@github.com:katelya77/KatelyaTV.git",
       "clone_url": "https://github.com/katelya77/KatelyaTV.git",
       "homepage": "https://tv.katelya.eu.org",
-      "stargazers_count": 2853,
-      "watchers_count": 2853,
+      "stargazers_count": 2854,
+      "watchers_count": 2854,
       "forks_count": 3475,
       "open_issues_count": 68,
       "language": "TypeScript",
@@ -7084,7 +6893,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-09-13T15:05:17Z"
     },
     {
       "id": 202367615,
@@ -7103,15 +6912,15 @@
       "url": "https://api.github.com/repos/lyswhut/lx-music-desktop",
       "languages_url": "https://api.github.com/repos/lyswhut/lx-music-desktop/languages",
       "created_at": "2019-08-14T14:31:08Z",
-      "updated_at": "2026-07-20T15:43:03Z",
+      "updated_at": "2026-07-21T02:22:05Z",
       "pushed_at": "2026-07-15T01:36:41Z",
       "git_url": "git://github.com/lyswhut/lx-music-desktop.git",
       "ssh_url": "git@github.com:lyswhut/lx-music-desktop.git",
       "clone_url": "https://github.com/lyswhut/lx-music-desktop.git",
       "homepage": "https://lyswhut.github.io/lx-music-doc/",
-      "stargazers_count": 52244,
-      "watchers_count": 52244,
-      "forks_count": 6915,
+      "stargazers_count": 52245,
+      "watchers_count": 52245,
+      "forks_count": 6916,
       "open_issues_count": 1232,
       "language": "TypeScript",
       "topics": [
@@ -7128,7 +6937,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2025-09-07T07:01:32Z"
     },
     {
       "id": 1036732253,
@@ -7147,15 +6956,15 @@
       "url": "https://api.github.com/repos/MoonTechLab/LunaTV",
       "languages_url": "https://api.github.com/repos/MoonTechLab/LunaTV/languages",
       "created_at": "2025-08-12T13:59:33Z",
-      "updated_at": "2026-07-20T16:42:18Z",
+      "updated_at": "2026-07-21T02:27:04Z",
       "pushed_at": "2026-05-28T06:05:20Z",
       "git_url": "git://github.com/MoonTechLab/LunaTV.git",
       "ssh_url": "git@github.com:MoonTechLab/LunaTV.git",
       "clone_url": "https://github.com/MoonTechLab/LunaTV.git",
       "homepage": "",
-      "stargazers_count": 9098,
-      "watchers_count": 9098,
-      "forks_count": 8793,
+      "stargazers_count": 9101,
+      "watchers_count": 9101,
+      "forks_count": 8795,
       "open_issues_count": 3,
       "language": "TypeScript",
       "topics": [],
@@ -7167,7 +6976,7 @@
         "spdx_id": "NOASSERTION",
         "url": null
       },
-      "starred_at": null
+      "starred_at": "2025-08-27T04:49:53Z"
     },
     {
       "id": 678900558,
@@ -7186,15 +6995,15 @@
       "url": "https://api.github.com/repos/dreamhunter2333/cloudflare_temp_email",
       "languages_url": "https://api.github.com/repos/dreamhunter2333/cloudflare_temp_email/languages",
       "created_at": "2023-08-15T16:35:52Z",
-      "updated_at": "2026-07-20T17:20:07Z",
+      "updated_at": "2026-07-20T21:22:01Z",
       "pushed_at": "2026-07-19T08:13:47Z",
       "git_url": "git://github.com/dreamhunter2333/cloudflare_temp_email.git",
       "ssh_url": "git@github.com:dreamhunter2333/cloudflare_temp_email.git",
       "clone_url": "https://github.com/dreamhunter2333/cloudflare_temp_email.git",
       "homepage": "https://mail.awsl.uk",
-      "stargazers_count": 10581,
-      "watchers_count": 10581,
-      "forks_count": 7163,
+      "stargazers_count": 10582,
+      "watchers_count": 10582,
+      "forks_count": 7175,
       "open_issues_count": 30,
       "language": "TypeScript",
       "topics": [
@@ -7212,7 +7021,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-07-31T03:31:10Z"
     },
     {
       "id": 861790708,
@@ -7231,15 +7040,15 @@
       "url": "https://api.github.com/repos/ourongxing/newsnow",
       "languages_url": "https://api.github.com/repos/ourongxing/newsnow/languages",
       "created_at": "2024-09-23T14:16:12Z",
-      "updated_at": "2026-07-20T17:50:25Z",
+      "updated_at": "2026-07-21T01:16:12Z",
       "pushed_at": "2026-07-07T02:33:08Z",
       "git_url": "git://github.com/ourongxing/newsnow.git",
       "ssh_url": "git@github.com:ourongxing/newsnow.git",
       "clone_url": "https://github.com/ourongxing/newsnow.git",
       "homepage": "https://newsnow.busiyi.world",
-      "stargazers_count": 21050,
-      "watchers_count": 21050,
-      "forks_count": 5832,
+      "stargazers_count": 21052,
+      "watchers_count": 21052,
+      "forks_count": 5831,
       "open_issues_count": 152,
       "language": "TypeScript",
       "topics": [
@@ -7254,7 +7063,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2025-07-31T03:09:41Z"
     },
     {
       "id": 861617037,
@@ -7293,7 +7102,7 @@
         "spdx_id": "Apache-2.0",
         "url": "https://api.github.com/licenses/apache-2.0"
       },
-      "starred_at": null
+      "starred_at": "2025-04-29T10:04:31Z"
     },
     {
       "id": 519577891,
@@ -7312,16 +7121,16 @@
       "url": "https://api.github.com/repos/upscayl/upscayl",
       "languages_url": "https://api.github.com/repos/upscayl/upscayl/languages",
       "created_at": "2022-07-30T17:19:20Z",
-      "updated_at": "2026-07-20T18:00:42Z",
-      "pushed_at": "2026-07-19T20:10:35Z",
+      "updated_at": "2026-07-21T01:14:07Z",
+      "pushed_at": "2026-07-21T00:59:28Z",
       "git_url": "git://github.com/upscayl/upscayl.git",
       "ssh_url": "git@github.com:upscayl/upscayl.git",
       "clone_url": "https://github.com/upscayl/upscayl.git",
       "homepage": "https://upscayl.org",
-      "stargazers_count": 47412,
-      "watchers_count": 47412,
-      "forks_count": 2349,
-      "open_issues_count": 52,
+      "stargazers_count": 47415,
+      "watchers_count": 47415,
+      "forks_count": 2351,
+      "open_issues_count": 53,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -7344,7 +7153,7 @@
         "spdx_id": "AGPL-3.0",
         "url": "https://api.github.com/licenses/agpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2025-03-28T04:02:20Z"
     },
     {
       "id": 903394167,
@@ -7378,7 +7187,7 @@
       "archived": false,
       "disabled": false,
       "license": null,
-      "starred_at": null
+      "starred_at": "2024-12-17T06:03:54Z"
     },
     {
       "id": 606803328,
@@ -7397,14 +7206,14 @@
       "url": "https://api.github.com/repos/JimmyLv/BibiGPT-v1",
       "languages_url": "https://api.github.com/repos/JimmyLv/BibiGPT-v1/languages",
       "created_at": "2023-02-26T16:05:11Z",
-      "updated_at": "2026-07-20T10:59:07Z",
+      "updated_at": "2026-07-20T21:55:15Z",
       "pushed_at": "2026-05-04T12:07:02Z",
       "git_url": "git://github.com/JimmyLv/BibiGPT-v1.git",
       "ssh_url": "git@github.com:JimmyLv/BibiGPT-v1.git",
       "clone_url": "https://github.com/JimmyLv/BibiGPT-v1.git",
       "homepage": "https://bibigpt.co",
-      "stargazers_count": 6147,
-      "watchers_count": 6147,
+      "stargazers_count": 6148,
+      "watchers_count": 6148,
       "forks_count": 816,
       "open_issues_count": 40,
       "language": "TypeScript",
@@ -7424,7 +7233,7 @@
         "spdx_id": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
-      "starred_at": null
+      "starred_at": "2024-11-25T01:56:26Z"
     },
     {
       "id": 636535720,
@@ -7443,14 +7252,14 @@
       "url": "https://api.github.com/repos/josStorer/RWKV-Runner",
       "languages_url": "https://api.github.com/repos/josStorer/RWKV-Runner/languages",
       "created_at": "2023-05-05T04:21:56Z",
-      "updated_at": "2026-07-20T14:14:34Z",
+      "updated_at": "2026-07-20T21:06:51Z",
       "pushed_at": "2026-07-07T03:45:32Z",
       "git_url": "git://github.com/josStorer/RWKV-Runner.git",
       "ssh_url": "git@github.com:josStorer/RWKV-Runner.git",
       "clone_url": "https://github.com/josStorer/RWKV-Runner.git",
       "homepage": "https://www.rwkv.com",
-      "stargazers_count": 6435,
-      "watchers_count": 6435,
+      "stargazers_count": 6436,
+      "watchers_count": 6436,
       "forks_count": 600,
       "open_issues_count": 177,
       "language": "TypeScript",
@@ -7471,7 +7280,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2024-08-13T14:07:09Z"
     },
     {
       "id": 668132464,
@@ -7490,7 +7299,7 @@
       "url": "https://api.github.com/repos/weaigc/bingo",
       "languages_url": "https://api.github.com/repos/weaigc/bingo/languages",
       "created_at": "2023-07-19T05:25:17Z",
-      "updated_at": "2026-07-20T10:59:09Z",
+      "updated_at": "2026-07-21T02:30:49Z",
       "pushed_at": "2024-06-08T01:40:56Z",
       "git_url": "git://github.com/weaigc/bingo.git",
       "ssh_url": "git@github.com:weaigc/bingo.git",
@@ -7515,7 +7324,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2024-06-13T06:06:13Z"
     },
     {
       "id": 612344730,
@@ -7534,15 +7343,15 @@
       "url": "https://api.github.com/repos/ChatGPTNextWeb/NextChat",
       "languages_url": "https://api.github.com/repos/ChatGPTNextWeb/NextChat/languages",
       "created_at": "2023-03-10T18:27:54Z",
-      "updated_at": "2026-07-20T18:16:52Z",
+      "updated_at": "2026-07-20T23:53:47Z",
       "pushed_at": "2026-07-06T06:19:02Z",
       "git_url": "git://github.com/ChatGPTNextWeb/NextChat.git",
       "ssh_url": "git@github.com:ChatGPTNextWeb/NextChat.git",
       "clone_url": "https://github.com/ChatGPTNextWeb/NextChat.git",
       "homepage": "https://nextchat.club",
-      "stargazers_count": 88523,
-      "watchers_count": 88523,
-      "forks_count": 59395,
+      "stargazers_count": 88525,
+      "watchers_count": 88525,
+      "forks_count": 59391,
       "open_issues_count": 843,
       "language": "TypeScript",
       "topics": [
@@ -7574,7 +7383,7 @@
         "spdx_id": "MIT",
         "url": "https://api.github.com/licenses/mit"
       },
-      "starred_at": null
+      "starred_at": "2023-04-16T08:36:09Z"
     }
   ],
   "Vue": [
@@ -7615,46 +7424,7 @@
         "spdx_id": "AGPL-3.0",
         "url": "https://api.github.com/licenses/agpl-3.0"
       },
-      "starred_at": null
-    },
-    {
-      "id": 599394820,
-      "node_id": "R_kgDOI7oKBA",
-      "name": "chatgpt-web",
-      "full_name": "Chanzhaoyu/chatgpt-web",
-      "owner": {
-        "login": "Chanzhaoyu",
-        "id": 24789441,
-        "avatar_url": "https://avatars.githubusercontent.com/u/24789441?v=4",
-        "url": "https://api.github.com/users/Chanzhaoyu",
-        "html_url": "https://github.com/Chanzhaoyu"
-      },
-      "html_url": "https://github.com/Chanzhaoyu/chatgpt-web",
-      "description": "用 Express 和  Vue3 搭建的 ChatGPT 演示网页",
-      "url": "https://api.github.com/repos/Chanzhaoyu/chatgpt-web",
-      "languages_url": "https://api.github.com/repos/Chanzhaoyu/chatgpt-web/languages",
-      "created_at": "2023-02-09T03:21:37Z",
-      "updated_at": "2026-07-20T10:59:07Z",
-      "pushed_at": "2024-08-16T15:26:57Z",
-      "git_url": "git://github.com/Chanzhaoyu/chatgpt-web.git",
-      "ssh_url": "git@github.com:Chanzhaoyu/chatgpt-web.git",
-      "clone_url": "https://github.com/Chanzhaoyu/chatgpt-web.git",
-      "homepage": "",
-      "stargazers_count": 31555,
-      "watchers_count": 31555,
-      "forks_count": 10768,
-      "open_issues_count": 1,
-      "language": "Vue",
-      "topics": [],
-      "archived": true,
-      "disabled": false,
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit"
-      },
-      "starred_at": null
+      "starred_at": "2025-12-25T06:16:12Z"
     }
   ]
 }
