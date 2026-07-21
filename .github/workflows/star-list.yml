@@ -36,13 +36,13 @@ jobs:
           GITHUB_NAME: ${{ github.repository_owner }}
           USER_EMAIL: ${{ secrets.USER_EMAIL }}
         run: |
-          if git diff --quiet -- README.md data.json; then
+          if git diff --quiet -- README.md data.json assets/star-atlas.svg; then
             echo "No star list changes."
             exit 0
           fi
 
           git config user.name "${GITHUB_NAME:-github-actions[bot]}"
           git config user.email "${USER_EMAIL:-41898282+github-actions[bot]@users.noreply.github.com}"
-          git add README.md data.json
+          git add README.md data.json assets/star-atlas.svg
           git commit -m "chore(updates): updated entries in files"
           git push
