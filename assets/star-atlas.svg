@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title description">
 <title id="title">IGuanggg Star Atlas</title>
-<desc id="description">172 starred repositories grouped across 19 languages</desc>
+<desc id="description">171 starred repositories grouped across 18 languages</desc>
 <style>
   .title { fill: #f0f6fc; font: 700 46px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: -1.5px; }
   .subtitle { fill: #8b949e; font: 400 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
@@ -14,19 +14,19 @@
 <text x="72" y="105" class="title">STAR ATLAS</text>
 <text x="72" y="143" class="subtitle">A living shelf of open-source tools, ideas, and experiments.</text>
 <g transform="translate(72 205)">
-  <text class="metric">172</text>
+  <text class="metric">171</text>
   <text y="25" class="metric-label">STARRED REPOS</text>
 </g>
 <g transform="translate(245 205)">
-  <text class="metric">19</text>
+  <text class="metric">18</text>
   <text y="25" class="metric-label">LANGUAGES</text>
 </g>
-<text x="72" y="310" class="subtitle">Synced 2026-07-22, 01:44 Asia/Shanghai</text>
+<text x="72" y="310" class="subtitle">Synced 2026-07-23, 01:41 Asia/Shanghai</text>
 <text x="650" y="58" class="metric-label">TOP LANGUAGES</text>
 <g transform="translate(650 88)">
   <rect width="12" height="12" rx="4" fill="#58a6ff"/>
   <text x="24" y="11" class="label">Python</text>
-  <text x="215" y="11" text-anchor="end" class="value">59</text>
+  <text x="215" y="11" text-anchor="end" class="value">58</text>
 </g><g transform="translate(895 88)">
   <rect width="12" height="12" rx="4" fill="#2f81f7"/>
   <text x="24" y="11" class="label">TypeScript</text>
@@ -34,7 +34,7 @@
 </g><g transform="translate(650 138)">
   <rect width="12" height="12" rx="4" fill="#1f6feb"/>
   <text x="24" y="11" class="label">miscellaneous</text>
-  <text x="215" y="11" text-anchor="end" class="value">16</text>
+  <text x="215" y="11" text-anchor="end" class="value">17</text>
 </g><g transform="translate(895 138)">
   <rect width="12" height="12" rx="4" fill="#1158c7"/>
   <text x="24" y="11" class="label">Shell</text>
@@ -56,5 +56,5 @@
   <text x="24" y="11" class="label">HTML</text>
   <text x="215" y="11" text-anchor="end" class="value">6</text>
 </g>
-<rect x="650.00" y="303" width="178.90" height="18" rx="9" fill="#58a6ff"/><rect x="828.90" y="303" width="69.74" height="18" rx="9" fill="#2f81f7"/><rect x="898.65" y="303" width="48.52" height="18" rx="9" fill="#1f6feb"/><rect x="947.16" y="303" width="48.52" height="18" rx="9" fill="#1158c7"/><rect x="995.68" y="303" width="45.48" height="18" rx="9" fill="#79c0ff"/><rect x="1041.16" y="303" width="30.32" height="18" rx="9" fill="#388bfd"/><rect x="1071.48" y="303" width="30.32" height="18" rx="9" fill="#0d419d"/><rect x="1101.81" y="303" width="18.19" height="18" rx="9" fill="#a5d6ff"/>
+<rect x="650.00" y="303" width="175.87" height="18" rx="9" fill="#58a6ff"/><rect x="825.87" y="303" width="69.74" height="18" rx="9" fill="#2f81f7"/><rect x="895.61" y="303" width="51.55" height="18" rx="9" fill="#1f6feb"/><rect x="947.16" y="303" width="48.52" height="18" rx="9" fill="#1158c7"/><rect x="995.68" y="303" width="45.48" height="18" rx="9" fill="#79c0ff"/><rect x="1041.16" y="303" width="30.32" height="18" rx="9" fill="#388bfd"/><rect x="1071.48" y="303" width="30.32" height="18" rx="9" fill="#0d419d"/><rect x="1101.81" y="303" width="18.19" height="18" rx="9" fill="#a5d6ff"/>
 </svg>
