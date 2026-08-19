@@ -21,12 +21,12 @@
   <text class="metric">17</text>
   <text y="25" class="metric-label">LANGUAGES</text>
 </g>
-<text x="72" y="310" class="subtitle">Synced 2026-08-19, 00:47 Asia/Shanghai</text>
+<text x="72" y="310" class="subtitle">Synced 2026-08-19, 11:23 Asia/Shanghai</text>
 <text x="650" y="58" class="metric-label">TOP LANGUAGES</text>
 <g transform="translate(650 88)">
   <rect width="12" height="12" rx="4" fill="#58a6ff"/>
   <text x="24" y="11" class="label">Python</text>
-  <text x="215" y="11" text-anchor="end" class="value">62</text>
+  <text x="215" y="11" text-anchor="end" class="value">61</text>
 </g><g transform="translate(895 88)">
   <rect width="12" height="12" rx="4" fill="#2f81f7"/>
   <text x="24" y="11" class="label">TypeScript</text>
@@ -38,7 +38,7 @@
 </g><g transform="translate(895 138)">
   <rect width="12" height="12" rx="4" fill="#1158c7"/>
   <text x="24" y="11" class="label">JavaScript</text>
-  <text x="215" y="11" text-anchor="end" class="value">16</text>
+  <text x="215" y="11" text-anchor="end" class="value">17</text>
 </g><g transform="translate(650 188)">
   <rect width="12" height="12" rx="4" fill="#79c0ff"/>
   <text x="24" y="11" class="label">Shell</text>
@@ -56,5 +56,5 @@
   <text x="24" y="11" class="label">HTML</text>
   <text x="215" y="11" text-anchor="end" class="value">6</text>
 </g>
-<rect x="650.00" y="303" width="178.77" height="18" rx="9" fill="#58a6ff"/><rect x="828.77" y="303" width="72.09" height="18" rx="9" fill="#2f81f7"/><rect x="900.86" y="303" width="49.02" height="18" rx="9" fill="#1f6feb"/><rect x="949.88" y="303" width="46.13" height="18" rx="9" fill="#1158c7"/><rect x="996.01" y="303" width="43.25" height="18" rx="9" fill="#79c0ff"/><rect x="1039.26" y="303" width="34.60" height="18" rx="9" fill="#388bfd"/><rect x="1073.87" y="303" width="28.83" height="18" rx="9" fill="#0d419d"/><rect x="1102.70" y="303" width="17.30" height="18" rx="9" fill="#a5d6ff"/>
+<rect x="650.00" y="303" width="175.89" height="18" rx="9" fill="#58a6ff"/><rect x="825.89" y="303" width="72.09" height="18" rx="9" fill="#2f81f7"/><rect x="897.98" y="303" width="49.02" height="18" rx="9" fill="#1f6feb"/><rect x="946.99" y="303" width="49.02" height="18" rx="9" fill="#1158c7"/><rect x="996.01" y="303" width="43.25" height="18" rx="9" fill="#79c0ff"/><rect x="1039.26" y="303" width="34.60" height="18" rx="9" fill="#388bfd"/><rect x="1073.87" y="303" width="28.83" height="18" rx="9" fill="#0d419d"/><rect x="1102.70" y="303" width="17.30" height="18" rx="9" fill="#a5d6ff"/>
 </svg>
