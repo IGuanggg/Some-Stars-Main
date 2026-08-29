@@ -24,46 +24,46 @@
 <sub>Local, privacy-first CAPTCHA recognition for Chrome and Edge. 本地、隐私优先的验证码识别扩展。</sub><br>
   <code>&#9733; 42 | Fork 6 | TypeScript</code></td><td width="42%" valign="top"><strong><a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a></strong><br>
 <sub>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</sub><br>
-  <code>&#9733; 387.8K | Fork 81.4K | TypeScript</code></td></tr>
+  <code>&#9733; 387.9K | Fork 81.5K | TypeScript</code></td></tr>
 <tr><td width="58%" valign="top"><strong><a href="https://github.com/abligail/narralume">abligail/narralume</a></strong><br>
 <sub>Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇...</sub><br>
-  <code>&#9733; 102 | Fork 23 | TypeScript</code></td><td width="42%" valign="top"><strong><a href="https://github.com/deepseek-ai/deepseek-harness">deepseek-ai/deepseek-harness</a></strong><br>
+  <code>&#9733; 101 | Fork 23 | TypeScript</code></td><td width="42%" valign="top"><strong><a href="https://github.com/deepseek-ai/deepseek-harness">deepseek-ai/deepseek-harness</a></strong><br>
 <sub>DeepSeek Harness: Everything is a Plugin.</sub><br>
-  <code>&#9733; 200.2K | Fork 22.9K | TypeScript</code></td></tr>
+  <code>&#9733; 202K | Fork 23.2K | TypeScript</code></td></tr>
 <tr><td width="58%" valign="top"><strong><a href="https://github.com/zhu1090093659/deepseek-pp">zhu1090093659/deepseek-pp</a></strong><br>
 <sub>DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automa...</sub><br>
-  <code>&#9733; 1.7K | Fork 217 | TypeScript</code></td><td width="42%" valign="top"><strong><a href="https://github.com/langgenius/dify">langgenius/dify</a></strong><br>
+  <code>&#9733; 1.7K | Fork 218 | TypeScript</code></td><td width="42%" valign="top"><strong><a href="https://github.com/langgenius/dify">langgenius/dify</a></strong><br>
 <sub>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collab...</sub><br>
-  <code>&#9733; 153.7K | Fork 24.3K | TypeScript</code></td></tr>
+  <code>&#9733; 153.8K | Fork 24.3K | TypeScript</code></td></tr>
 <tr><td width="58%" valign="top"><strong><a href="https://github.com/anywhere-labs/dsh-desktop">anywhere-labs/dsh-desktop</a></strong><br>
 <sub>为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。</sub><br>
-  <code>&#9733; 21.2K | Fork 1K | TypeScript</code></td><td width="42%" valign="top"><strong><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></strong><br>
+  <code>&#9733; 21.5K | Fork 1.1K | TypeScript</code></td><td width="42%" valign="top"><strong><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></strong><br>
 <sub>🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Lo...</sub><br>
-  <code>&#9733; 92.1K | Fork 10.6K | miscellaneous</code></td></tr>
+  <code>&#9733; 92.4K | Fork 10.7K | miscellaneous</code></td></tr>
 <tr><td width="58%" valign="top"><strong><a href="https://github.com/xiaozangao/3d-director-desk">xiaozangao/3d-director-desk</a></strong><br>
 <sub>浏览器端 3D 运镜与分镜导演台，支持人物、道具、轨迹点和动作时间轴</sub><br>
-  <code>&#9733; 153 | Fork 35 | TypeScript</code></td><td width="42%" valign="top"><strong><a href="https://github.com/ChatGPTNextWeb/NextChat">ChatGPTNextWeb/NextChat</a></strong><br>
+  <code>&#9733; 154 | Fork 35 | TypeScript</code></td><td width="42%" valign="top"><strong><a href="https://github.com/ChatGPTNextWeb/NextChat">ChatGPTNextWeb/NextChat</a></strong><br>
 <sub>✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows</sub><br>
   <code>&#9733; 88.7K | Fork 59.2K | TypeScript</code></td></tr>
 <tr><td width="58%" valign="top"><strong><a href="https://github.com/Christ9038/Ydisks-Xianyu-Helper">Christ9038/Ydisks-Xianyu-Helper</a></strong><br>
 <sub>闲鱼多账号自动发货、消息回复系统--基于 Go 与 React 构建</sub><br>
-  <code>&#9733; 1K | Fork 365 | Go</code></td><td width="42%" valign="top"><strong><a href="https://github.com/ventoy/Ventoy">ventoy/Ventoy</a></strong><br>
+  <code>&#9733; 1K | Fork 370 | Go</code></td><td width="42%" valign="top"><strong><a href="https://github.com/ventoy/Ventoy">ventoy/Ventoy</a></strong><br>
 <sub>A new bootable USB solution.</sub><br>
   <code>&#9733; 79K | Fork 4.9K | C</code></td></tr></tbody>
 </table>
 
 ### Active this week
 
-<p><a href="https://github.com/deepseek-ai/deepseek-harness"><img alt="deepseek-ai/deepseek-harness" src="https://img.shields.io/badge/deepseek-harness-200.2K%20stars-30363d?style=flat-square"></a>
-<a href="https://github.com/openclaw/openclaw"><img alt="openclaw/openclaw" src="https://img.shields.io/badge/openclaw-387.8K%20stars-30363d?style=flat-square"></a>
-<a href="https://github.com/hugohe3/ppt-master"><img alt="hugohe3/ppt-master" src="https://img.shields.io/badge/ppt-master-49.9K%20stars-30363d?style=flat-square"></a>
-<a href="https://github.com/anywhere-labs/dsh-desktop"><img alt="anywhere-labs/dsh-desktop" src="https://img.shields.io/badge/dsh-desktop-21.2K%20stars-30363d?style=flat-square"></a>
-<a href="https://github.com/nexu-io/open-design"><img alt="nexu-io/open-design" src="https://img.shields.io/badge/open-design-92.1K%20stars-30363d?style=flat-square"></a>
-<a href="https://github.com/langgenius/dify"><img alt="langgenius/dify" src="https://img.shields.io/badge/dify-153.7K%20stars-30363d?style=flat-square"></a>
-<a href="https://github.com/ventoy/Ventoy"><img alt="ventoy/Ventoy" src="https://img.shields.io/badge/Ventoy-79K%20stars-30363d?style=flat-square"></a>
-<a href="https://github.com/cmliu/edgetunnel"><img alt="cmliu/edgetunnel" src="https://img.shields.io/badge/edgetunnel-44.3K%20stars-30363d?style=flat-square"></a>
-<a href="https://github.com/dreammis/social-auto-upload"><img alt="dreammis/social-auto-upload" src="https://img.shields.io/badge/social-auto-upload-14.6K%20stars-30363d?style=flat-square"></a>
-<a href="https://github.com/dama-cyber/Casting-Workflow"><img alt="dama-cyber/Casting-Workflow" src="https://img.shields.io/badge/Casting-Workflow-556%20stars-30363d?style=flat-square"></a></p>
+<p><a href="https://github.com/anywhere-labs/dsh-desktop"><img alt="anywhere-labs/dsh-desktop" src="https://img.shields.io/badge/dsh-desktop-21.5K%20stars-30363d?style=flat-square"></a>
+<a href="https://github.com/nexu-io/open-design"><img alt="nexu-io/open-design" src="https://img.shields.io/badge/open-design-92.4K%20stars-30363d?style=flat-square"></a>
+<a href="https://github.com/deepseek-ai/deepseek-harness"><img alt="deepseek-ai/deepseek-harness" src="https://img.shields.io/badge/deepseek-harness-202K%20stars-30363d?style=flat-square"></a>
+<a href="https://github.com/openclaw/openclaw"><img alt="openclaw/openclaw" src="https://img.shields.io/badge/openclaw-387.9K%20stars-30363d?style=flat-square"></a>
+<a href="https://github.com/zhayujie/CowAgent"><img alt="zhayujie/CowAgent" src="https://img.shields.io/badge/CowAgent-46.7K%20stars-30363d?style=flat-square"></a>
+<a href="https://github.com/basketikun/infinite-canvas"><img alt="basketikun/infinite-canvas" src="https://img.shields.io/badge/infinite-canvas-5.7K%20stars-30363d?style=flat-square"></a>
+<a href="https://github.com/yonggekkk/sing-box-yg"><img alt="yonggekkk/sing-box-yg" src="https://img.shields.io/badge/sing-box-yg-10K%20stars-30363d?style=flat-square"></a>
+<a href="https://github.com/NanmiCoder/MediaCrawler"><img alt="NanmiCoder/MediaCrawler" src="https://img.shields.io/badge/MediaCrawler-64K%20stars-30363d?style=flat-square"></a>
+<a href="https://github.com/babalae/better-genshin-impact"><img alt="babalae/better-genshin-impact" src="https://img.shields.io/badge/better-genshin-impact-15.1K%20stars-30363d?style=flat-square"></a>
+<a href="https://github.com/jundot/omlx"><img alt="jundot/omlx" src="https://img.shields.io/badge/omlx-20.9K%20stars-30363d?style=flat-square"></a></p>
 
 ## Language Index
 
@@ -94,59 +94,59 @@
 <table>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/chiphoton/MiniMax-H3-Codex-Drama">chiphoton/MiniMax-H3-Codex-Drama</a></strong><br>
 <sub>🎬 A Codex-first MiniMax H3 video production plugin: 👤 character &amp; 🏙️ scene design, 🧩 storyboards, 🎞️ ComfyUI generation, ✂️ post-production, a...</sub><br>
-  <code>&#9733; 21 | Fork 2 | Python</code><br><sub>#codex #codex-plugin #comfyui</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/lij768423-svg/grok-register-panel">lij768423-svg/grok-register-panel</a></strong><br>
+  <code>&#9733; 23 | Fork 2 | Python</code><br><sub>#codex #codex-plugin #comfyui</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/lij768423-svg/grok-register-panel">lij768423-svg/grok-register-panel</a></strong><br>
 <sub>Grok 批量注册 (Camoufox) + 实时 Web 监控面板 | Batch Grok registration engine with live panel - concurrency | ASN blacklist | proxy pool | token auth</sub><br>
-  <code>&#9733; 854 | Fork 264 | Python</code><br><sub>#automation #camoufox #dashboard</sub></td></tr>
+  <code>&#9733; 856 | Fork 265 | Python</code><br><sub>#automation #camoufox #dashboard</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/zenstory-ai/drama-skills">zenstory-ai/drama-skills</a></strong><br>
 <sub>AI 短剧/漫剧创作 skill 合集，覆盖剧本、资产、分镜、图片/视频提示词到独立审查全链路，适配 Claude Code 与 Codex。| An AI short-drama skill suite for Claude Code &amp; Codex: scripts, assets, st...</sub><br>
-  <code>&#9733; 1.3K | Fork 370 | Python</code><br><sub>#agent-skills #aigc #claude-code</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/linyqh/NarratoAI">linyqh/NarratoAI</a></strong><br>
+  <code>&#9733; 1.3K | Fork 378 | Python</code><br><sub>#agent-skills #aigc #claude-code</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/linyqh/NarratoAI">linyqh/NarratoAI</a></strong><br>
 <sub>利用 AI 大模型，一键解说并剪辑视频</sub><br>
   <code>&#9733; 10.9K | Fork 1.5K | Python</code><br><sub>#aiagent #aiops #gemini-api</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/POf-L/Fanqie-novel-Downloader">POf-L/Fanqie-novel-Downloader</a></strong><br>
 <sub>🍅 番茄小说下载器 | 支持Windows/macOS/Linux/android</sub><br>
-  <code>&#9733; 1.8K | Fork 345 | Python</code><br><sub>#android #chinese-novel #ebook</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/t59688/arboris-novel">t59688/arboris-novel</a></strong><br>
+  <code>&#9733; 1.8K | Fork 344 | Python</code><br><sub>#android #chinese-novel #ebook</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/t59688/arboris-novel">t59688/arboris-novel</a></strong><br>
 <sub>AI 写作伙伴，点亮你的创作灵感</sub><br>
   <code>&#9733; 1.6K | Fork 332 | Python</code><br><sub>#ai #novel</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/dama-cyber/Casting-Workflow">dama-cyber/Casting-Workflow</a></strong><br>
 <sub>No description provided.</sub><br>
-  <code>&#9733; 556 | Fork 104 | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/Jia-Ethan/codex-keysmith">Jia-Ethan/codex-keysmith</a></strong><br>
+  <code>&#9733; 567 | Fork 104 | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/Jia-Ethan/codex-keysmith">Jia-Ethan/codex-keysmith</a></strong><br>
 <sub>Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recovery.</sub><br>
-  <code>&#9733; 4.1K | Fork 640 | Python</code><br><sub>#cli #codex #codex-cli</sub></td></tr>
+  <code>&#9733; 4.1K | Fork 641 | Python</code><br><sub>#cli #codex #codex-cli</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/shenminglinyi/PlotPilot">shenminglinyi/PlotPilot</a></strong><br>
 <sub>【墨枢】作者的领航员</sub><br>
   <code>&#9733; 1.5K | Fork 447 | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/ShadowHackrs/gmail-account-creator">ShadowHackrs/gmail-account-creator</a></strong><br>
 <sub>🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface....</sub><br>
-  <code>&#9733; 4.7K | Fork 776 | Python</code></td></tr>
+  <code>&#9733; 4.7K | Fork 789 | Python</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/tiantianGPU/reg-factory">tiantianGPU/reg-factory</a></strong><br>
 <sub>天天卡网</sub><br>
   <code>&#9733; 1.9K | Fork 738 | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/basketikun/chatgpt2api">basketikun/chatgpt2api</a></strong><br>
 <sub>ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry Studio、New Api 等软件</sub><br>
-  <code>&#9733; 6K | Fork 1.6K | Python</code></td></tr>
+  <code>&#9733; 6.1K | Fork 1.6K | Python</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/KingJin-web/zy">KingJin-web/zy</a></strong><br>
 <sub>No description provided.</sub><br>
   <code>&#9733; 136 | Fork 28 | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/hero8152/Infinite-Canvas">hero8152/Infinite-Canvas</a></strong><br>
 <sub>Supports comfyui/API calls/modelscope calls</sub><br>
-  <code>&#9733; 2.9K | Fork 560 | Python</code></td></tr>
+  <code>&#9733; 3K | Fork 564 | Python</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/pheohu-42/Claude_zh-CN_LanguagePack">pheohu-42/Claude_zh-CN_LanguagePack</a></strong><br>
 <sub>No description provided.</sub><br>
   <code>&#9733; 344 | Fork 16 | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/hugohe3/ppt-master">hugohe3/ppt-master</a></strong><br>
 <sub>AI turns documents or topics into real, native PowerPoint decks-with native shapes, transitions and animations, data-backed charts and tables on de...</sub><br>
-  <code>&#9733; 49.9K | Fork 4K | Python</code><br><sub>#ai-agent #aippt #office</sub></td></tr>
+  <code>&#9733; 50K | Fork 4K | Python</code><br><sub>#ai-agent #aippt #office</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/ZeroPointSix/outlookEmailPlus">ZeroPointSix/outlookEmailPlus</a></strong><br>
 <sub>Outlookmail Plus: Designed Specifically for Registration | Outlookmail Plus：专为注册而生 |</sub><br>
-  <code>&#9733; 1.9K | Fork 386 | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/foryourhealth111-pixel/Vibe-Skills">foryourhealth111-pixel/Vibe-Skills</a></strong><br>
+  <code>&#9733; 1.9K | Fork 387 | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/foryourhealth111-pixel/Vibe-Skills">foryourhealth111-pixel/Vibe-Skills</a></strong><br>
 <sub>VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness workflows.</sub><br>
-  <code>&#9733; 3K | Fork 249 | Python</code><br><sub>#agent-framework #agent-skills #agentic-coding</sub></td></tr>
+  <code>&#9733; 3K | Fork 250 | Python</code><br><sub>#agent-framework #agent-skills #agentic-coding</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/cft0808/edict">cft0808/edict</a></strong><br>
 <sub>🏛️ 三省六部制 | OpenClaw Multi-Agent Orchestration System - 9 specialized AI agents with real-time dashboard, model config, and full audit trails</sub><br>
   <code>&#9733; 16.7K | Fork 1.7K | Python</code><br><sub>#ai-agents #ai-orchestration #autonomous-agents</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/jundot/omlx">jundot/omlx</a></strong><br>
 <sub>LLM inference server with continuous batching &amp; SSD caching for Apple Silicon - managed from the macOS menu bar</sub><br>
-  <code>&#9733; 20.8K | Fork 1.8K | Python</code><br><sub>#apple-silicon #inference-server #llm</sub></td></tr>
+  <code>&#9733; 20.9K | Fork 1.8K | Python</code><br><sub>#apple-silicon #inference-server #llm</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/wujunwei928/parse-video-py">wujunwei928/parse-video-py</a></strong><br>
 <sub>Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...</sub><br>
-  <code>&#9733; 684 | Fork 178 | Python</code><br><sub>#python #spider #video</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/Cat-zaizai/ZaiZaiCat-Checkin">Cat-zaizai/ZaiZaiCat-Checkin</a></strong><br>
+  <code>&#9733; 684 | Fork 179 | Python</code><br><sub>#python #spider #video</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/Cat-zaizai/ZaiZaiCat-Checkin">Cat-zaizai/ZaiZaiCat-Checkin</a></strong><br>
 <sub>每日签到脚本(多账号),青龙脚本,签到脚本,签到列表: 🚚 顺丰速运 | 恩山论坛 | 看雪论坛 | 上海杨浦 | 华润通 | 鸿星尔克 | WPS签到 | 什么值得买</sub><br>
-  <code>&#9733; 430 | Fork 61 | Python</code><br><sub>#checkin #python #qinglong</sub></td></tr>
+  <code>&#9733; 432 | Fork 61 | Python</code><br><sub>#checkin #python #qinglong</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/HisMax/RedInk">HisMax/RedInk</a></strong><br>
 <sub>Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, &quot;One Sentence, One Image: Generate Xiaohongshu Text and...</sub><br>
   <code>&#9733; 5.5K | Fork 1K | Python</code><br><sub>#ai #aigc #content-generator</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/aoguai/LiYing">aoguai/LiYing</a></strong><br>
@@ -176,7 +176,7 @@
 <sub>将青龙的基本配置文件及脚本备份至阿里网盘&amp;阿里网盘自动签到</sub><br>
   <code>&#9733; 39 | Fork 10 | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/lazykitty2026/deepsea">lazykitty2026/deepsea</a></strong><br>
 <sub>☆青龙面板脚本更新自用可用薅羊毛库☆【美团自动领神券优惠券☆顺丰速运签到☆小米运动自动刷步数（微信/支付宝）】</sub><br>
-  <code>&#9733; 203 | Fork 25 | Python</code></td></tr>
+  <code>&#9733; 202 | Fork 25 | Python</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/Evil0ctal/Douyin_TikTok_Download_API">Evil0ctal/Douyin_TikTok_Download_API</a></strong><br>
 <sub>🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。</sub><br>
   <code>&#9733; 19.7K | Fork 2.7K | Python</code><br><sub>#api #async #crawler</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/budtmo/docker-android">budtmo/docker-android</a></strong><br>
@@ -206,10 +206,10 @@
 <sub>抖音 / TikTok 平台作品下载/数据采集工具</sub><br>
   <code>&#9733; 15.6K | Fork 2.7K | Python</code><br><sub>#api #csv #docker</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/cyubuchen/Free_Proxy_Website">cyubuchen/Free_Proxy_Website</a></strong><br>
 <sub>获取免费socks/https/http代理的网站集合</sub><br>
-  <code>&#9733; 697 | Fork 130 | Python</code><br><sub>#crawler #free-proxy-list #ip</sub></td></tr>
+  <code>&#9733; 699 | Fork 130 | Python</code><br><sub>#crawler #free-proxy-list #ip</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/NanmiCoder/MediaCrawler">NanmiCoder/MediaCrawler</a></strong><br>
 <sub>小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫</sub><br>
-  <code>&#9733; 63.9K | Fork 12.4K | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/linbailo/zyqinglong">linbailo/zyqinglong</a></strong><br>
+  <code>&#9733; 64K | Fork 12.4K | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/linbailo/zyqinglong">linbailo/zyqinglong</a></strong><br>
 <sub>青龙面板脚本自用库薅羊毛（✅ 滴滴出行领券✅ 滴滴加油领券✅ 滴滴代驾领券/滴滴签到领券打卡✅ 滴滴果园✅ mt论坛✅ 美团✅ 饿了么✅ 得物✅ 顺丰✅ 霸王茶姬✅ 益禾堂✅ 塔斯汀✅ 海底捞）</sub><br>
   <code>&#9733; 1.9K | Fork 218 | Python</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/CHERWING/CHERWIN_SCRIPTS">CHERWING/CHERWIN_SCRIPTS</a></strong><br>
@@ -219,7 +219,7 @@
   <code>&#9733; 811 | Fork 85 | Python</code><br><sub>#javascript #luguan #python-script</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/jxxghp/MoviePilot">jxxghp/MoviePilot</a></strong><br>
 <sub>NAS媒体库自动化管理工具</sub><br>
-  <code>&#9733; 11.6K | Fork 1.5K | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/0-8-4/miui-auto-tasks">0-8-4/miui-auto-tasks</a></strong><br>
+  <code>&#9733; 11.7K | Fork 1.5K | Python</code></td><td width="50%" valign="top"><strong><a href="https://github.com/0-8-4/miui-auto-tasks">0-8-4/miui-auto-tasks</a></strong><br>
 <sub>一个自动化完成小米社区任务的脚本</sub><br>
   <code>&#9733; 1.2K | Fork 210 | Python</code><br><sub>#docker #miui #python</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/tickmao/Novel">tickmao/Novel</a></strong><br>
@@ -255,30 +255,30 @@
 <sub>Local, privacy-first CAPTCHA recognition for Chrome and Edge. 本地、隐私优先的验证码识别扩展。</sub><br>
   <code>&#9733; 42 | Fork 6 | TypeScript</code><br><sub>#browser-extension #captcha #chrome-extension</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/abligail/narralume">abligail/narralume</a></strong><br>
 <sub>Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。</sub><br>
-  <code>&#9733; 102 | Fork 23 | TypeScript</code><br><sub>#ai-writing #creative-writing #llm</sub></td></tr>
+  <code>&#9733; 101 | Fork 23 | TypeScript</code><br><sub>#ai-writing #creative-writing #llm</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/zhu1090093659/deepseek-pp">zhu1090093659/deepseek-pp</a></strong><br>
 <sub>DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.</sub><br>
-  <code>&#9733; 1.7K | Fork 217 | TypeScript</code><br><sub>#agentic-ai #ai-agent #ai-memory</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/anywhere-labs/dsh-desktop">anywhere-labs/dsh-desktop</a></strong><br>
+  <code>&#9733; 1.7K | Fork 218 | TypeScript</code><br><sub>#agentic-ai #ai-agent #ai-memory</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/anywhere-labs/dsh-desktop">anywhere-labs/dsh-desktop</a></strong><br>
 <sub>为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。</sub><br>
-  <code>&#9733; 21.2K | Fork 1K | TypeScript</code><br><sub>#cordis #cordis-plugin #deepseek</sub></td></tr>
+  <code>&#9733; 21.5K | Fork 1.1K | TypeScript</code><br><sub>#cordis #cordis-plugin #deepseek</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/xiaozangao/3d-director-desk">xiaozangao/3d-director-desk</a></strong><br>
 <sub>浏览器端 3D 运镜与分镜导演台，支持人物、道具、轨迹点和动作时间轴</sub><br>
-  <code>&#9733; 153 | Fork 35 | TypeScript</code></td><td width="50%" valign="top"><strong><a href="https://github.com/deepseek-ai/deepseek-harness">deepseek-ai/deepseek-harness</a></strong><br>
+  <code>&#9733; 154 | Fork 35 | TypeScript</code></td><td width="50%" valign="top"><strong><a href="https://github.com/deepseek-ai/deepseek-harness">deepseek-ai/deepseek-harness</a></strong><br>
 <sub>DeepSeek Harness: Everything is a Plugin.</sub><br>
-  <code>&#9733; 200.2K | Fork 22.9K | TypeScript</code><br><sub>#ai-agents #cordis #dsh</sub></td></tr>
+  <code>&#9733; 202K | Fork 23.2K | TypeScript</code><br><sub>#ai-agents #cordis #dsh</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/dpejoh/specter">dpejoh/specter</a></strong><br>
 <sub>Unified Play Integrity and root hiding stack for Android</sub><br>
-  <code>&#9733; 557 | Fork 46 | TypeScript</code></td><td width="50%" valign="top"><strong><a href="https://github.com/basketikun/infinite-canvas">basketikun/infinite-canvas</a></strong><br>
+  <code>&#9733; 562 | Fork 46 | TypeScript</code></td><td width="50%" valign="top"><strong><a href="https://github.com/basketikun/infinite-canvas">basketikun/infinite-canvas</a></strong><br>
 <sub>面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、new...</sub><br>
   <code>&#9733; 5.7K | Fork 1.5K | TypeScript</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/langgenius/dify">langgenius/dify</a></strong><br>
 <sub>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, s...</sub><br>
-  <code>&#9733; 153.7K | Fork 24.3K | TypeScript</code><br><sub>#agent #agentic-ai #agentic-framework</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/beilunyang/moemail">beilunyang/moemail</a></strong><br>
+  <code>&#9733; 153.8K | Fork 24.3K | TypeScript</code><br><sub>#agent #agentic-ai #agentic-framework</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/beilunyang/moemail">beilunyang/moemail</a></strong><br>
 <sub>A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉</sub><br>
   <code>&#9733; 2.8K | Fork 2.6K | TypeScript</code><br><sub>#cloudflare #cloudflare-workers #email</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/claude-code-best/claude-code">claude-code-best/claude-code</a></strong><br>
 <sub>原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复</sub><br>
-  <code>&#9733; 22.2K | Fork 16.5K | TypeScript</code></td><td width="50%" valign="top"><strong><a href="https://github.com/ponponon/claude_code_src">ponponon/claude_code_src</a></strong><br>
+  <code>&#9733; 22.3K | Fork 16.5K | TypeScript</code></td><td width="50%" valign="top"><strong><a href="https://github.com/ponponon/claude_code_src">ponponon/claude_code_src</a></strong><br>
 <sub>2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文件的 sourcesContent 字段里面，解压还原后有 70w 行代码</sub><br>
   <code>&#9733; 2.3K | Fork 3.5K | TypeScript</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/tencent-connect/openclaw-qqbot">tencent-connect/openclaw-qqbot</a></strong><br>
@@ -288,7 +288,7 @@
   <code>&#9733; 4K | Fork 344 | TypeScript</code><br><sub>#openclaw #openclaw-china #openclaw-dingding</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a></strong><br>
 <sub>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</sub><br>
-  <code>&#9733; 387.8K | Fork 81.4K | TypeScript</code><br><sub>#ai #assistant #crustacean</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/KuekHaoYang/KVideo">KuekHaoYang/KVideo</a></strong><br>
+  <code>&#9733; 387.9K | Fork 81.5K | TypeScript</code><br><sub>#ai #assistant #crustacean</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/KuekHaoYang/KVideo">KuekHaoYang/KVideo</a></strong><br>
 <sub>一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 &quot;Liquid Glass&quot; 设计语言，提供流畅的视觉体验和强大的视频搜索功能。</sub><br>
   <code>&#9733; 4K | Fork 6.9K | TypeScript</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/katelya77/KatelyaTV">katelya77/KatelyaTV</a></strong><br>
@@ -305,7 +305,7 @@
 <sub>Elegant reading of real-time and hottest news</sub><br>
   <code>&#9733; 21.5K | Fork 5.9K | TypeScript</code><br><sub>#elegant #news</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/xxss0903/drawstamputils">xxss0903/drawstamputils</a></strong><br>
 <sub>Draw Stamp Utils with Javascript</sub><br>
-  <code>&#9733; 1.6K | Fork 677 | TypeScript</code></td></tr>
+  <code>&#9733; 1.6K | Fork 676 | TypeScript</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/upscayl/upscayl">upscayl/upscayl</a></strong><br>
 <sub>🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.</sub><br>
   <code>&#9733; 48.8K | Fork 2.5K | TypeScript</code><br><sub>#ai #electron #esrgan</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/xmoxmo/bncr">xmoxmo/bncr</a></strong><br>
@@ -313,7 +313,7 @@
   <code>&#9733; 8 | Fork 1 | TypeScript</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/JimmyLv/BibiGPT-v1">JimmyLv/BibiGPT-v1</a></strong><br>
 <sub>BibiGPT v1 | one-Click AI Summary for Audio/Video &amp; Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files...</sub><br>
-  <code>&#9733; 6.2K | Fork 815 | TypeScript</code><br><sub>#bilibili #chatgpt #gpt</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/josStorer/RWKV-Runner">josStorer/RWKV-Runner</a></strong><br>
+  <code>&#9733; 6.2K | Fork 816 | TypeScript</code><br><sub>#bilibili #chatgpt #gpt</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/josStorer/RWKV-Runner">josStorer/RWKV-Runner</a></strong><br>
 <sub>A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language m...</sub><br>
   <code>&#9733; 6.5K | Fork 600 | TypeScript</code><br><sub>#api #api-client #chatgpt</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/weaigc/bingo">weaigc/bingo</a></strong><br>
@@ -332,17 +332,17 @@
 <table>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming">Goochbeater/Spiritual-Spell-Red-Teaming</a></strong><br>
 <sub>A repo for jailbreaking various LLMs, mainly Claude</sub><br>
-  <code>&#9733; 3.3K | Fork 640 | miscellaneous</code></td><td width="50%" valign="top"><strong><a href="https://github.com/op7418/Humanizer-zh">op7418/Humanizer-zh</a></strong><br>
+  <code>&#9733; 3.3K | Fork 642 | miscellaneous</code></td><td width="50%" valign="top"><strong><a href="https://github.com/op7418/Humanizer-zh">op7418/Humanizer-zh</a></strong><br>
 <sub>Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。</sub><br>
   <code>&#9733; 16.2K | Fork 1.1K | miscellaneous</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a></strong><br>
 <sub>🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the d...</sub><br>
-  <code>&#9733; 92.1K | Fork 10.6K | miscellaneous</code><br><sub>#agent-skills #ai-design #byok</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/Shanyin-ai/shanyin-screenwriting-master">Shanyin-ai/shanyin-screenwriting-master</a></strong><br>
+  <code>&#9733; 92.4K | Fork 10.7K | miscellaneous</code><br><sub>#agent-skills #ai-design #byok</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/Shanyin-ai/shanyin-screenwriting-master">Shanyin-ai/shanyin-screenwriting-master</a></strong><br>
 <sub>山音超级编剧大师--由 @山音 设计的全格式影视编剧技能。 覆盖从1-3分钟概念超短片到90分钟电影长片、多集剧集的全格式剧本创作。 支持四种格式：概念超短片（how-to-tell/what-if）、5-10分钟叙事短片、90分钟长片（商业/文艺）、多集剧集。 覆盖从人物设计、结构大纲、场景...</sub><br>
-  <code>&#9733; 1K | Fork 150 | miscellaneous</code><br><sub>#ai-agent #claude-ai #claude-skills</sub></td></tr>
+  <code>&#9733; 1K | Fork 151 | miscellaneous</code><br><sub>#ai-agent #claude-ai #claude-skills</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/0xsline/short-drama">0xsline/short-drama</a></strong><br>
 <sub>专业的短剧剧本创作skill,从选题立项到分集撰写、质量自检、合规审核、海外出海，覆盖短剧剧本生产全流程。</sub><br>
-  <code>&#9733; 1.1K | Fork 207 | miscellaneous</code></td><td width="50%" valign="top"><strong><a href="https://github.com/hesamsheikh/awesome-openclaw-usecases">hesamsheikh/awesome-openclaw-usecases</a></strong><br>
+  <code>&#9733; 1.1K | Fork 208 | miscellaneous</code></td><td width="50%" valign="top"><strong><a href="https://github.com/hesamsheikh/awesome-openclaw-usecases">hesamsheikh/awesome-openclaw-usecases</a></strong><br>
 <sub>A community collection of OpenClaw use cases for making life easier.</sub><br>
   <code>&#9733; 31.7K | Fork 2.7K | miscellaneous</code><br><sub>#awesome-list #clawdbot #moltbot</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/Fansirsqi/Sesame-TK">Fansirsqi/Sesame-TK</a></strong><br>
@@ -386,12 +386,12 @@
 <table>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/wen1701/FanqieRankTracker">wen1701/FanqieRankTracker</a></strong><br>
 <sub>番茄女频榜单</sub><br>
-  <code>&#9733; 76 | Fork 72 | JavaScript</code></td><td width="50%" valign="top"><strong><a href="https://github.com/zenstory-ai/oh-story-claudecode">zenstory-ai/oh-story-claudecode</a></strong><br>
+  <code>&#9733; 76 | Fork 73 | JavaScript</code></td><td width="50%" valign="top"><strong><a href="https://github.com/zenstory-ai/oh-story-claudecode">zenstory-ai/oh-story-claudecode</a></strong><br>
 <sub>网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.</sub><br>
-  <code>&#9733; 6.2K | Fork 915 | JavaScript</code><br><sub>#ai-agent #ai-writing #chinese-novel</sub></td></tr>
+  <code>&#9733; 6.2K | Fork 921 | JavaScript</code><br><sub>#ai-agent #ai-writing #chinese-novel</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/0xsline/StoryGen-Atelier">0xsline/StoryGen-Atelier</a></strong><br>
 <sub>AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition cl...</sub><br>
-  <code>&#9733; 958 | Fork 147 | JavaScript</code><br><sub>#ffmpeg #gemini #google</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/lolove1/222">lolove1/222</a></strong><br>
+  <code>&#9733; 960 | Fork 147 | JavaScript</code><br><sub>#ffmpeg #gemini #google</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/lolove1/222">lolove1/222</a></strong><br>
 <sub>No description provided.</sub><br>
   <code>&#9733; 24 | Fork 4 | JavaScript</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/setube/vue-xiuxiangame">setube/vue-xiuxiangame</a></strong><br>
@@ -403,10 +403,10 @@
 <sub>JavaScript Scripts for Surge</sub><br>
   <code>&#9733; 636 | Fork 128 | JavaScript</code></td><td width="50%" valign="top"><strong><a href="https://github.com/6dylan6/jdpro">6dylan6/jdpro</a></strong><br>
 <sub>No description provided.</sub><br>
-  <code>&#9733; 4.5K | Fork 617 | JavaScript</code><br><sub>#crontab-task #qinglong</sub></td></tr>
+  <code>&#9733; 4.5K | Fork 619 | JavaScript</code><br><sub>#crontab-task #qinglong</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/cmliu/edgetunnel">cmliu/edgetunnel</a></strong><br>
 <sub>edgetunnel2 VLESS/Trojan/SS 多功能面板</sub><br>
-  <code>&#9733; 44.3K | Fork 36.5K | JavaScript</code><br><sub>#shadowsocks #shadowsocks-ws-tls #trojan</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/yang7758258/ohhh_QL-Script">yang7758258/ohhh_QL-Script</a></strong><br>
+  <code>&#9733; 44.4K | Fork 36.5K | JavaScript</code><br><sub>#shadowsocks #shadowsocks-ws-tls #trojan</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/yang7758258/ohhh_QL-Script">yang7758258/ohhh_QL-Script</a></strong><br>
 <sub>QL_Script Study |🌟| Issues接投稿</sub><br>
   <code>&#9733; 262 | Fork 42 | JavaScript</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/hex-ci/smzdm_script">hex-ci/smzdm_script</a></strong><br>
@@ -423,10 +423,10 @@
 <sub>带二次开发接口的PC微信聊天机器人</sub><br>
   <code>&#9733; 64 | Fork 7 | JavaScript</code></td><td width="50%" valign="top"><strong><a href="https://github.com/evilbutcher/Quantumult_X">evilbutcher/Quantumult_X</a></strong><br>
 <sub>一些有意思的脚本 Scripts for Quantumult X, Loon, Surge</sub><br>
-  <code>&#9733; 842 | Fork 13 | JavaScript</code><br><sub>#boxjs #loon #quantumult</sub></td></tr>
+  <code>&#9733; 841 | Fork 13 | JavaScript</code><br><sub>#boxjs #loon #quantumult</sub></td></tr>
 <tr><td colspan="2" valign="top"><strong><a href="https://github.com/curtinlv/gd">curtinlv/gd</a></strong><br>
 <sub>No description provided.</sub><br>
-  <code>&#9733; 270 | Fork 159 | JavaScript</code></td></tr>
+  <code>&#9733; 270 | Fork 158 | JavaScript</code></td></tr>
 </table>
 
 </details>
@@ -465,7 +465,7 @@
 <sub>proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for...</sub><br>
   <code>&#9733; 5.3K | Fork 604 | Shell</code><br><sub>#proxmox #proxmox-ve #samba</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/amefs/quickbox-lite">amefs/quickbox-lite</a></strong><br>
 <sub>Lightweigt QuickBox</sub><br>
-  <code>&#9733; 878 | Fork 109 | Shell</code><br><sub>#debian #quickbox-lite #seedbox</sub></td></tr>
+  <code>&#9733; 879 | Fork 109 | Shell</code><br><sub>#debian #quickbox-lite #seedbox</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/spiritLHLS/Oracle-server-keep-alive-script">spiritLHLS/Oracle-server-keep-alive-script</a></strong><br>
 <sub>服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)</sub><br>
   <code>&#9733; 2.3K | Fork 495 | Shell</code><br><sub>#alive #bash #centos</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/Aniverse/inexistence">Aniverse/inexistence</a></strong><br>
@@ -473,7 +473,7 @@
   <code>&#9733; 1.5K | Fork 367 | Shell</code></td></tr>
 <tr><td colspan="2" valign="top"><strong><a href="https://github.com/trojanpanel/install-script">trojanpanel/install-script</a></strong><br>
 <sub>Trojan Panel installation script / Trojan Panel 一键安装脚本</sub><br>
-  <code>&#9733; 2K | Fork 484 | Shell</code><br><sub>#hysteria #naiveproxy #trojan-gfw</sub></td></tr>
+  <code>&#9733; 2K | Fork 483 | Shell</code><br><sub>#hysteria #naiveproxy #trojan-gfw</sub></td></tr>
 </table>
 
 </details>
@@ -485,17 +485,17 @@
 <table>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/Christ9038/Ydisks-Xianyu-Helper">Christ9038/Ydisks-Xianyu-Helper</a></strong><br>
 <sub>闲鱼多账号自动发货、消息回复系统--基于 Go 与 React 构建</sub><br>
-  <code>&#9733; 1K | Fork 365 | Go</code><br><sub>#xianyu #xianyu-assistant #xianyu-auto-reply</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/chenyme/grok2api">chenyme/grok2api</a></strong><br>
+  <code>&#9733; 1K | Fork 370 | Go</code><br><sub>#xianyu #xianyu-assistant #xianyu-auto-reply</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/chenyme/grok2api">chenyme/grok2api</a></strong><br>
 <sub>Multi-account API gateway for Grok Build, Grok Web, and Grok Console</sub><br>
   <code>&#9733; 7.5K | Fork 2.3K | Go</code><br><sub>#grok #grok-build #grok-console</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/cloudreve/cloudreve">cloudreve/cloudreve</a></strong><br>
 <sub>🌩 Self-hosted file management and sharing system, supports multiple storage providers</sub><br>
   <code>&#9733; 28.6K | Fork 3.9K | Go</code><br><sub>#cloud #cloud-storage #cloudreve</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/sky22333/hubproxy">sky22333/hubproxy</a></strong><br>
 <sub>多功能加速服务，支持Docker 镜像加速、GitHub 加速、下载离线镜像等功能。轻量级，不占用存储空间。</sub><br>
-  <code>&#9733; 2.8K | Fork 376 | Go</code><br><sub>#devops #docker #docker-proxy</sub></td></tr>
+  <code>&#9733; 2.8K | Fork 377 | Go</code><br><sub>#devops #docker #docker-proxy</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/komari-monitor/komari">komari-monitor/komari</a></strong><br>
 <sub>A simple server monitor tool.</sub><br>
-  <code>&#9733; 5.9K | Fork 566 | Go</code><br><sub>#monitoring #monitoring-tool #remote-control</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/fish2018/pansou">fish2018/pansou</a></strong><br>
+  <code>&#9733; 5.9K | Fork 564 | Go</code><br><sub>#monitoring #monitoring-tool #remote-control</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/fish2018/pansou">fish2018/pansou</a></strong><br>
 <sub>PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv</sub><br>
   <code>&#9733; 14.4K | Fork 3.5K | Go</code></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/nezhahq/nezha">nezhahq/nezha</a></strong><br>
@@ -507,7 +507,7 @@
 <sub>青龙面板的环境变量第三方手动/半自动提交（上传）管理中间件</sub><br>
   <code>&#9733; 102 | Fork 4 | Go</code></td><td width="50%" valign="top"><strong><a href="https://github.com/putyy/res-downloader">putyy/res-downloader</a></strong><br>
 <sub>视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</sub><br>
-  <code>&#9733; 19.5K | Fork 2.4K | Go</code><br><sub>#douyin #kuaishou #res-downloader</sub></td></tr>
+  <code>&#9733; 19.6K | Fork 2.4K | Go</code><br><sub>#douyin #kuaishou #res-downloader</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/kuriv/civil-service-exam">kuriv/civil-service-exam</a></strong><br>
 <sub>公务员考试知识思维导图，我们岸上见！</sub><br>
   <code>&#9733; 998 | Fork 175 | Go</code><br><sub>#civil-service #civil-service-exam #civil-services</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/yisier/nps">yisier/nps</a></strong><br>
@@ -526,12 +526,12 @@
 <sub>一个监控并弄死异常Edge的程序</sub><br>
   <code>&#9733; 795 | Fork 22 | C#</code></td><td width="50%" valign="top"><strong><a href="https://github.com/BartoszCichecki/LenovoLegionToolkit">BartoszCichecki/LenovoLegionToolkit</a></strong><br>
 <sub>Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.</sub><br>
-  <code>&#9733; 7.6K | Fork 379 | C#</code><br><sub>#hotkeys #legion #lenovo</sub></td></tr>
+  <code>&#9733; 7.6K | Fork 378 | C#</code><br><sub>#hotkeys #legion #lenovo</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/xM4ddy/OFGB">xM4ddy/OFGB</a></strong><br>
 <sub>GUI Tool To Remove Ads From Various Places Around Windows 11</sub><br>
   <code>&#9733; 7.4K | Fork 244 | C#</code></td><td width="50%" valign="top"><strong><a href="https://github.com/BeyondDimension/SteamTools">BeyondDimension/SteamTools</a></strong><br>
 <sub>🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。</sub><br>
-  <code>&#9733; 26.6K | Fork 1.7K | C#</code><br><sub>#android-app #avalonia #avaloniaui</sub></td></tr>
+  <code>&#9733; 26.7K | Fork 1.7K | C#</code><br><sub>#android-app #avalonia #avaloniaui</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/TGSAN/CMWTAT_Digital_Edition">TGSAN/CMWTAT_Digital_Edition</a></strong><br>
 <sub>CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数...</sub><br>
   <code>&#9733; 19.4K | Fork 2.2K | C#</code><br><sub>#activation-toolkit #activator #digital-license</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/RayWangQvQ/BiliBiliToolPro">RayWangQvQ/BiliBiliToolPro</a></strong><br>
@@ -539,7 +539,7 @@
   <code>&#9733; 8.8K | Fork 1.9K | C#</code><br><sub>#bilibili #blazor #netcore</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/LorisYounger/VPet">LorisYounger/VPet</a></strong><br>
 <sub>虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</sub><br>
-  <code>&#9733; 6.7K | Fork 671 | C#</code><br><sub>#desktop-pet #wpf</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/babalae/better-genshin-impact">babalae/better-genshin-impact</a></strong><br>
+  <code>&#9733; 6.7K | Fork 673 | C#</code><br><sub>#desktop-pet #wpf</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/babalae/better-genshin-impact">babalae/better-genshin-impact</a></strong><br>
 <sub>📦BetterGI | 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Gens...</sub><br>
   <code>&#9733; 15.1K | Fork 1.1K | C#</code><br><sub>#auto-play-game #automatic #genius-invokation-tcg</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/Milk-Dream/WeChatVideoDownload-Fiddler">Milk-Dream/WeChatVideoDownload-Fiddler</a></strong><br>
@@ -558,7 +558,7 @@
 <table>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/lewislulu/html-ppt-skill">lewislulu/html-ppt-skill</a></strong><br>
 <sub>HTML PPT Studio - AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations</sub><br>
-  <code>&#9733; 8.1K | Fork 700 | HTML</code></td><td width="50%" valign="top"><strong><a href="https://github.com/ringhyacinth/Star-Office-UI">ringhyacinth/Star-Office-UI</a></strong><br>
+  <code>&#9733; 8.1K | Fork 701 | HTML</code></td><td width="50%" valign="top"><strong><a href="https://github.com/ringhyacinth/Star-Office-UI">ringhyacinth/Star-Office-UI</a></strong><br>
 <sub>A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MI...</sub><br>
   <code>&#9733; 7.5K | Fork 797 | HTML</code><br><sub>#agent-collaboration #ai-assistant #dashboard</sub></td></tr>
 <tr><td width="50%" valign="top"><strong><a href="https://github.com/xeefei/X-Panel">xeefei/X-Panel</a></strong><br>
@@ -584,7 +584,7 @@
 <sub>微信机器人框架，个人微信二次开发，企业微信二次开发，最简单易用的免费二开框架,RPA技术（非HOOK破解桌面端）</sub><br>
   <code>&#9733; 3.5K | Fork 693 | Java</code></td><td width="50%" valign="top"><strong><a href="https://github.com/Katana-Official/Meta">Katana-Official/Meta</a></strong><br>
 <sub>Meta Platform demo source code</sub><br>
-  <code>&#9733; 389 | Fork 36 | Java</code></td></tr>
+  <code>&#9733; 391 | Fork 36 | Java</code></td></tr>
 <tr><td colspan="2" valign="top"><strong><a href="https://github.com/jance-hui/update-jd-ck">jance-hui/update-jd-ck</a></strong><br>
 <sub>alook浏览器 + IOS快捷指令快速更新ck</sub><br>
   <code>&#9733; 26 | Fork 5 | Java</code></td></tr>
@@ -618,7 +618,7 @@
 <sub>No description provided.</sub><br>
   <code>&#9733; 346 | Fork 49 | Rust</code><br><sub>#search</sub></td><td width="50%" valign="top"><strong><a href="https://github.com/yynxxxxx/Codex-X">yynxxxxx/Codex-X</a></strong><br>
 <sub>OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。</sub><br>
-  <code>&#9733; 2.8K | Fork 392 | Rust</code></td></tr>
+  <code>&#9733; 2.9K | Fork 393 | Rust</code></td></tr>
 <tr><td colspan="2" valign="top"><strong><a href="https://github.com/buyi06/tgstate-rust">buyi06/tgstate-rust</a></strong><br>
 <sub>Telegram 文件/图床管理面板（FastAPI + Web UI），一键 Docker 部署，支持上传、分享、下载与删除。</sub><br>
   <code>&#9733; 145 | Fork 39 | Rust</code></td></tr>
