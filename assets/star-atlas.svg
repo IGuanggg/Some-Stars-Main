@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title description">
 <title id="title">IGuanggg Star Atlas</title>
-<desc id="description">181 starred repositories grouped across 17 languages</desc>
+<desc id="description">182 starred repositories grouped across 17 languages</desc>
 <style>
   .title { fill: #f0f6fc; font: 700 46px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: -1.5px; }
   .subtitle { fill: #8b949e; font: 400 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
@@ -14,14 +14,14 @@
 <text x="72" y="105" class="title">STAR ATLAS</text>
 <text x="72" y="143" class="subtitle">A living shelf of open-source tools, ideas, and experiments.</text>
 <g transform="translate(72 205)">
-  <text class="metric">181</text>
+  <text class="metric">182</text>
   <text y="25" class="metric-label">STARRED REPOS</text>
 </g>
 <g transform="translate(245 205)">
   <text class="metric">17</text>
   <text y="25" class="metric-label">LANGUAGES</text>
 </g>
-<text x="72" y="310" class="subtitle">Synced 2026-08-31, 12:33 Asia/Shanghai</text>
+<text x="72" y="310" class="subtitle">Synced 2026-09-01, 05:28 Asia/Shanghai</text>
 <text x="650" y="58" class="metric-label">TOP LANGUAGES</text>
 <g transform="translate(650 88)">
   <rect width="12" height="12" rx="4" fill="#58a6ff"/>
