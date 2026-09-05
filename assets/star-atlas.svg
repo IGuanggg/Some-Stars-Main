@@ -21,7 +21,7 @@
   <text class="metric">17</text>
   <text y="25" class="metric-label">LANGUAGES</text>
 </g>
-<text x="72" y="310" class="subtitle">Synced 2026-09-05, 02:58 Asia/Shanghai</text>
+<text x="72" y="310" class="subtitle">Synced 2026-09-06, 02:17 Asia/Shanghai</text>
 <text x="650" y="58" class="metric-label">TOP LANGUAGES</text>
 <g transform="translate(650 88)">
   <rect width="12" height="12" rx="4" fill="#58a6ff"/>
@@ -30,7 +30,7 @@
 </g><g transform="translate(895 88)">
   <rect width="12" height="12" rx="4" fill="#2f81f7"/>
   <text x="24" y="11" class="label">TypeScript</text>
-  <text x="215" y="11" text-anchor="end" class="value">30</text>
+  <text x="215" y="11" text-anchor="end" class="value">31</text>
 </g><g transform="translate(650 138)">
   <rect width="12" height="12" rx="4" fill="#1f6feb"/>
   <text x="24" y="11" class="label">JavaScript</text>
@@ -46,7 +46,7 @@
 </g><g transform="translate(895 188)">
   <rect width="12" height="12" rx="4" fill="#388bfd"/>
   <text x="24" y="11" class="label">Go</text>
-  <text x="215" y="11" text-anchor="end" class="value">12</text>
+  <text x="215" y="11" text-anchor="end" class="value">11</text>
 </g><g transform="translate(650 238)">
   <rect width="12" height="12" rx="4" fill="#0d419d"/>
   <text x="24" y="11" class="label">C#</text>
@@ -56,5 +56,5 @@
   <text x="24" y="11" class="label">HTML</text>
   <text x="215" y="11" text-anchor="end" class="value">6</text>
 </g>
-<rect x="650.00" y="303" width="169.64" height="18" rx="9" fill="#58a6ff"/><rect x="819.64" y="303" width="83.43" height="18" rx="9" fill="#2f81f7"/><rect x="903.08" y="303" width="50.06" height="18" rx="9" fill="#1f6feb"/><rect x="953.14" y="303" width="47.28" height="18" rx="9" fill="#1158c7"/><rect x="1000.41" y="303" width="41.72" height="18" rx="9" fill="#79c0ff"/><rect x="1042.13" y="303" width="33.37" height="18" rx="9" fill="#388bfd"/><rect x="1075.50" y="303" width="27.81" height="18" rx="9" fill="#0d419d"/><rect x="1103.31" y="303" width="16.69" height="18" rx="9" fill="#a5d6ff"/>
+<rect x="650.00" y="303" width="169.64" height="18" rx="9" fill="#58a6ff"/><rect x="819.64" y="303" width="86.21" height="18" rx="9" fill="#2f81f7"/><rect x="905.86" y="303" width="50.06" height="18" rx="9" fill="#1f6feb"/><rect x="955.92" y="303" width="47.28" height="18" rx="9" fill="#1158c7"/><rect x="1003.20" y="303" width="41.72" height="18" rx="9" fill="#79c0ff"/><rect x="1044.91" y="303" width="30.59" height="18" rx="9" fill="#388bfd"/><rect x="1075.50" y="303" width="27.81" height="18" rx="9" fill="#0d419d"/><rect x="1103.31" y="303" width="16.69" height="18" rx="9" fill="#a5d6ff"/>
 </svg>
