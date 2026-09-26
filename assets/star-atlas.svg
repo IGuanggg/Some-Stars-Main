@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title description">
 <title id="title">IGuanggg Star Atlas</title>
-<desc id="description">189 starred repositories grouped across 17 languages</desc>
+<desc id="description">188 starred repositories grouped across 17 languages</desc>
 <style>
   .title { fill: #f0f6fc; font: 700 46px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: -1.5px; }
   .subtitle { fill: #8b949e; font: 400 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
@@ -14,14 +14,14 @@
 <text x="72" y="105" class="title">STAR ATLAS</text>
 <text x="72" y="143" class="subtitle">A living shelf of open-source tools, ideas, and experiments.</text>
 <g transform="translate(72 205)">
-  <text class="metric">189</text>
+  <text class="metric">188</text>
   <text y="25" class="metric-label">STARRED REPOS</text>
 </g>
 <g transform="translate(245 205)">
   <text class="metric">17</text>
   <text y="25" class="metric-label">LANGUAGES</text>
 </g>
-<text x="72" y="310" class="subtitle">Synced 2026-09-26, 04:00 Asia/Shanghai</text>
+<text x="72" y="310" class="subtitle">Synced 2026-09-27, 03:12 Asia/Shanghai</text>
 <text x="650" y="58" class="metric-label">TOP LANGUAGES</text>
 <g transform="translate(650 88)">
   <rect width="12" height="12" rx="4" fill="#58a6ff"/>
@@ -34,7 +34,7 @@
 </g><g transform="translate(650 138)">
   <rect width="12" height="12" rx="4" fill="#1f6feb"/>
   <text x="24" y="11" class="label">JavaScript</text>
-  <text x="215" y="11" text-anchor="end" class="value">21</text>
+  <text x="215" y="11" text-anchor="end" class="value">20</text>
 </g><g transform="translate(895 138)">
   <rect width="12" height="12" rx="4" fill="#1158c7"/>
   <text x="24" y="11" class="label">miscellaneous</text>
@@ -56,5 +56,5 @@
   <text x="24" y="11" class="label">HTML</text>
   <text x="215" y="11" text-anchor="end" class="value">6</text>
 </g>
-<rect x="650.00" y="303" width="168.44" height="18" rx="9" fill="#58a6ff"/><rect x="818.44" y="303" width="86.94" height="18" rx="9" fill="#2f81f7"/><rect x="905.38" y="303" width="57.05" height="18" rx="9" fill="#1f6feb"/><rect x="962.43" y="303" width="43.47" height="18" rx="9" fill="#1158c7"/><rect x="1005.90" y="303" width="40.75" height="18" rx="9" fill="#79c0ff"/><rect x="1046.65" y="303" width="29.88" height="18" rx="9" fill="#388bfd"/><rect x="1076.53" y="303" width="27.17" height="18" rx="9" fill="#0d419d"/><rect x="1103.70" y="303" width="16.30" height="18" rx="9" fill="#a5d6ff"/>
+<rect x="650.00" y="303" width="169.42" height="18" rx="9" fill="#58a6ff"/><rect x="819.42" y="303" width="87.44" height="18" rx="9" fill="#2f81f7"/><rect x="906.86" y="303" width="54.65" height="18" rx="9" fill="#1f6feb"/><rect x="961.51" y="303" width="43.72" height="18" rx="9" fill="#1158c7"/><rect x="1005.23" y="303" width="40.99" height="18" rx="9" fill="#79c0ff"/><rect x="1046.22" y="303" width="30.06" height="18" rx="9" fill="#388bfd"/><rect x="1076.28" y="303" width="27.33" height="18" rx="9" fill="#0d419d"/><rect x="1103.60" y="303" width="16.40" height="18" rx="9" fill="#a5d6ff"/>
 </svg>
