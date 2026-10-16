@@ -21,16 +21,16 @@
   <text class="metric">17</text>
   <text y="25" class="metric-label">LANGUAGES</text>
 </g>
-<text x="72" y="310" class="subtitle">Synced 2026-10-16, 03:52 Asia/Shanghai</text>
+<text x="72" y="310" class="subtitle">Synced 2026-10-17, 03:32 Asia/Shanghai</text>
 <text x="650" y="58" class="metric-label">TOP LANGUAGES</text>
 <g transform="translate(650 88)">
   <rect width="12" height="12" rx="4" fill="#58a6ff"/>
   <text x="24" y="11" class="label">Python</text>
-  <text x="215" y="11" text-anchor="end" class="value">63</text>
+  <text x="215" y="11" text-anchor="end" class="value">64</text>
 </g><g transform="translate(895 88)">
   <rect width="12" height="12" rx="4" fill="#2f81f7"/>
   <text x="24" y="11" class="label">TypeScript</text>
-  <text x="215" y="11" text-anchor="end" class="value">33</text>
+  <text x="215" y="11" text-anchor="end" class="value">32</text>
 </g><g transform="translate(650 138)">
   <rect width="12" height="12" rx="4" fill="#1f6feb"/>
   <text x="24" y="11" class="label">JavaScript</text>
@@ -56,5 +56,5 @@
   <text x="24" y="11" class="label">HTML</text>
   <text x="215" y="11" text-anchor="end" class="value">6</text>
 </g>
-<rect x="650.00" y="303" width="170.17" height="18" rx="9" fill="#58a6ff"/><rect x="820.17" y="303" width="89.14" height="18" rx="9" fill="#2f81f7"/><rect x="909.31" y="303" width="54.02" height="18" rx="9" fill="#1f6feb"/><rect x="963.33" y="303" width="43.22" height="18" rx="9" fill="#1158c7"/><rect x="1006.55" y="303" width="40.52" height="18" rx="9" fill="#79c0ff"/><rect x="1047.07" y="303" width="29.71" height="18" rx="9" fill="#388bfd"/><rect x="1076.78" y="303" width="27.01" height="18" rx="9" fill="#0d419d"/><rect x="1103.79" y="303" width="16.21" height="18" rx="9" fill="#a5d6ff"/>
+<rect x="650.00" y="303" width="172.87" height="18" rx="9" fill="#58a6ff"/><rect x="822.87" y="303" width="86.44" height="18" rx="9" fill="#2f81f7"/><rect x="909.31" y="303" width="54.02" height="18" rx="9" fill="#1f6feb"/><rect x="963.33" y="303" width="43.22" height="18" rx="9" fill="#1158c7"/><rect x="1006.55" y="303" width="40.52" height="18" rx="9" fill="#79c0ff"/><rect x="1047.07" y="303" width="29.71" height="18" rx="9" fill="#388bfd"/><rect x="1076.78" y="303" width="27.01" height="18" rx="9" fill="#0d419d"/><rect x="1103.79" y="303" width="16.21" height="18" rx="9" fill="#a5d6ff"/>
 </svg>
