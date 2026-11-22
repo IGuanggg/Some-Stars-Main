@@ -21,12 +21,12 @@
   <text class="metric">16</text>
   <text y="25" class="metric-label">LANGUAGES</text>
 </g>
-<text x="72" y="310" class="subtitle">Synced 2026-11-22, 05:38 Asia/Shanghai</text>
+<text x="72" y="310" class="subtitle">Synced 2026-11-23, 05:44 Asia/Shanghai</text>
 <text x="650" y="58" class="metric-label">TOP LANGUAGES</text>
 <g transform="translate(650 88)">
   <rect width="12" height="12" rx="4" fill="#58a6ff"/>
   <text x="24" y="11" class="label">Python</text>
-  <text x="215" y="11" text-anchor="end" class="value">62</text>
+  <text x="215" y="11" text-anchor="end" class="value">61</text>
 </g><g transform="translate(895 88)">
   <rect width="12" height="12" rx="4" fill="#2f81f7"/>
   <text x="24" y="11" class="label">TypeScript</text>
@@ -34,7 +34,7 @@
 </g><g transform="translate(650 138)">
   <rect width="12" height="12" rx="4" fill="#1f6feb"/>
   <text x="24" y="11" class="label">JavaScript</text>
-  <text x="215" y="11" text-anchor="end" class="value">23</text>
+  <text x="215" y="11" text-anchor="end" class="value">24</text>
 </g><g transform="translate(895 138)">
   <rect width="12" height="12" rx="4" fill="#1158c7"/>
   <text x="24" y="11" class="label">miscellaneous</text>
@@ -56,5 +56,5 @@
   <text x="24" y="11" class="label">HTML</text>
   <text x="215" y="11" text-anchor="end" class="value">6</text>
 </g>
-<rect x="650.00" y="303" width="160.99" height="18" rx="9" fill="#58a6ff"/><rect x="810.99" y="303" width="90.88" height="18" rx="9" fill="#2f81f7"/><rect x="901.88" y="303" width="59.72" height="18" rx="9" fill="#1f6feb"/><rect x="961.60" y="303" width="44.14" height="18" rx="9" fill="#1158c7"/><rect x="1005.75" y="303" width="41.55" height="18" rx="9" fill="#79c0ff"/><rect x="1047.29" y="303" width="31.16" height="18" rx="9" fill="#388bfd"/><rect x="1078.45" y="303" width="25.97" height="18" rx="9" fill="#0d419d"/><rect x="1104.42" y="303" width="15.58" height="18" rx="9" fill="#a5d6ff"/>
+<rect x="650.00" y="303" width="158.40" height="18" rx="9" fill="#58a6ff"/><rect x="808.40" y="303" width="90.88" height="18" rx="9" fill="#2f81f7"/><rect x="899.28" y="303" width="62.32" height="18" rx="9" fill="#1f6feb"/><rect x="961.60" y="303" width="44.14" height="18" rx="9" fill="#1158c7"/><rect x="1005.75" y="303" width="41.55" height="18" rx="9" fill="#79c0ff"/><rect x="1047.29" y="303" width="31.16" height="18" rx="9" fill="#388bfd"/><rect x="1078.45" y="303" width="25.97" height="18" rx="9" fill="#0d419d"/><rect x="1104.42" y="303" width="15.58" height="18" rx="9" fill="#a5d6ff"/>
 </svg>
